@@ -2,14 +2,14 @@
 
 Hello,
 
-Welcome to the Arduino forum. This version of the forum instructions builds on [how to get the most out of this forum (short version)](https://forum.arduino.cc/index.php?topic=712199.0) and provides more detail to help you get the best out of this forum and your project.
+Welcome to the Arduino forum. This version of the forum instructions builds on [how to get the most out of this forum (short version)](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum-short-version/681308) and provides more detail to help you get the best out of this forum and your project.
 
 Those of us who answer questions on here want to help you but to do that we need certain information. Without the correct information it is difficult or impossible to give you the help and advice you need. The advice here is to help you provide us with enough information and detail about your project and your problem to enable us to give you a helpful, useful and most importantly friendly answer.
 
 Being new here you might think this is having rules for the sake of rules, but that is not the case. If you don’t follow the guidelines all that happens is there is a long exchange of message while we try to get you to tell us what we need in order to help you, this is frustrating for you and frustrating for us.
 
 **Preferred language**
-[If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/index.php?topic=710769.msg4775486#msg4775486)
+[If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/c/international/10)
 
 **Below are some things we need which are often missed by people posting for the first time**
 
@@ -22,7 +22,7 @@ We need to know exactly what hardware you have. You can get support here for bot
 If you are using something that is a non-Arduino product then it helps to have a link to its technical data sheet or a link to where you bought it. Don't assume we know all about whatever it is you have, there are far more things you can get help with than any one person could possibly know all about. The more details we have the easier it is to help.
 
 **Code problems:**
-We can only find problems in code we can see. Please supply your complete code in code tags </> [More about posting code and using code tags.](https://forum.arduino.cc/index.php?topic=710769.msg4775509#msg4775509). If you are using Arduino Create then you can post a link to your project (but keep in mind that not everyone uses Arduino Create).
+We can only find problems in code we can see. Please supply your complete code in code tags </> [More about posting code and using code tags.](#posting-code). If you are using Arduino Create then you can post a link to your project (but keep in mind that not everyone uses Arduino Create).
 
 Posting a snippet of code is generally useless. The problem is usually in another part of the program.
 
@@ -34,13 +34,13 @@ Using code tags makes the code easier to read and easy to copy. Not using code t
 Please don't post an image of code instead of the code itself, or an image of error messages instead of the error messages themselves.
 
 It is very important to be clear about what is expected from code and what happens instead. Code ALWAYS works, that is the nature of code. Whether it does what you expect is a different thing altogether. We need to know what you expected the code to do and what happened instead.
-[More about posting code and common code problems.](https://forum.arduino.cc/index.php?topic=710769.msg4775509#msg4775509)
+[More about posting code and common code problems.](#posting-code)
 
 **Schematics:**
 The language of electronics is a schematic or circuit diagram. Long descriptions of what is connected to what are generally useless. A schematic is a drawing of what connects to what, please make one and photograph it. We don't mind if it's hand drawn, scruffy and does not use the correct symbols. Please don't post Fritzing diagrams. They may look nice but they are very easy to misinterpret
 
 If you want to use computer software to create a schematic then you might like to try either [Eagle](https://www.autodesk.co.uk/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) or [KiCad](https://kicad-pcb.org/).
-[More about creating a schematic for your project.](https://forum.arduino.cc/index.php?topic=705669.0)
+[More about creating a schematic for your project.](https://forum.arduino.cc/t/how-to-make-a-schematic-you-can-post/675103)
 
 **General:**
 Please try to avoid posting links to other sites where code or photos or schematics are hosted. Most of us will not follow such links, partly because of the risk that they hold malware or other unwanted content, partly to maintain everything on this site for the benefit of future users looking for an answer to a similar question and partly because we feel that if you want our help you should provide everything we need on this site not expect us to go hunting elsewhere for it.
@@ -67,15 +67,17 @@ We only know about you what you tell us; we need to know your level of experienc
 There is more information in the replies below.
 
 **Making your first post**
-[Now please go to the forum index, select the right section and make your first post.](https://forum.arduino.cc/index.php#c2)
+[Now please go to the forum index, select the right section and make your first post.](https://forum.arduino.cc/categories)
 
 Thank you.
 
 **Credits**
-Much of this tutorial has been inspired by or copied from the original forum instructions created by [Nick Gammon](https://forum.arduino.cc/index.php?action=profile;u=36095).
-My thanks to [Ballscrewbob](https://forum.arduino.cc/index.php?action=profile;u=261482), [Robin 2](https://forum.arduino.cc/index.php?action=profile;u=174714) and [Idahowalker](https://forum.arduino.cc/index.php?action=profile;u=947963) all of whom have provided a great deal of support and feedback, without which this tutorial would contain far more errors than it does and would be a lot less clear than it is.
+Much of this tutorial has been inspired by or copied from the original forum instructions created by [Nick Gammon](https://forum.arduino.cc/u/nickgammon).
+My thanks to [Ballscrewbob](https://forum.arduino.cc/u/ballscrewbob), [Robin 2](https://forum.arduino.cc/u/robin2) and [Idahowalker](https://forum.arduino.cc/u/idahowalker) all of whom have provided a great deal of support and feedback, without which this tutorial would contain far more errors than it does and would be a lot less clear than it is.
 
-## Making your first post
+## [Making your first post](#first-post)
+
+<a name="first-post"></a>
 
 **Choosing the right section**
 It is important to choose the right section and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every section so please take your time and post in a section related to your question. If English is not your preferred language please post in the section for your language. If your language is not shown the please use Google translate and post in the English section in English.
@@ -83,30 +85,30 @@ It is important to choose the right section and the right language so that the p
 **There are English language sections for a variety of possible kinds of problems.**
 Please only post in English in the English language sections.
 
-![Forum sections English.jpg|1209x887](//discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/1/9/199b8d1f98b4f9ab9809f3a0139d7bf8babef43f.jpg)
+![Forum sections English.jpg|1209x887](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/1/9/199b8d1f98b4f9ab9809f3a0139d7bf8babef43f.jpg)
 
 **If English is not your preferred language then scroll down and choose from one of the other language sections.**
 
-- [中文 (Chinese)](https://forum.arduino.cc/index.php?board=99.0)
-- [Deutsch - German](https://forum.arduino.cc/index.php?board=31.0)
-- [Español - Spanish](https://forum.arduino.cc/index.php?board=32.0)
-- [Français - French](https://forum.arduino.cc/index.php?board=33.0)
-- [অসমীয়া, বাংলা, बड़ो - India](https://forum.arduino.cc/index.php?board=82.0)
-- [Italiano - Italian](https://forum.arduino.cc/index.php?board=34.0)
-- [Nederlands - Dutch](https://forum.arduino.cc/index.php?board=77.0)
-- [Portugues - Portuguese](https://forum.arduino.cc/index.php?board=35.0)
-- [Россия - Russia](https://forum.arduino.cc/index.php?board=120.0)
-- [Scandinavia Swedish, Suomi - Finnish, Norsk - Norwegian](https://forum.arduino.cc/index.php?board=36.0)
+- [中文 (Chinese)](https://forum.arduino.cc/c/international/chinese/75)
+- [Deutsch - German](https://forum.arduino.cc/c/international/deutsch/47)
+- [Español - Spanish](https://forum.arduino.cc/c/international/espanol/48)
+- [Français - French](https://forum.arduino.cc/c/international/francais/49)
+- [অসমীয়া, বাংলা, बड़ो - India](https://forum.arduino.cc/c/international/india/62)
+- [Italiano - Italian](https://forum.arduino.cc/c/international/italiano/50)
+- [Nederlands - Dutch](https://forum.arduino.cc/c/international/nederlands/61)
+- [Portugues - Portuguese](https://forum.arduino.cc/c/international/portugues/51)
+- [Россия - Russia](https://forum.arduino.cc/c/international/russia/82)
+- [Scandinavia Swedish, Suomi - Finnish, Norsk - Norwegian](https://forum.arduino.cc/c/international/scandinavia/52)
 
 **Making a post**
 
 Once you have found the right section you can start your post. Click on NEW TOPIC
 
-![Starting a new topic.jpg|687x214](//discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/0/1/017e0c65ee397595b5bae2753cd61c55260d39a2.jpg)
+![Starting a new topic.jpg|687x214](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/0/1/017e0c65ee397595b5bae2753cd61c55260d39a2.jpg)
 
 **And enter a subject and a description of your problem**
 
-![New topic posted.jpg|1617x969](//discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/6/c/6c62e0416d48f6d5d7181528d50cd72b4144ce1d.jpg)
+![New topic posted.jpg|1617x969](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/6/c/6c62e0416d48f6d5d7181528d50cd72b4144ce1d.jpg)
 
 Don't forget to include code in code tags </> and a schematic of your circuit.
 
@@ -114,11 +116,13 @@ You can use the **PREVIEW** button to check you are happy with your post before 
 
 **When you are happy with your post click on POST to post it.**
 
-![New topic create.jpg|614x525](//discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/5/f/5fd87f5ea3853a8f5d027a3f5ce78c2881427668.jpg)
+![New topic create.jpg|614x525](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/5/f/5fd87f5ea3853a8f5d027a3f5ce78c2881427668.jpg)
 
 That's your first post completed.
 
-## Posting code and common code problems
+## [Posting code and common code problems](#posting-code)
+
+<a name="posting-code"></a>
 
 Without your code, **all** your code, we cannot provide any answers about your code, other than the most vague and probably unhelpful of answers. One of the frustrating things about writing code is that a mistake in one place can produce an error in what seems like a completely different, unrelated place. This is a nightmare if you are new to writing code, but often easy to spot for anyone who is experienced in looking for such problems. It is for this reason we want **all** your code, not just the bit with the error or the bit you think is causing the problem.
 
@@ -174,7 +178,9 @@ Only posting the part of the code you think has the problem. Often code problems
 
 It is essential that every opening bracket has a corresponding closing bracket so you should check that every { has a corresponding }, every ( has a corresponding ) and every [ has a corresponding ] before you post your code. In the IDE if you place your cursor next to any bracket of any kind the IDE will draw a rectangle round its partner, if there's no corresponding bracket, or there is a corresponding bracket but it's not the one you expected then you have found your problem. Also, if you use Auto Format (Tools > Auto Format or Ctrl-T) your code will be tidied up and missing brackets of all kinds should be come a lot easier to see.
 
-## Forum rules and [netiquette](https://www.webroot.com/ca/en/resources/tips-articles/netiquette-and-online-ethics-what-are-they)
+## [Forum rules](#forum-rules) and [netiquette](https://www.webroot.com/ca/en/resources/tips-articles/netiquette-and-online-ethics-what-are-they)
+
+<a name="forum-rules"></a>
 
 The instructions above are to help you make a successful post, 'successful' meaning you get a useful and satisfactory answer to your question. In order to keep the forum working smoothly there are some rules that apply to everyone, breaches of which can lead to suspension or being removed from the forum altogether. Here are the forum rules.
 
@@ -216,7 +222,7 @@ Those of us who answer questions on here are doing so for free, out of community
 It also helps if you go back to your original post and add something like [resolved] to the title when you have got an answer you are happy with.
 
 **Credit:**
-Much of the advice about forum rules has been taken almost word for word from [Nick Gammon's](https://forum.arduino.cc/index.php?action=profile;u=36095) original forum instructions.
+Much of the advice about forum rules has been taken almost word for word from [Nick Gammon's](https://forum.arduino.cc/u/nickgammon) original forum instructions.
 
 **Feedback**
-[Please provide any feedback or comments here](https://forum.arduino.cc/index.php?topic=711572.new#new)
+[Please provide any feedback or comments here](https://forum.arduino.cc/t/new-forum-instructions-feedback-and-comments/680710)
