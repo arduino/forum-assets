@@ -48,7 +48,7 @@ Please try to avoid posting links to other sites where code or photos or schemat
 TYPING IN ALL UPPER CASE is considered to be SHOUTING. It won't get you an answer any quicker, it will just annoy people.
 
 **Research**
-Please do some research before posting. Most beginner problems have already been dealt with on the Forum so please use the [forum search tool](https://www.arduino.cc/search?tab=forum&q) and the [Arduino Help Centre](https://support.arduino.cc/hc/en-us) to try and find an answer to your question. You can also use your favourite search engine to find answers too.
+Please do some research before posting. Most beginner problems have already been dealt with on the Forum so please use the [forum search tool](https://www.arduino.cc/search?tab=forum&q) and the [Arduino Help Center](https://support.arduino.cc/hc/en-us) to try and find an answer to your question. You can also use your favorite search engine to find answers too.
 
 **Be specific:**
 Please ask a specific question about the problem you are having so we can provide a clear, specific answer.
@@ -196,7 +196,7 @@ You might see an existing question similar to the one you want to ask and think 
 Don't bump your thread after an hour. Because of the different time-zones the person who knows the answer may be asleep, or away for the day or maybe on holiday (we do have holidays!). Maybe after a couple of days but even then think about whether you have provided enough information and asked a question that can be answered. You could even ask us 'what else can I provide in order to get some help?'.
 
 **People are trying to help**
-If someone asks for more details, they are probably trying to visualise what you are attempting to do. Don't fob them off with responses like "that's irrelevant". Do remember that just as you might feel you don't have to provide this or that piece of information we do not have to provide help. We like to see schematics and reasonable quality photos of your project, as well as your properly posted code. The more detail about your project, the better the help you will get.
+If someone asks for more details, they are probably trying to visualize what you are attempting to do. Don't fob them off with responses like "that's irrelevant". Do remember that just as you might feel you don't have to provide this or that piece of information we do not have to provide help. We like to see schematics and reasonable quality photos of your project, as well as your properly posted code. The more detail about your project, the better the help you will get.
 
 **Getting help from a particular person**
 You might have read answers from a particular person and think that person would be the best person to help you. You can bring your question to someone's attention by using @ followed by their username, for example @username. If you do this they will get a notification. Please do not send a PM (private message) to someone you don't know asking a question; most will ignore you, some will reply suggesting you post on the forum.

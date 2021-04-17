@@ -49,7 +49,7 @@ Please try to avoid posting links to other sites where code or photos or schemat
 TYPING IN ALL UPPER CASE is considered to be SHOUTING. It won't get you an answer any quicker, it will just annoy people.
 
 **Research**
-Please do some research before posting. Most beginner problems have already been dealt with on the Forum so please use the [forum search tool](https://forum.arduino.cc/search) and the [Arduino help centre](https://support.arduino.cc/hc/en-us) to try and find an answer to your question. You can also use your favourite search engine to find answers too.
+Please do some research before posting. Most beginner problems have already been dealt with on the Forum so please use the [forum search tool](https://forum.arduino.cc/search) and the [Arduino help center](https://support.arduino.cc/hc/en-us) to try and find an answer to your question. You can also use your favorite search engine to find answers too.
 
 **Be specific:**
 Please ask a specific question about the problem you are having so we can provide a clear, specific answer.
