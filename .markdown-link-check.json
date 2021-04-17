@@ -1,4 +1,18 @@
 {
+  "ignorePatterns": [
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/review$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moderator-instructions/630548$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/draft-proposal-for-moderator-documentation/623114$"
+    }
+  ],
   "retryOn429": true,
   "retryCount": 3,
   "aliveStatusCodes": [200, 206]
