@@ -1,1 +1,3 @@
-This repo is intended as a bug tracker only for forum.arduino.cc from the community.
+# Arduino Forum Documentation
+
+This repository is used for the development of documentation content for the [Arduino Forum](https://forum.arduino.cc).
