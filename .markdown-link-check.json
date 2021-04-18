@@ -1,7 +1,13 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
+      "pattern": "^/"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/c/staff/moderation/60$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/faq-guidelines/5$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/review$"
