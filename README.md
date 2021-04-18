@@ -1,3 +1,3 @@
 # Arduino Forum Documentation
 
-This repository is used for the development of documentation content for the [Arduino Forum](https://forum.arduino.cc).
+This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) sticky topics.
