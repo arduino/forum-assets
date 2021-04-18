@@ -1,3 +1,4 @@
 # See: https://github.com/igorshubovych/markdownlint-cli#ignoring-files
 
+/faq-guidelines/faq-guidelines.md
 /loop-back-test-instructions/loop-back-test-instructions.md
