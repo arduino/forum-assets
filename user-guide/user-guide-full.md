@@ -222,7 +222,7 @@ Those of us who answer questions on here are doing so for free, out of community
 It also helps if you go back to your original post and add something like [resolved] to the title when you have got an answer you are happy with.
 
 **Credit:**
-Much of the advice about forum rules has been taken almost word for word from [Nick Gammon's](https://forum.arduino.cc/u/nickgammon) original forum instructions.
+Much of the advice about forum rules has been taken almost word for word from [Nick Gammon's](https://forum.arduino.cc/t/how-to-use-this-forum-please-read/145337) original forum instructions.
 
 **Feedback**
 [Please provide any feedback or comments here](https://forum.arduino.cc/t/new-forum-instructions-feedback-and-comments/680710)
