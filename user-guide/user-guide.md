@@ -10,7 +10,7 @@ The people who try to help with your project are volunteers doing this for free 
 Without the correct information it is difficult or impossible to give you the help you need and all that happens is a long exchange of messages while we try to get the information we need to help you. This is frustrating for you and for us.
 
 **Preferred language**
-[If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum-full-version/679966#first-post)
+[If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/c/international/10)
 
 **Below are some things we need which are often missed by people posting for the first time**
 
