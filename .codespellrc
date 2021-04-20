@@ -5,4 +5,4 @@ ignore-words-list = portugues
 builtin = clear,informal,en-GB_to_en-US
 check-filenames =
 check-hidden =
-skip = ./.git
+skip = ./.git,./loop-back-test-instructions/loop-back-test-instructions.md
