@@ -1,4 +1,4 @@
-# Arduino Forum User Guide
+# How to get the best out of this forum
 
 ## Sources
 
