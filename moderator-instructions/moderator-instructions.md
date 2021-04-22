@@ -179,15 +179,38 @@ Forum users may assist the moderators by reporting inappropriate posts. A list o
 
 ---
 
-<a name="unlock"></a>
+<a name="reopen-auto-closed-topic"></a>
 
-### [Unlock topic](#unlock)
+### [Reopen auto-closed topic](#reopen-auto-closed-topic)
 
-If 120 days have passed since the last reply to a topic, it is locked and non-moderators are unable to reply. Forum members are allowed to request topics be unlocked via the "Report to moderator" functionality. When this happens, a moderator should comment on the locked topic:
+When four months have passed since the last reply to a topic, it is automatically closed and non-staff forum users are prevented from replying. Forum users may request topics be unlocked by raising a "Something Else" flag against the topic.
 
-> Commenting to unlock topic at the request of a forum member.
+When a reopen request flag is received, it should be reviewed to determine whether reopening the topic would be appropriate.
 
-The reply is required because clicking the "Unlock Topic" button will not unlock the topic in this case. This reply will unlock the topic for another 120 days.
+#### If reopening is appropriate
+
+1. Click the topic title at the top of the flag message to open the topic in question.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**:unlock: Open Topic**".
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
+1. Click the <kbd>**Reply**</kbd> button.
+1. Add a message to inform the flagger that the topic was opened:
+   > The topic has now been reopened.
+1. Click the <kbd>**:email: Message**</kbd> button.
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**Ignore**</kbd> button on the flag message.
+   **Note:** the <kbd>**:+1: Agree...**</kbd> button should not be used because this would result in an unwarranted strike against the topic author.
+
+#### If reopening is not appropriate
+
+1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
+1. Click the <kbd>**Reply**</kbd> button.
+1. Add a message to inform the flagger that the topic will not be reopened:
+   > We have decided to leave the topic closed. Please [create a new topic](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966#first-post).
+1. Click the <kbd>**:email: Message**</kbd> button.
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**:-1: Disagree**</kbd> button.
 
 ---
 
