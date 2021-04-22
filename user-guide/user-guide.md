@@ -32,7 +32,7 @@ Posting a snippet of code is generally useless. The problem is usually in anothe
 Before posting code please use Tools / auto format at the top of the IDE. It makes the code much easier to read and you will probably find it very helpful yourself. Once you've done that use edit / copy for forum.
 
 Always use code tags (**`</>`**) when posting code or compiler error messages.
-Using code tags makes the code easier to read and easy to copy. Not using code tags means some of the code gets displayed with smiley faces and other stuff that should not be there. Be aware that there is a limit of 9000 characters for a post and if your code takes you above this limit then you can add your .ino file as an attachment. However it will be much easier to help you if you can write a short program that illustrates the problem you are having and post that.
+Using code tags makes the code easier to read and easy to copy. Not using code tags means some of the code gets displayed with smiley faces and other stuff that should not be there. Be aware that there is a limit of 120000 characters for a post and if your code takes you above this limit then you can add your .ino file as an attachment. However it will be much easier to help you if you can write a short program that illustrates the problem you are having and post that.
 
 Please don't post an image of code instead of the code itself, or an image of error messages instead of the error messages themselves.
 
@@ -173,7 +173,7 @@ There's more than one way to add code tags, you can:
 - Paste your code in the box where you are editing your post, select all the code and click on **`</>`**.
 - In the Arduino IDE under the 'edit' menu there is 'copy for forum', this puts your code on the clipboard with code tags added ready to paste into your question.
 
-The forum has a limit of 9000 characters per post, which means that you can't post a program longer than this directly. In this case you can attach the ino file to your post or, if you are using Arduino Create, you can post a link to your project.
+The forum has a limit of 120000 characters per post, which means that you can't post a program longer than this directly. In this case you can attach the ino file to your post or, if you are using Arduino Create, you can post a link to your project.
 
 However, consider that the longer your program the harder it is for anyone to understand it and help you, for this reason consider writing a short program that illustrates the problem and post or link to that instead. You are more likely to get help with a short, easy to understand program than with a long, complicated one. For more about this see [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
 
