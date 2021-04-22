@@ -4,8 +4,6 @@ These are instructions for common moderation actions.
 
 For general moderation guidelines, see the ["Moderator Guidelines" topic](https://forum.arduino.cc/t/moderation-guidelines/54905).
 
-Note that the forum has a very confusing style of dialogs where the description of a checkbox or radio button is located underneath, rather than to the right or above, as would be expected. This can make it easy to get confused about which description is associated with which button.
-
 ---
 
 ### [Delete spam](#delete-spam)
