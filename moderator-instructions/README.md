@@ -1,4 +1,4 @@
-# Arduino Forum Moderator Instructions
+# Moderator Instructions
 
 ## Source
 
