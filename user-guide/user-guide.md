@@ -66,7 +66,7 @@ Please also remember we are volunteers doing this for free in our spare time and
 We only know about you and your project what you tell us. If you tell us your level of experience with electronics or micro-controllers, we can tailor our answer to your level of knowledge. We also don't know if you have problems with English or language or communications in general unless you tell us. We can be sympathetic about things we know about, but if you don't tell us we don't know.
 
 **More information:**
-There is more information in the replies below.
+There is more information below.
 
 **Making your first post:**
 Now please go to the [forum index](https://forum.arduino.cc/categories), select the right section and make your first post.
@@ -83,7 +83,7 @@ It is important to choose the right section and the right language so that the p
 **There are English language sections for a variety of possible kinds of problems.**
 Please only post in English in the English language sections.
 
-![Forum sections English.jpg|1209x887](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/1/9/199b8d1f98b4f9ab9809f3a0139d7bf8babef43f.jpg)
+![Forum sections English](img/categories.png)
 
 **If English is not your preferred language then scroll down and choose from one of the other language sections.**
 
@@ -100,21 +100,21 @@ Please only post in English in the English language sections.
 
 **Making a post**
 
-Once you have found the right section you can start your post. Click on NEW TOPIC
+Once you have found the right section you can start your post. Click on New Topic
 
-![Starting a new topic.jpg|687x214](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/0/1/017e0c65ee397595b5bae2753cd61c55260d39a2.jpg)
+![Starting a new topic](img/new-topic.png)
 
-**And enter a subject and a description of your problem**
+**And enter a title and a description of your problem**
 
-![New topic posted.jpg|1617x969](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/6/c/6c62e0416d48f6d5d7181528d50cd72b4144ce1d.jpg)
+![Compose topic](img/compose-topic.png)
 
 Don't forget to include code in code tags </> and a schematic of your circuit.
 
-You can use the **PREVIEW** button to check you are happy with your post before actually posting or the **SAVE DRAFT** button to save and return to it later.
+For your first two posts, the right hand side of the post composer pane will show a welcome message. Once you have closed that message, you will see a preview of how your post will look once you have submitted it.
 
-**When you are happy with your post click on POST to post it.**
+**When you are happy with your post click on + Create Topic to post it.**
 
-![New topic create.jpg|614x525](https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/arduino/original/3X/5/f/5fd87f5ea3853a8f5d027a3f5ce78c2881427668.jpg)
+![Create topic](img/create-topic.png)
 
 That's your first post completed.
 
@@ -127,32 +127,44 @@ Without your code, **all** your code, we cannot provide any answers about your c
 Code should be be in code tags, these are the </> in the tool bar above where you edit your post, and correctly formatted, like this:
 
 ```
-int a = 3;
+char message[][4] = { "hi", "bye" };
+
 void setup() {
-  // put your setup code here, to run once:
+  //Serial.begin() configures the serial port
+  Serial.begin(9600);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  if (a < 8) {
-  // Do stuff
-  }
+  for (byte x = 0; x < 2; x++) {
+    Serial.println(message[x]);
+    delay(1000);
+  }
 }
 ```
 
 If you don't use code tags then it ends up like this:
 
-int a = 3;
+---
+
+<!-- prettier-ignore-start -->
+
+char message[][4] = { "hi", "bye" };  // <---- There's a box now
+
 void setup() {
-// put your setup code here, to run once:
+  //Serial.begin() configures the serial port // <---- Some strange link
+  Serial.begin(9600); // <---- Indentation lost
 }
 
 void loop() {
-// put your main code here, to run repeatedly:
-if (a < 8) { // <-----------< Where did he come from?
-// Do stuff
+  for (byte x = 0; x < 2; x++) {
+    Serial.println(message[x]); // <---- There's a checkbox
+    delay(1000);
+  }
 }
-}
+
+<!-- prettier-ignore-end -->
+
+---
 
 Before copying your code for the forum look in Tools on the menu bar of the IDE and select auto format. This will format the code correctly. If you prefer Ctrl+T will do the same thing. Once formatted you can copy and paste your code with code tags:
 
@@ -202,9 +214,6 @@ One thing really guaranteed to ensure you don't get help is to tell us you can't
 **Ready written code**
 Ready written code for every possible application does not exist, including for your application. Asking for the code for what you are trying to do will not get you anywhere, other than possibly some annoyed replies. You either have to write your own, which we are here to help with when you get stuck, or you can pay for someone else to write it for you. If you want someone to write code for you the place to ask is 'gigs and collaborations'. If you neither want to learn to write code yourself nor pay someone else to do it for you then this is probably not the right place for you.
 
-**Keep your signature short**
-A signature should be preferably one line, and relevant. A signature that links to some unrelated-looking site (like football competitions) is likely to get you banned as a spammer.
-
 **Be polite**
 A little courtesy and politeness goes a long way. Even if you think a question has been asked before, or you don't see the point of it, try to answer politely. Remember a lot of the posters with high post counts see the same questions every day, and they may get a bit terse if you appear not to have tried very hard to help yourself in the first place. You will find that if you respond in a friendly way, people will stick with you and you will almost certainly get your problem solved. Personal insults, rudeness and offensive language are not acceptable and will result in a ban. Stick to the topic.
 
@@ -212,9 +221,9 @@ A little courtesy and politeness goes a long way. Even if you think a question h
 We get a lot of questions from students wanting help with their homework. Such questions are generally one of 2 kinds: Questions by students who are obviously making a real effort but have got stuck; these get helpful answers, and questions from students who are obviously not making any effort at all and just want someone to do their homework for them; these usually get a lecture. By all means post homework questions when you are stuck, but make sure you've put some effort in first.
 
 **Thank people who help you**
-Those of us who answer questions on here are doing so for free, out of community spirit, please thank people who provide helpful answers and don't forget to give Karma as well.
+Those of us who answer questions on here are doing so for free, out of community spirit, please thank people who provide helpful answers and don't forget to give :heart:s as well.
 
-It also helps if you go back to your original post and add something like [resolved] to the title when you have got an answer you are happy with.
+It also helps if you click the **☑ Solution** button at the bottom of the reply that answered your question. This will make it easy for helpers to see that it is solved and for others with the same question to find the answer quickly.
 
 **Credits**
 Much of this tutorial has been inspired by or copied from the original forum instructions created by [Nick Gammon](https://forum.arduino.cc/u/nickgammon).
