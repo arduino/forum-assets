@@ -3,7 +3,7 @@
 Hello,
 
 Welcome to the Arduino forum.
-If you are making your first post you will have been re-directed here where we explain how to get the best out of this forum, please read and follow the instructions below.
+This guide explains how to get the best out of this forum, please read and follow the instructions below.
 
 Being new here you might think this is having rules for the sake of rules, but that is not the case. If you don’t follow the guidelines all that happens is there is a long exchange of message while we try to get you to tell us what we need in order to help you, this is frustrating for you and frustrating for us.
 
