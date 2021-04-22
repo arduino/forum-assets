@@ -7,6 +7,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/staff/moderation/60$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/about-user-account-deletion-and-user-content-deletion/627095$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/faq-guidelines/5$"
     },
     {
