@@ -9,7 +9,7 @@ Being new here you might think this is having rules for the sake of rules, but t
 
 The people who try to help with your project are volunteers doing this for free in their spare time. If you follow these guidelines it helps us to help you and get your project working quickly.
 
-Without the correct information it is difficult or impossible to give you the help you need and all that happens is a long exchange of messages while we try to get the information we need to help you. This is frustrating for you and for us.
+Without the correct information it is difficult or impossible to give you the help you need.
 
 **Preferred language**
 [If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/c/international/10)
@@ -166,7 +166,7 @@ The forum has a limit of 9000 characters per post, which means that you can't po
 However, consider that the longer your program the harder it is for anyone to understand it and help you, for this reason consider writing a short program that illustrates the problem and post or link to that instead. You are more likely to get help with a short, easy to understand program than with a long, complicated one. For more about this see [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
 
 **Error messages**
-When you compile your code the IDE will check for certain problems with the code and generate error messages to indicate any problems it finds. If this happens then we need to see the error messages as well as the complete code, as the error messages offer clues to what the problem is, often the error messages indicate exactly what the problem is if you understand how to read them. If you have error messages then in the bottom right hand corner of the IDE there will be a button '**Copy error messages**'. Click the button and paste the result into your question, don't forget to add the code tags.
+When you compile your code the IDE will check for certain problems with the code and generate error messages to indicate any problems it finds. If this happens then we need to see the error messages as well as the complete code, as the error messages offer clues to what the problem is. If you have error messages then in the bottom right hand corner of the IDE there will be a button '**Copy error messages**'. Click the button and paste the result into your question, don't forget to add the code tags.
 
 **Common mistakes with code and posting code**
 
@@ -180,24 +180,21 @@ It is essential that every opening bracket has a corresponding closing bracket s
 
 <a name="forum-rules"></a>
 
-The instructions above are to help you make a successful post, 'successful' meaning you get a useful and satisfactory answer to your question. In order to keep the forum working smoothly there are some rules that apply to everyone, breaches of which can lead to suspension or being removed from the forum altogether. Here are the forum rules.
+The instructions above are to help you make a successful post, 'successful' meaning you get a useful and satisfactory answer to your question. In order to keep the forum working smoothly there are some rules that apply to everyone, breaches of which can lead to suspension or being removed from the forum altogether.
 
 **Only ask your question once, in one section of the forum**
-We know you are anxious to get an answer to your problem, but re-posting the same question to multiple sections of the forum causes duplicate effort, and divides the focus on your problem. You'll get a better answer if everyone can discuss it in one place. Asking the same question multiple times is called cross-posting. Cross-posting is very annoying to people trying to help you. If you cross post the moderators will delete your extra posts, and you will get a warning. Save all the hassle, and just post the question once and be sure to post in a relevant section of the forum. It will be noticed.
+We know you are anxious to get an answer to your problem, but re-posting the same question to multiple sections of the forum causes duplicate effort, and divides the focus on your problem. You'll get a better answer if everyone can discuss it in one place. Asking the same question multiple times is called cross-posting. Cross-posting is very annoying to people trying to help you. If you cross post the moderators will delete your extra posts, and you will get a warning. Save all the hassle, and just post the question once. It will be noticed.
 
 If you aren't sure what section to post in (Programming Questions, Electronics, etc.) make a guess. Don't cross post "just in case".
 
 **Start a new question, don't hijack an existing question**
-You might see an existing question similar to the one you want to ask and think about tagging your question on the end. Please don't do this; if the existing question is just what you were looking for and the answer helps you then there is no need, otherwise the existing question isn't what you were looking for and you should post a new question. There's no harm including a link back to the existing discussion if you think there's some relevance and there's no harm in including some thanks at the end of the existing discussion if you find it helps you. Don't forget to give some Karma too.
+You might see an existing question similar to the one you want to ask and think about tagging your question on the end. Please don't do this; if the existing question is just what you were looking for and the answer helps you then there is no need, otherwise the existing question isn't what you were looking for and you should post a new question. There's no harm including a link back to the existing discussion if you think there's some relevance.
 
 **Don't bump!**
-Don't bump your thread after an hour. Because of the different time-zones the person who knows the answer may be asleep, or away for the day or maybe on holiday (we do have holidays!). Maybe after a couple of days but even then think about whether you have provided enough information and asked a question that can be answered. You could even ask us 'what else can I provide in order to get some help?'.
-
-**People are trying to help**
-If someone asks for more details, they are probably trying to visualize what you are attempting to do. Don't fob them off with responses like "that's irrelevant". Do remember that just as you might feel you don't have to provide this or that piece of information we do not have to provide help. We like to see schematics and reasonable quality photos of your project, as well as your properly posted code. The more detail about your project, the better the help you will get.
+Don't bump your thread after an hour. Because of the different time-zones the person who knows the answer may be asleep, or away for the day or maybe on holiday. Maybe after a couple of days but even then think about whether you have provided enough information and asked a question that can be answered. You could even ask us 'what else can I provide in order to get some help?'.
 
 **Getting help from a particular person**
-You might have read answers from a particular person and think that person would be the best person to help you. You can bring your question to someone's attention by using @ followed by their username, for example @username. If you do this they will get a notification. Please do not send a PM (private message) to someone you don't know asking a question; most will ignore you, some will reply suggesting you post on the forum.
+You might have read answers from a particular person and think that person would be the best person to help you. You can bring your question to someone's attention by using @ followed by their username, for example @username. If you do this they will get a notification. Please do not send a PM (private message) to someone you don't know asking a question; most will ignore you.
 
 **Commercial projects**
 One thing really guaranteed to ensure you don't get help is to tell us you can't provide all the information because it is commercially confidential. If it's commercially confidential then you should consider paying someone to help you and ensure a confidentiality agreement is in place with them. If you want help with a commercial project then post in 'gigs and collaborations' and indicate what your terms are, including how much your budget is. This is a hobby forum, not a place for free help with commercial projects.
@@ -212,7 +209,7 @@ A signature should be preferably one line, and relevant. A signature that links 
 A little courtesy and politeness goes a long way. Even if you think a question has been asked before, or you don't see the point of it, try to answer politely. Remember a lot of the posters with high post counts see the same questions every day, and they may get a bit terse if you appear not to have tried very hard to help yourself in the first place. You will find that if you respond in a friendly way, people will stick with you and you will almost certainly get your problem solved. Personal insults, rudeness and offensive language are not acceptable and will result in a ban. Stick to the topic.
 
 **Homework**
-We get a lot of questions from students wanting help with their homework. Such questions are generally one of 2 kinds: Questions by students who are obviously making a real effort but have got stuck; these get helpful answers, and questions from students who are obviously not making any effort at all and just want someone to do their homework for them; these usually get a lecture about students having to do their own homework and make some effort and not expecting the rest of the world to do everything for them. By all means post homework questions when you are stuck, but make sure you've put some effort in first.
+We get a lot of questions from students wanting help with their homework. Such questions are generally one of 2 kinds: Questions by students who are obviously making a real effort but have got stuck; these get helpful answers, and questions from students who are obviously not making any effort at all and just want someone to do their homework for them; these usually get a lecture. By all means post homework questions when you are stuck, but make sure you've put some effort in first.
 
 **Thank people who help you**
 Those of us who answer questions on here are doing so for free, out of community spirit, please thank people who provide helpful answers and don't forget to give Karma as well.
