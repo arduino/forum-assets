@@ -73,9 +73,9 @@ Now please go to the [forum index](https://forum.arduino.cc/categories), select 
 
 Thank you.
 
-## [Making your first post](#first-post)
-
 <a name="first-post"></a>
+
+## [Making your first post](#first-post)
 
 **Choosing the right section**
 It is important to choose the right section and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every section so please take your time and post in a section related to your question. If English is not your preferred language please post in the section for your language. If your language is not shown the please use Google translate and post in the English section in English.
@@ -118,9 +118,9 @@ For your first two posts, the right hand side of the post composer pane will sho
 
 That's your first post completed.
 
-## [Posting code and common code problems](#posting-code)
-
 <a name="posting-code"></a>
+
+## [Posting code and common code problems](#posting-code)
 
 Without your code, **all** your code, we cannot provide any answers about your code, other than the most vague and probably unhelpful of answers. One of the frustrating things about writing code is that a mistake in one place can produce an error in what seems like a completely different, unrelated place. This is a nightmare if you are new to writing code, but often easy to spot for anyone who is experienced in looking for such problems. It is for this reason we want **all** your code, not just the bit with the error or the bit you think is causing the problem.
 
@@ -188,9 +188,9 @@ Only posting the part of the code you think has the problem. Often code problems
 
 It is essential that every opening bracket has a corresponding closing bracket so you should check that every { has a corresponding }, every ( has a corresponding ) and every [ has a corresponding ] before you post your code. In the IDE if you place your cursor next to any bracket of any kind the IDE will draw a rectangle round its partner, if there's no corresponding bracket, or there is a corresponding bracket but it's not the one you expected then you have found your problem. Also, if you use Auto Format (Tools > Auto Format or Ctrl-T) your code will be tidied up and missing brackets of all kinds should be come a lot easier to see.
 
-## [Forum rules](#forum-rules) and [netiquette](https://www.webroot.com/ca/en/resources/tips-articles/netiquette-and-online-ethics-what-are-they)
-
 <a name="forum-rules"></a>
+
+## [Forum rules](#forum-rules) and [netiquette](https://www.webroot.com/ca/en/resources/tips-articles/netiquette-and-online-ethics-what-are-they)
 
 The instructions above are to help you make a successful post, 'successful' meaning you get a useful and satisfactory answer to your question. In order to keep the forum working smoothly there are some rules that apply to everyone, breaches of which can lead to suspension or being removed from the forum altogether.
 

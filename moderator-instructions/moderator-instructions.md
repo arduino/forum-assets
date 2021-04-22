@@ -6,9 +6,9 @@ For general moderation guidelines, see the ["Moderator Guidelines" topic](https:
 
 ---
 
-### [Delete spam](#delete-spam)
-
 <a name="delete-spam"></a>
+
+### [Delete spam](#delete-spam)
 
 Note that this does not apply to legitimate advertisements of products/services that may be of interest to the Arduino community, which are allowed as long as they are posted to the "Products and Services" board.
 
@@ -27,9 +27,9 @@ Note that this does not apply to legitimate advertisements of products/services 
 
 ---
 
-### [Move to correct language board](#move-to-correct-language-board)
-
 <a name="move-to-correct-language-board"></a>
+
+### [Move to correct language board](#move-to-correct-language-board)
 
 The Arduino Forum has dedicated boards for several common non-English languages. When a topic written in one of these languages is created in one of the English language boards of the forum, it should be moved to the appropriate board. Topics written in a language for which there is not a dedicated board may be left in the appropriate English language board.
 
@@ -44,9 +44,9 @@ The Arduino Forum has dedicated boards for several common non-English languages.
 
 ---
 
-### [Deal with cross-post](#cross-post)
-
 <a name="cross-post"></a>
+
+### [Deal with cross-post](#cross-post)
 
 A cross-post is when a user posts on the same subject to the forum multiple times. This is harmful because it can lead to wasting the time of people trying to help by unknowingly duplicating the efforts that were made previously in reply to another instance of the cross-post.
 
@@ -116,9 +116,9 @@ OR
 
 ---
 
-### [Split hijacked topic](#hijack)
-
 <a name="hijack"></a>
+
+### [Split hijacked topic](#hijack)
 
 A topic hijack is when a user makes a reply that is not relevant to the topic. This can either result in a confusing thread where there are multiple parallel discussions, or else one of the people needing help being forgotten about. Note that a relevant reply to an old topic is NOT considered a hijack.
 
@@ -148,17 +148,17 @@ On the new topic, leave a reply to warn the user not to hijack topics:
 
 ---
 
-### [Resolve report](#resolve-report)
-
 <a name="resolve-report"></a>
+
+### [Resolve report](#resolve-report)
 
 Forum users may assist the moderators by reporting inappropriate posts. A list of open reports are shown in the [Moderate > Reported Posts area](https://forum.arduino.cc/review). If you delete the offending topic or post to resolve the report, it will be automatically closed. Otherwise, please click the "Close" button on the report after you have resolved it (or determined that no action is required) so it will be removed from the list of open reports. If you are unsure of how to resolve the report, feel free to leave it for another moderator to deal with.
 
 ---
 
-### [Unlock topic](#unlock)
-
 <a name="unlock"></a>
+
+### [Unlock topic](#unlock)
 
 If 120 days have passed since the last reply to a topic, it is locked and non-moderators are unable to reply. Forum members are allowed to request topics be unlocked via the "Report to moderator" functionality. When this happens, a moderator should comment on the locked topic:
 
