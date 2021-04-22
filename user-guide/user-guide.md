@@ -25,13 +25,13 @@ We need to know exactly what hardware you have. We need to know what Arduino boa
 If you are using something that is a non-Arduino product then it helps to have a link to its technical data sheet or a link to where you bought it.
 
 **Code problems:**
-We can only find problems in code we can see. Please supply your complete code in code tags </> [More about posting code and using code tags](#posting-code). If you are using Arduino Create then you can post a link to your project (but keep in mind that not everyone uses Arduino Create).
+We can only find problems in code we can see. Please supply your complete code in code tags **`</>`** [More about posting code and using code tags](#posting-code). If you are using Arduino Create then you can post a link to your project (but keep in mind that not everyone uses Arduino Create).
 
 Posting a snippet of code is generally useless. The problem is usually in another part of the program.
 
 Before posting code please use Tools / auto format at the top of the IDE. It makes the code much easier to read and you will probably find it very helpful yourself. Once you've done that use edit / copy for forum.
 
-Always use code tags (</>) when posting code or compiler error messages.
+Always use code tags (**`</>`**) when posting code or compiler error messages.
 Using code tags makes the code easier to read and easy to copy. Not using code tags means some of the code gets displayed with smiley faces and other stuff that should not be there. Be aware that there is a limit of 9000 characters for a post and if your code takes you above this limit then you can add your .ino file as an attachment. However it will be much easier to help you if you can write a short program that illustrates the problem you are having and post that.
 
 Please don't post an image of code instead of the code itself, or an image of error messages instead of the error messages themselves.
@@ -108,7 +108,7 @@ Once you have found the right section you can start your post. Click on New Topi
 
 ![Compose topic](img/compose-topic.png)
 
-Don't forget to include code in code tags </> and a schematic of your circuit.
+Don't forget to include code in code tags **`</>`** and a schematic of your circuit.
 
 For your first two posts, the right hand side of the post composer pane will show a welcome message. Once you have closed that message, you will see a preview of how your post will look once you have submitted it.
 
@@ -124,7 +124,7 @@ That's your first post completed.
 
 Without your code, **all** your code, we cannot provide any answers about your code, other than the most vague and probably unhelpful of answers. One of the frustrating things about writing code is that a mistake in one place can produce an error in what seems like a completely different, unrelated place. This is a nightmare if you are new to writing code, but often easy to spot for anyone who is experienced in looking for such problems. It is for this reason we want **all** your code, not just the bit with the error or the bit you think is causing the problem.
 
-Code should be be in code tags, these are the </> in the tool bar above where you edit your post, and correctly formatted, like this:
+Code should be be in code tags, these are the **`</>`** in the tool bar above where you edit your post, and correctly formatted, like this:
 
 ```
 char message[][4] = { "hi", "bye" };
@@ -170,7 +170,7 @@ Before copying your code for the forum look in Tools on the menu bar of the IDE 
 
 There's more than one way to add code tags, you can:
 
-- Paste your code in the box where you are editing your post, select all the code and click on </>.
+- Paste your code in the box where you are editing your post, select all the code and click on **`</>`**.
 - In the Arduino IDE under the 'edit' menu there is 'copy for forum', this puts your code on the clipboard with code tags added ready to paste into your question.
 
 The forum has a limit of 9000 characters per post, which means that you can't post a program longer than this directly. In this case you can attach the ino file to your post or, if you are using Arduino Create, you can post a link to your project.
