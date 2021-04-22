@@ -1,6 +1,6 @@
 # Arduino Forum Documentation
 
-This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) sticky topics.
+This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) [pinned](https://meta.discourse.org/t/how-can-i-manually-pin-a-topic-to-the-top/95405) topics.
 
 The source content of the documentation is stored in the files in this repository. There is a folder for each document. The development of this content is done via a formal process that allows all interested parties the opportunity to participate in an efficient manner:
 
