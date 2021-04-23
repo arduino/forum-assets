@@ -83,7 +83,7 @@ It is important to choose the right section and the right language so that the p
 **There are English language sections for a variety of possible kinds of problems.**
 Please only post in English in the English language sections.
 
-![Forum sections English](img/categories.png)
+![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
 
 **If English is not your preferred language then scroll down and choose from one of the other language sections.**
 
@@ -102,11 +102,11 @@ Please only post in English in the English language sections.
 
 Once you have found the right section you can start your post. Click on New Topic
 
-![Starting a new topic](img/new-topic.png)
+![Starting a new topic|527x291](upload://xyrhjvPG4GMCC2HJiIzALTx4wkB.png)
 
 **And enter a title and a description of your problem**
 
-![Compose topic](img/compose-topic.png)
+![Compose topic|690x396](upload://x7X09LtaHT6K7MlbOMBPEBFsbU1.png)
 
 Don't forget to include code in code tags **`</>`** and a schematic of your circuit.
 
@@ -114,7 +114,7 @@ For your first two posts, the right hand side of the post composer pane will sho
 
 **When you are happy with your post click on + Create Topic to post it.**
 
-![Create topic](img/create-topic.png)
+![Create topic|482x500](upload://847Xfcn13YiloEhhAmXzE5gEBKd.png)
 
 That's your first post completed.
 
