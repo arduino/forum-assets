@@ -223,3 +223,12 @@ Some additional information relevant to forum moderator procedures:
 - Glossary of terms: https://meta.discourse.org/t/discourse-new-user-guide/96331#basic-terms-used-by-discourse-nomenclature
 - Explanation of Trust Levels (TL): https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/
 - Video about handling flags: https://meta.discourse.org/t/video-how-to-moderate-posts/136440
+
+---
+
+<a name="feedback-and-discussion"></a>
+
+### [Feedback and discussion](#feedback-and-discussion)
+
+Please use the forum topic at the link below for discussion of this content:
+<https://forum.arduino.cc/t/discussion-re-moderator-documentation-content/852461>
