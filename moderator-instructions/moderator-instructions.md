@@ -4,6 +4,8 @@ These are instructions for common moderation actions.
 
 For general moderation guidelines, see the ["Moderator Guidelines" topic](https://forum.arduino.cc/t/moderation-guidelines/54905).
 
+For an overview of the Discourse moderation system, see the **[Discourse Moderation Guide](https://meta.discourse.org/t/discourse-moderation-guide/63116)**.
+
 ---
 
 <a name="delete-spam"></a>
