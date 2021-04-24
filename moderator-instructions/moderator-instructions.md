@@ -8,6 +8,30 @@ For an overview of the Discourse moderation system, see the **[Discourse Moderat
 
 ---
 
+<a name="move-topic"></a>
+
+### [Move topic to correct category](#move-topic)
+
+Users often create topics in [categories](https://forum.arduino.cc/categories) which are inappropriate for the topic's subject matter.
+
+1. Click the pencil icon ("edit the title and category of this topic") to the right of the topic title.
+
+   ![Edit topic title and category](img/edit-topic-title-category.png)
+
+1. Click the category field, which is under the topic title field.<br />
+
+   ![Category field](img/category-field.png)
+
+1. Select the appropriate category from the dropdown menu. There is a convenient search feature to allow quickly finding the category you want.<br />
+
+   ![Category menu](img/category-menu.png)
+
+1. Click the **<kbd>:heavy_check_mark:</kbd>** button.<br />
+
+   ![Confirm category](img/confirm-title-category.png)
+
+---
+
 <a name="delete-spam"></a>
 
 ### [Delete spam](#delete-spam)
@@ -29,20 +53,17 @@ Note that this does not apply to legitimate advertisements of products/services 
 
 ---
 
-<a name="move-to-correct-language-board"></a>
+<a name="move-to-correct-language-category"></a>
 
-### [Move to correct language board](#move-to-correct-language-board)
+### [Move to correct language category](#move-to-correct-language-category)
 
-The Arduino Forum has dedicated boards for several common non-English languages. When a topic written in one of these languages is created in one of the English language boards of the forum, it should be moved to the appropriate board. Topics written in a language for which there is not a dedicated board may be left in the appropriate English language board.
+The Arduino Forum has [dedicated categories for several common non-English languages](https://forum.arduino.cc/c/international/10). When a topic written in one of these languages is created in one of the English language categories of the forum, it should be moved to the appropriate language category. Some of the language categories have subject-specific subcategories which should be used when appropriate.
 
-- Copy the text of the post.
-- Paste it into Google Translate: https://translate.google.com. This is not be necessary if you are sure of the language and sub-board you want to move it to.
-- On the topic, click the "Move Topic" button.
-- Select the appropriate language board. Google Translate will automatically detect the language (note that it's easy for someone unfamiliar with the language to mistake Portuguese for Spanish).
-- If the language board has sub-boards, select the appropriate one, using the Google translation if necessary.
-- Uncheck "Change the topic's subject."
-- Uncheck "Post a redirection topic."
-- Click the "Move Topic" button.
+Topics written in a language for which there is not a dedicated board may be left in the appropriate English language board.
+
+1. If you don't know the language or, in the case of language categories with sub-categories, subject, copy the post text and paste it into [Google Translate](https://translate.google.com). This will detect the language and allow you to determine the subject matter.
+   **Note:** it's easy for someone unfamiliar with the language to mistake Portuguese for Spanish.
+1. Follow the **["Move topic to correct category" instructions](#move-topic)** to move the topic to the appropriate category.
 
 ---
 
