@@ -21,5 +21,5 @@ The stock document is provided as part of the Discourse instance and is not Ardu
 ## Related
 
 - Page as rendered to users: https://forum.arduino.cc/faq
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum-short-version/681308
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966
 - https://meta.discourse.org/t/discourse-new-user-guide/96331
