@@ -56,6 +56,21 @@ User notes can be associated with a post. These are the same as the [User Notes 
 
 ---
 
+<a name="staff-post"></a>
+
+### [Make staff post](#staff-post)
+
+Moderators can mark their posts with a "Staff Color", which is intended to give it emphasis as an official proclamation.
+
+**Note:** this is not the same as the similarly named "Staff Notice". Due to serving no useful purpose, "Staff Notices" should not be used.
+
+1. Make a post as usual, whether that be a topic or reply.
+1. Click the **⬤⬤⬤** icon at the bottom of the post to be given the "Staff Color".
+1. Click the wrench icon.
+1. Click **"Add Staff Color"**.
+
+---
+
 <a name="user-notes-general-to-an-account"></a>
 
 #### [User Notes general to an account](#user-notes-general-to-an-account)
