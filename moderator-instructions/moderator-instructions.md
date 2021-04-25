@@ -32,6 +32,23 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 ---
 
+<a name="silence-user"></a>
+
+### [Silence user](#silence-user)
+
+The "Silence" action is used in cases where the intent is to temporarily curtail a user's forum activity in response to [inappropriate behavior](#deal-with-inappropriate-behavior), with the intent to later restore their privileges in hopes they can be reformed to a responsible member of the forum community.
+
+**Note:** in cases where the intent is to permanently exclude the user from the Arduino Forum, the account should instead be ["Suspended"](#suspend-an-account).
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>Admin</kbd>** button.
+1. From the **Permissions** section, click the **<kbd>Silence</kbd>** button.
+1. From the **Select a timeframe** dropdown menu, select the desired duration of the silencing.
+1. In the **Silence Reason** text field, enter a short explanation for the cause for the silencing.
+1. Click the **<kbd>Silence</kbd>** button.
+
+---
+
 <a name="delete-spam"></a>
 
 ### [Delete spam](#delete-spam)
