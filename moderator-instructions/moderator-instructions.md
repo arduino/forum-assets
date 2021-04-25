@@ -6,6 +6,162 @@ For an overview of the Discourse moderation system, see the **[Discourse Moderat
 
 ---
 
+<a name="flags"></a>
+
+## [Flags](#flags)
+
+Flags are used to bring things to the attention of the moderators. They may be submitted [by forum users](#user-submitted-flags) or [by automated systems](#automated-system-submitted-flags).
+
+Flags are shown on the ["Review" page](https://forum.arduino.cc/review). A moderators must review each flag and decide how it should be handled.
+
+<a name="user-submitted-flags"></a>
+
+### [User-submitted flags](#user-submitted-flags)
+
+Users can flag any post by clicking the **⬤⬤⬤** icon, then the **:black_flag:**. Multiple flags result in the post being automatically hidden and eventually deleted, without any moderator action.
+
+When submitting a flag, the user selects the category of the reason for the flag, which is shown on the ["Review" page](https://forum.arduino.cc/review).
+
+<a name="review-flag"></a>
+
+#### [Review flag](#review-flag)
+
+The ["Review" page](https://forum.arduino.cc/review) presents four options for handling user-submitted flags:
+
+- **Agree...** - the flag was correct and the post was in violation of forum rules. The author of the flagged post will be [penalized](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/).
+- **Disagree** - the flag was incorrect. The user who submitted the flag will be penalized.
+- **Ignore** - the flag was correct, but didn't indicate a problem with the flagged post. Nobody is penalized. If the post was automatically hidden by the flag, it will remain hidden.
+- **Delete...** - the flagged post should be deleted. The dropdown menu offers "**Delete Post and Ignore**" and "**Delete Post and Agree**" options, which have the effects on the author of the flagged post documented above.
+
+---
+
+<a name="post-flagged-as-off-topic"></a>
+
+#### [Post flagged as "Off-Topic"](#post-flagged-as-off-topic)
+
+See the [**"Move topic"**](#move-topic) or [**"Split topic"**](#split-hijacked-topic) instructions.
+
+---
+
+<a name="post-flagged-as-inappropriate"></a>
+
+#### [Post flagged as "Inappropriate"](#post-flagged-as-inappropriate)
+
+See the [**"Inappropriate behavior"**](#deal-with-inappropriate-behavior) instructions.
+
+---
+
+<a name="post-flagged-as-spam"></a>
+
+#### [Post flagged as "Spam"](#post-flagged-as-spam)
+
+<a name="if-the-post-is-not-spam"></a>
+
+##### [If the post is not spam](#if-the-post-is-not-spam)
+
+1. Click the **<kbd>:-1: Disagree</kbd>** button.
+
+<a name="if-the-post-is-spam"></a>
+
+##### [If the post is spam](#if-the-post-is-spam)
+
+**Note:** legitimate advertisements of products/services that may be of interest to the Arduino community, are allowed as long as they are posted to the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
+
+1. Click the **<kbd>:+1: Agree...</kbd>** button.
+1. From the dropdown menu, click **Suspend User**. The **"Suspend User"** dialog will open.
+1. From the **Select a timeframe** dropdown menu, select **Forever**.
+1. In the **Suspension Reason** text field, enter "spam".
+1. From the **"What would you like to do with the associated post?"** dropdown menu, select **Delete the post**.
+1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
+
+---
+
+<a name="post-flagged-as-something-else"></a>
+
+#### [Post flagged as "Something Else"](#post-flagged-as-something-else)
+
+The user submitting a "Something Else" flag will provide a message explaining the purpose of the flag. This might be used to flag problematic posts that don't fit into any of the standard user-submitted flag categories, or simply as an efficient means of communicating with the moderators about a benign post (e.g., requesting a tutorial topic be closed to discussion).
+
+1. [Review the flag](#review-flag).
+1. If the flag warranted action, resolve it, following the relevant instructions provided elsewhere in this document. In cases where an **"Agree"** review was warranted but you are unable to take the external action to resolve the flag, just select **"Keep Post"** from the **<kbd>:+1: Agree...</kbd>** menu. A message is generated in the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators) for each "Something Else" flag, and this message will be used to track the request. If the flag was resolved by the review process itself
+1. A private message is generated for each "Something Else" flag. This can be accessed directly via the flag's **<kbd>view full conversation</kbd>** button, or the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators). If the flag was resolved by the review interface itself, this message will automatically be archived. However, it is often not possible to resolve the flag via the review interface (e.g., [moving](#move-topic) a topic to the appropriate category). In this case, the message must be manually archived by clicking its **<kbd>:file_folder: Archive</kbd>** button.
+
+   ![Archive message](img/archive-something-else-flag-message.png)
+
+   **WARNING:** the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators) is shared between all the moderators. When you take an action it affects the inbox for everyone.
+
+---
+
+<a name="automated-system-submitted-flags"></a>
+
+### [Automated system-submitted flags](#automated-system-submitted-flags)
+
+The forum software does automated detection of potentially malicious user accounts or posts. These are submitted by the `@system` user.
+
+<a name="needs-approval-flag-for-account"></a>
+
+#### ["Needs Approval" flag for account](#needs-approval-flag-for-account)
+
+This flag is created by `@system` when a user account creation is detected as possibly malicious. The account must be reviewed by a moderator.
+
+<a name="if-the-account-is-benign"></a>
+
+##### [If the account is benign](#if-the-account-is-benign)
+
+1. Click the **<kbd>Approve User</kbd>** button.
+
+<a name="if-the-account-is-malicious"></a>
+
+##### [If the account is malicious](#if-the-account-is-malicious)
+
+Please note that Arduino has a firm policy against deleting any accounts, so you must not use the convenient **<kbd>Delete user...</kbd>** button Discourse presents. Instead, the following procedure is used to suspend the account:
+
+1. Suspend the user account, [following these instructions](#suspend-an-account)
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the **<kbd>Approve User</kbd>** button. This seems absolutely wrong, but it's the only way to clear the flag. The user account will remain suspended even though it has been "approved".
+
+<a name="needs-approval-flag-for-post"></a>
+
+#### ["Needs Approval" flag for post](#needs-approval-flag-for-post)
+
+This flag is created by `@system` when a post is detected as possibly malicious. The post must be reviewed by a moderator.
+
+<a name="if-the-post-is-benign"></a>
+
+##### [If the post is benign](#if-the-post-is-benign)
+
+1. Click the **<kbd>Approve Post</kbd>** button.
+
+<a name="if-the-post-is-malicious"></a>
+
+##### [If the post is malicious](#if-the-post-is-malicious)
+
+1. Suspend the user account, [following these instructions](#suspend-an-account)
+1. Click the **<kbd>Reject Post</kbd>** button.
+
+---
+
+<a name="akismet-flagged-post"></a>
+
+#### [Akismet flagged post](#akismet-flagged-post)
+
+This flag is created by `@system` when a post is detected as possibly spam by [Akismet](https://en.wikipedia.org/wiki/Akismet). The post must be reviewed by a moderator.
+
+<a name="If the post is benign-1"></a>
+
+##### [If the post is benign](#If the post is benign-1)
+
+1. Click the **<kbd>:-1: Not Spam</kbd>** button.
+
+<a name="if-the-post-is-malicious-1"></a>
+
+##### [If the post is malicious](#if-the-post-is-malicious-1)
+
+1. Click the **<kbd>:+1: Agree...</kbd>** button.
+1. From the dropdown menu, select **Confirm Spam & Suspend User**.
+
+---
+
 <a name="move-topic"></a>
 
 ### [Move topic to correct category](#move-topic)
