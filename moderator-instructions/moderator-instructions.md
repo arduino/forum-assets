@@ -102,6 +102,27 @@ The "Silence" action is used in cases where the intent is to temporarily curtail
 
 ---
 
+<a name="suspend-account"></a>
+
+### [Suspend an account](#suspend-an-account)
+
+The user is blocked from logging in to their account when it is suspended.
+
+Account suspensions are used when the intention is to permanently exclude the user from the Arduino Forum.
+
+**Note:** in cases where the intent is to temporarily curtail a user's forum activity in response to [inappropriate behavior](#dealing-with-inappropriate-behavior), with the intent to later restore their privileges in hopes they can be reformed to a responsible member of the forum community, they should instead be ["Silenced"](#silence-user).
+
+**Note:** Arduino has [a policy](https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095/5) against deleting accounts, so you must not use the convenient **Delete User** options the Discourse moderator interface often presents. Account suspensions are used instead. Suspensions are reversible in the event an error was discovered, which allows the moderators more freedom to take swift action.
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>Admin</kbd>** button.
+1. From the **Permissions** section, click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
+1. From the **Select a timeframe** dropdown menu, select **Forever**.
+1. In the **Suspension Reason** text field, enter a short explanation for the cause of suspension (e.g., "spam").
+1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
+
+---
+
 <a name="delete-spam"></a>
 
 ### [Delete spam](#delete-spam)
