@@ -294,24 +294,46 @@ Account suspensions are used when the intention is to permanently exclude the us
 
 ---
 
+<a name="delete-post"></a>
+
+### [Delete post](#delete-post)
+
+**Note:** be careful not to accidentally [delete the topic](#delete-topic) when you intended instead to only delete the last reply in the thread.
+
+1. Click the **⬤⬤⬤** icon at the bottom of the post to be deleted.
+1. Click the trash can icon ("delete this post").
+
+---
+
+<a name="delete-topic"></a>
+
+### [Delete topic](#delete-topic)
+
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Delete Topic**".
+
+---
+
 <a name="delete-spam"></a>
 
 ### [Delete spam](#delete-spam)
 
-Note that this does not apply to legitimate advertisements of products/services that may be of interest to the Arduino community, which are allowed as long as they are posted to the "Products and Services" board.
+Note that legitimate advertisements of products/services that may be of interest to the Arduino community are allowed as long as they are posted to the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
 
-- Open the topic.
-- Open the user's forum profile page in a new tag/window (right click on user name > Open Link in New Tab or ctrl + click user name).
-- If it's a spam topic, click the "Remove Topic" button. If it's a spam reply, click the "More..." button on the reply, then "Remove".
-- Click the "OK" button.
-- Switch to the tab/window with the user's profile page.
-- Check whether the user has any other posts. If so, remove those also, following the instructions above.
-- Click "Ban user". A ban is used instead of deleting the account because it prevents recreation of the account and can be undone in the event of a mistake.
-- In the case of spam, you can leave the "Reason:" and "Notes:" sections blank in order to make the task of deleting spam less time consuming.
-- Expiration: Never
-- Restriction: Full Ban
-- Triggers: Ban on Email Address, Ban on Username (note the checkboxes are ABOVE the descriptions)
-- Click the "Add" button.
+1. Click the **⬤⬤⬤** icon at the bottom of the spam post.
+1. Click the **:black_flag:** icon.
+1. Click the **It's Spam** radio button.
+1. Click the **<kbd>Take Action...</kbd>** button.
+1. From the dropdown menu, click **Suspend User**. The **"Suspend User"** dialog will open.
+1. From the **Select a timeframe** dropdown menu, select **Forever**.
+1. In the **Suspension Reason** text field, enter "spam".
+1. From the **"What would you like to do with the associated post?"** dropdown menu, select **Delete the post**.
+1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
+1. Click the spammer's user name.
+1. Click the spammer's user name in the profile preview popup.
+1. Click the **"Activity"** tab to see their other posts.
+1. Open any other spam posts they have made.
+1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions to delete the additional spam.
 
 ---
 
