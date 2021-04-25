@@ -32,6 +32,43 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 ---
 
+<a name="add-user-note"></a>
+
+### [Add User Note](#add-user-note)
+
+"User Notes" provide a place for staff and automated systems to store documentation related to a user account. When a user has "User Notes", a **:memo:** icon is shown next to their user name. This icon can be clicked to view the notes.
+
+**Note:** only moderators and administrators can see the icon and the notes. They are not visible to regular users.
+
+Documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future [inappropriate behavior](#deal-with-inappropriate-behavior).
+
+---
+
+<a name="user-notes-specific-to-a-post"></a>
+
+#### [User Notes specific to a post](#user-notes-specific-to-a-post)
+
+User notes can be associated with a post. These are the same as the [User Notes general to an account](#user-notes-general-to-an-account), except that the User Note will have a button that links to the post.
+
+1. Click the **⬤⬤⬤** icon at the bottom of the post.
+1. Click the wrench icon.
+1. Click **"Add User Note"**.
+1. Write the User Note.
+1. Click the **<kbd>Add User Note</kbd>** button.
+
+---
+
+<a name="user-notes-general-to-an-account"></a>
+
+#### [User Notes general to an account](#user-notes-general-to-an-account)
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>User Notes</kbd>** button. The user notes will be displayed, as well as a field for adding new notes.
+1. Write the User Note.
+1. Click the **<kbd>Add User Note</kbd>** button.
+
+---
+
 <a name="adjust-user-trust-level"></a>
 
 ### [Adjust user Trust Level](#adjust-user-trust-level)
