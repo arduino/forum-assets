@@ -263,35 +263,30 @@ OR
 
 ---
 
-<a name="hijack"></a>
+<a name="split-hijacked-topic"></a>
 
-### [Split hijacked topic](#hijack)
+### [Split hijacked topic](#split-hijacked-topic)
 
-A topic hijack is when a user makes a reply that is not relevant to the topic. This can either result in a confusing thread where there are multiple parallel discussions, or else one of the people needing help being forgotten about. Note that a relevant reply to an old topic is NOT considered a hijack.
+A topic hijack is when a user makes a reply that is not relevant to the topic. This can either result in a confusing thread where there are multiple parallel discussions, or else one of the people needing help being forgotten about.
 
-- On the hijack reply, click "More...".
-- Click "Split Topic".
-- Enter an appropriate subject for the new topic in the "Subject For New Topic" field.
+**Note:** a relevant reply to an old topic is not considered a hijack.
 
-If there have been no replies to the hijack reply, or all replies have been to the hijack reply (none to the original post), then we can just do a simple split:
+**Note:** cross-posts are sometimes done in the form of a hijack. In that case, follow the [**"Deal with cross-post"** instructions](#deal-with-cross-post).
 
-- Click the radio button ABOVE "Split topic after and including this post."
-- Click the "Split Topic" button.
-
-If there have been replies to both the hijack reply and the original post, then we must do a selective split:
-
-- Click the radio button ABOVE "Select posts to split."
-- Click the "Split Topic" button.
-- Click the arrow button on all replies you want to split to a new topic.
-- Click the "Split Topic" button.
-
-On the new topic, leave a reply to warn the user not to hijack topics:
-
-> Please don't hijack topics! I've had to split your post out to its own topic.
->
-> This is basic forum etiquette, as explained in the sticky "[How to use this forum - please read.](https://forum.arduino.cc/t/how-to-use-this-forum-please-read/145337)" post you will find at the top of every forum board. It contains a lot of other useful information. Please read it.
->
-> Thanks in advance for your cooperation.
+1. Open the hijacked topic.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
+1. Click the **<kbd>select</kbd>** button on each post related to the hijack.
+1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
+1. In the **"New Topic Title"** field, enter an appropriate title for the subject of the hijack post.
+1. Select the appropriate [forum category](https://forum.arduino.cc/categories) from the **"Category"** dropdown menu.
+1. Click the **<kbd>Move to New Topic</kbd>** button. The new topic will be created and opened in your browser.
+1. In a reply to the newly created topic, add a ["Staff Post"](#make-staff-post):
+   > Please don't hijack topics. I've had to split your post out to its own topic.
+   >
+   > This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
+   >
+   > Thanks in advance for your cooperation.
 
 ---
 
