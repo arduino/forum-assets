@@ -188,3 +188,15 @@ If 120 days have passed since the last reply to a topic, it is locked and non-mo
 > Commenting to unlock topic at the request of a forum member.
 
 The reply is required because clicking the "Unlock Topic" button will not unlock the topic in this case. This reply will unlock the topic for another 120 days.
+
+---
+
+<a name="resources"></a>
+
+### [Resources](#resources)
+
+Some additional information relevant to forum moderator procedures:
+
+- Glossary of terms: https://meta.discourse.org/t/discourse-new-user-guide/96331#basic-terms-used-by-discourse-nomenclature
+- Explanation of Trust Levels (TL): https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/
+- Video about handling flags: https://meta.discourse.org/t/video-how-to-moderate-posts/136440
