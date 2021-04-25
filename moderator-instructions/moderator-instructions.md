@@ -32,6 +32,24 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 ---
 
+<a name="adjust-user-trust-level"></a>
+
+### [Adjust user Trust Level](#adjust-user-trust-level)
+
+The user's privileges on the forum are dependent on their "Trust Level" (TL). The forum software automatically raises or lowers trust levels based on user stats. In cases where the automatically set trust level doesn't match the privileges appropriate for a user, the moderators can manually adjust the Trust Level. This can serve as a tool for putting some limits on the user's forum activity while still allowing them to participate.
+
+Detailed information about Trust Levels: https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>Admin</kbd>** button.
+1. From the **Permissions** section, click the **Trust Level** dropdown menu.
+1. Select the desired level from the menu.
+1. Click the **<kbd>:heavy_check_mark:</kbd>** button.
+1. If you would like to prevent the automated adjustment of trust level by the forum software, click the **<kbd>Lock Trust Level</kbd>** button.
+   If the trust level was previously locked and you want to unlock it, then click the **<kbd>Unlock Trust Level</kbd>** button.
+
+---
+
 <a name="silence-user"></a>
 
 ### [Silence user](#silence-user)
