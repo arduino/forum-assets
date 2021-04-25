@@ -198,6 +198,32 @@ This shows all staff actions that affected the user's account. The [User Notes](
 
 ---
 
+<a name="deal-with-inappropriate-behavior"></a>
+
+### [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
+
+<a name="context"></a>
+
+#### [Context](#context)
+
+Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
+
+The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
+
+<a name="tools"></a>
+
+#### [Tools](#tools)
+
+The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
+
+- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
+- [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
+- [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
+- [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
+- [**Suspend User**](#suspend-an-account) - block the user from logging in.
+
+---
+
 <a name="move-to-correct-language-category"></a>
 
 ### [Move to correct language category](#move-to-correct-language-category)
