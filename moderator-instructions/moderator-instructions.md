@@ -191,75 +191,47 @@ Topics written in a language for which there is not a dedicated board may be lef
 
 ---
 
-<a name="cross-post"></a>
+<a name="deal-with-cross-post"></a>
 
-### [Deal with cross-post](#cross-post)
+### [Deal with cross-post](#deal-with-cross-post)
 
 A cross-post is when a user posts on the same subject to the forum multiple times. This is harmful because it can lead to wasting the time of people trying to help by unknowingly duplicating the efforts that were made previously in reply to another instance of the cross-post.
 
-- Open the cross-posting user's forum profile page by clicking on their user name.
-- Click "Show Posts".
-- Open all cross-posts.
-- Pick one cross-post to keep. If only one cross-post has valuable replies, keep that one. The cross-post that is in the appropriate forum board has preference.
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **"Activity"** tab to see their posts.
+1. Pick one of the cross-posts to keep. If only one cross-post has valuable replies, keep that one. The cross-post that is in the appropriate forum board has preference.
+1. Follow the instructions below to [delete](#if-the-post-to-be-removed-has-no-valuable-replies) or [merge](#if-the-post-to-be-removed-has-valuable-replies) the other cross-posts.
+1. Add a [**"User Note"**](#add-user-note) to document the rule violation. If the user notes indicate a history of repeated cross-posting, take more severe moderation action, as described in the [**"Deal with inappropriate behavior"**](#deal-with-inappropriate-behavior) instructions.
+1. In a reply to the cross-post to be kept, add a ["Staff Post"](#make-staff-post):
+   > I've deleted/merged your other cross-post(s).
+   >
+   > Cross-posting is against the rules of the forum. The reason is that duplicate posts can waste the time of the people trying to help. Someone might spend 15 minutes (or more) writing a detailed answer on this topic, without knowing that someone else already did the same in the other topic.
+   >
+   > Repeated cross-posting will result in a suspension from the forum.
+   >
+   > In the future, please take some time to pick the forum board that best suits the topic of your question and then only post once to that forum board. This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
+   >
+   > Thanks in advance for your cooperation.
 
-If a cross-post has no replies, you can delete it. If it's a topic, click the "Remove Topic" button. If it's a reply, click the "More..." button on the reply, then "Remove".
+<a name="if-the-post-to-be-removed-has-no-valuable-replies"></a>
 
-If multiple cross-posts have valuable replies, they must be merged into a single topic:
+#### [If the post to be removed has no valuable replies](#if-the-post-to-be-removed-has-no-valuable-replies)
 
-- If one of the cross-posts with valuable replies is a thread hijack, split it and the replies into a separate topic.
-- Click the "Merge Topics" button. Note that the forum software will order the posts of the merged topic according to chronological order, so it doesn't make a difference which topic is merged to the other.
-- The forum's merge system is very inconvenient and partly broken. You can't select a different board because this just results in an error. There is a list of topics in the same board, but this doesn't help if the merge target is in another board, or was not recently created. Defying all common sense, you need to click the "?" button on the left of the topic on the list to select it as the merge topic. The seemingly useful "ID of target topic:" input field doesn't work. So a bit of a hack is required to easily merge to any topic:
-- Right click on any of the "?" buttons on the topic list. It doesn't matter which topic you choose.
-- Click "Copy Link Location".
-- Paste the copied link to the browser's URL bar.
-- Open the topic you want to merge to in a separate tab/window.
-- Copy the topic ID. This is the number after "topic=" from the topic's URL, leaving off the part after the ".".
-- Switch back to the merge page.
-- Replace the topic ID in the URL after "to=" with the topic ID of the target topic.
-- Press Enter to load the URL.
-- Uncheck "Change the subject of all the messages". Merged threads may be a bit confusing to read so having the original subjects may provide a useful clue to the original sequence of the separate discussions.
-- Click the "Merge Topics" button.
+1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions.
 
-Issue a warning to allow all moderators to track the history of the user's violations:
+<a name="if-the-post-to-be-removed-has-valuable-replies"></a>
 
-- At the bottom of the cross-posting user's post, click "More...".
-- Click "Issue Warning".
-- Set "Warning Level" to 20%. This will cause a "Watched" icon to appear (to moderators only) on all the user's posts, as well as a note on their forum profile page.
-- Reason for Warning: "Cross-posting"
-- Check the "Previous Warnings" section at the bottom of the page to see whether the user has cross-posted previously.
-- Click the "Issue Warning" button.
+#### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
 
-If this is the first time the user has cross-posted, just leave a reply to notify them it is against the rules and warn them that further cross posting will result in a ban:
+If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic:
 
-> I've deleted/merged your other cross-post(s).
->
-> Cross-posting is against the rules of the forum. The reason is that duplicate posts can waste the time of the people trying to help. Someone might spend 15 minutes (or more) writing a detailed answer on this topic, without knowing that someone else already did the same in the other topic.
->
-> Repeated cross-posting will result in a suspension from the forum.
->
-> In the future, please take some time to pick the forum board that best suits the topic of your question and then only post once to that forum board. This is basic forum etiquette, as explained in the sticky "[How to use this forum - please read.](https://forum.arduino.cc/t/how-to-use-this-forum-please-read/145337)" post you will find at the top of every forum board. It contains a lot of other useful information. Please read it.
->
-> Thanks in advance for your cooperation.
-
-If the user has previously been warned not to cross-post, they should receive a ban:
-
-- Click "More..." at the bottom of the user's post.
-- Click "Ban user".
-- Reason: "Cross-posting".
-- If this is the first or second ban, click the radio button ABOVE "Ban will expire after". If it is the third ban, click the radio button ABOVE "Never".
-- For the first ban, set "day(s)" to 3 (note the input field is ABOVE "day(s)"). For the second ban, set "day(s)" to 7.
-- Triggers: Ban on Email Address, Ban on Username (note the checkboxes are ABOVE the descriptions)
-- On the topic, leave a reply to explain that the user has received a ban:
-
-> Due to continuing to cross-post after having been warned not to, OP has received a 3 day ban.
-
-OR
-
-> Due to continuing to cross-post after having been warned not to, OP has received a 7 day ban.
-
-OR
-
-> Due to continuing to cross-post after having been warned not to, OP has received a permanent ban.
+1. Open the cross-post's topic.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
+1. If the entire thread is related to the cross-post, click **select all** in the dialog. If the cross-post was a [thread hijack](#split-hijacked-topic), then click the **<kbd>select</kbd>** button on each post related to the cross-post.
+1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
+1. Use the **"Search for a Topic"** field to find the cross-post topic to be kept. This can be done by entering its topic ID, which is the number at the end of the topic's URL. For example, the ID of this topic (`https://forum.arduino.cc/t/moderator-instructions/630548`) is `630548`.
+1. Click the **<kbd>Move to Existing Topic</kbd>** button.
 
 ---
 
