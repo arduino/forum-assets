@@ -5,19 +5,19 @@ Hello,
 Welcome to the Arduino forum.
 This guide explains how to get the best out of this forum, please read and follow the instructions below.
 
-Being new here you might think this is having rules for the sake of rules, but that is not the case. If you don’t follow the guidelines all that happens is there is a long exchange of message while we try to get you to tell us what we need in order to help you, this is frustrating for you and frustrating for us.
+Being new here you might think this is having rules for the sake of rules, but that is not the case. If you don’t follow the guidelines all that happens is there is a long exchange of posts while we try to get you to tell us what we need in order to help you, this is frustrating for you and frustrating for us.
 
 The people who try to help with your project are volunteers doing this for free in their spare time. If you follow these guidelines it helps us to help you and get your project working quickly.
 
 Without the correct information it is difficult or impossible to give you the help you need.
 
 **Preferred language**
-[If English is not your preferred language there are sections in other languages](https://forum.arduino.cc/c/international/10)
+[If English is not your preferred language there are categories in other languages](https://forum.arduino.cc/c/international/10)
 
 **Below are some things we need which are often missed by people posting for the first time**
 
-**Choose the right section of the Forum**
-There are lots of different sections to choose from. Choosing the right one is important because not everyone who might be able to help you reads every section. Some questions might reasonably fit in to more than one section but please **do not** post the same question in 2 or more different sections. This just wastes your time and ours as different people will be providing different answers in different places. For this reason it is against the forum rules and will incur the wrath of the moderators when they see it.
+**Choose the right category of the Forum**
+There are lots of different categories to choose from. Choosing the right one is important because not everyone who might be able to help you reads every category. Some questions might reasonably fit in to more than one category but please **do not** post the same question in 2 or more different categories. This just wastes your time and ours as different people will be providing different answers in different places. For this reason it is against the forum rules and will incur the wrath of the moderators when they see it.
 
 **Hardware:**
 We need to know exactly what hardware you have. We need to know what Arduino board (or other brand, such as ESP32) you are using and exactly what other hardware you are connecting it to. The more details we have the easier it is to help.
@@ -69,7 +69,7 @@ We only know about you and your project what you tell us. If you tell us your le
 There is more information below.
 
 **Making your first post:**
-Now please go to the [forum index](https://forum.arduino.cc/categories), select the right section and make your first post.
+Now please go to the [forum index](https://forum.arduino.cc/categories), select the right category and make your first post.
 
 Thank you.
 
@@ -77,15 +77,15 @@ Thank you.
 
 ## [Making your first post](#first-post)
 
-**Choosing the right section**
-It is important to choose the right section and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every section so please take your time and post in a section related to your question. If English is not your preferred language please post in the section for your language. If your language is not shown the please use Google translate and post in the English section in English.
+**Choosing the right category**
+It is important to choose the right category and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every category so please take your time and post in a category related to your question. If English is not your preferred language please post in the category for your language. If your language is not shown the please use Google translate and post in an English category in English.
 
-**There are English language sections for a variety of possible kinds of problems.**
-Please only post in English in the English language sections.
+**There are English language categories for a variety of possible kinds of problems.**
+Please only post in English in the English language categories.
 
 ![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
 
-**If English is not your preferred language then scroll down and choose from one of the other language sections.**
+**If English is not your preferred language then scroll down and choose from one of the other language categories.**
 
 - [中文 (Chinese)](https://forum.arduino.cc/c/international/chinese/75)
 - [Deutsch - German](https://forum.arduino.cc/c/international/deutsch/47)
@@ -98,15 +98,15 @@ Please only post in English in the English language sections.
 - [Россия - Russia](https://forum.arduino.cc/c/international/russia/82)
 - [Scandinavia Swedish, Suomi - Finnish, Norsk - Norwegian](https://forum.arduino.cc/c/international/scandinavia/52)
 
-**Making a post**
+**Making a topic**
 
-Once you have found the right section you can start your post. Click on New Topic
+Once you have found the right category you can start your post. Click on New Topic
 
 ![Starting a new topic|527x291](upload://xyrhjvPG4GMCC2HJiIzALTx4wkB.png)
 
 **And enter a title and a description of your problem**
 
-![Compose topic|690x396](upload://x7X09LtaHT6K7MlbOMBPEBFsbU1.png)
+![Compose post|690x396](upload://x7X09LtaHT6K7MlbOMBPEBFsbU1.png)
 
 Don't forget to include code in code tags **`</>`** and a schematic of your circuit.
 
@@ -194,22 +194,22 @@ It is essential that every opening bracket has a corresponding closing bracket s
 
 The instructions above are to help you make a successful post, 'successful' meaning you get a useful and satisfactory answer to your question. In order to keep the forum working smoothly there are some rules that apply to everyone, breaches of which can lead to suspension or being removed from the forum altogether.
 
-**Only ask your question once, in one section of the forum**
-We know you are anxious to get an answer to your problem, but re-posting the same question to multiple sections of the forum causes duplicate effort, and divides the focus on your problem. You'll get a better answer if everyone can discuss it in one place. Asking the same question multiple times is called cross-posting. Cross-posting is very annoying to people trying to help you. If you cross post the moderators will delete your extra posts, and you will get a warning. Save all the hassle, and just post the question once. It will be noticed.
+**Only ask your question once, in one category of the forum**
+We know you are anxious to get an answer to your problem, but re-posting the same question to multiple categories of the forum causes duplicate effort, and divides the focus on your problem. You'll get a better answer if everyone can discuss it in one place. Asking the same question multiple times is called cross-posting. Cross-posting is very annoying to people trying to help you. If you cross-post the moderators will delete your extra posts, and you will get a warning. Save all the hassle, and just post the question once. It will be noticed.
 
-If you aren't sure what section to post in (Programming Questions, Electronics, etc.) make a guess. Don't cross post "just in case".
+If you aren't sure what category to post in (Programming Questions, Electronics, etc.) make a guess. Don't cross-post "just in case".
 
-**Start a new question, don't hijack an existing question**
-You might see an existing question similar to the one you want to ask and think about tagging your question on the end. Please don't do this; if the existing question is just what you were looking for and the answer helps you then there is no need, otherwise the existing question isn't what you were looking for and you should post a new question. There's no harm including a link back to the existing discussion if you think there's some relevance.
+**Start a new topic, don't hijack an existing topic**
+You might see an existing topic related to what you want to ask and think about tagging your question on the end. Please don't do this; if the existing question is just what you were looking for and the answer helps you then there is no need, otherwise the existing topic isn't what you were looking for and you should create a new topic. There's no harm including a link back to the existing discussion if you think there's some relevance.
 
 **Don't bump!**
-Don't bump your thread after an hour. Because of the different time-zones the person who knows the answer may be asleep, or away for the day or maybe on holiday. Maybe after a couple of days but even then think about whether you have provided enough information and asked a question that can be answered. You could even ask us 'what else can I provide in order to get some help?'.
+Don't bump your topic after an hour. Because of the different time-zones the person who knows the answer may be asleep, or away for the day or maybe on holiday. Maybe after a couple of days but even then think about whether you have provided enough information and asked a question that can be answered. You could even ask us 'what else can I provide in order to get some help?'.
 
 **Getting help from a particular person**
 You might have read answers from a particular person and think that person would be the best person to help you. You can bring your question to someone's attention by using @ followed by their username, for example @username. If you do this they will get a notification. Please do not send a PM (private message) to someone you don't know asking a question; most will ignore you.
 
 **Commercial projects**
-One thing really guaranteed to ensure you don't get help is to tell us you can't provide all the information because it is commercially confidential. If it's commercially confidential then you should consider paying someone to help you and ensure a confidentiality agreement is in place with them. If you want help with a commercial project then post in 'gigs and collaborations' and indicate what your terms are, including how much your budget is. This is a hobby forum, not a place for free help with commercial projects.
+One thing really guaranteed to ensure you don't get help is to tell us you can't provide all the information because it is commercially confidential. If it's commercially confidential then you should consider paying someone to help you and ensure a confidentiality agreement is in place with them. If you want help with a commercial project then create a topic in 'gigs and collaborations' and indicate what your terms are, including how much your budget is. This is a hobby forum, not a place for free help with commercial projects.
 
 **Ready written code**
 Ready written code for every possible application does not exist, including for your application. Asking for the code for what you are trying to do will not get you anywhere, other than possibly some annoyed replies. You either have to write your own, which we are here to help with when you get stuck, or you can pay for someone else to write it for you. If you want someone to write code for you the place to ask is 'gigs and collaborations'. If you neither want to learn to write code yourself nor pay someone else to do it for you then this is probably not the right place for you.
