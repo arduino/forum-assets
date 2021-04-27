@@ -1,5 +1,3 @@
-# FAQ/Guidelines
-
 <a name="civilized"></a>
 
 ## [This is a Civilized Place for Public Discussion](#civilized)

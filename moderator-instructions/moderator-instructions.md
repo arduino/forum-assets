@@ -1,5 +1,3 @@
-# Moderator Instructions
-
 These are instructions for common moderation actions.
 
 For general moderation guidelines, see the ["Moderator Guidelines" topic](https://forum.arduino.cc/t/moderation-guidelines/54905).

@@ -1,5 +1,3 @@
-# Loop-Back Test Instructions
-
 The loop-back test is a troubleshooting procedure to determine if serial communication between the PC and Arduino board is working in a typical Arduino installation. The test proves that the host computer, hardware driver, USB cable, and USB to serial converter are all working.
 
 Loop-Back Test Instructions...

@@ -1,5 +1,3 @@
-# Moderation Guidelines
-
 **Arduino Forum Moderation Guidelines**
 
 **Introduction**

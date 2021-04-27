@@ -1,5 +1,3 @@
-# How to get the best out of this forum
-
 Hello,
 
 Welcome to the Arduino Forum.
