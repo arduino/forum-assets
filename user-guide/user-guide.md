@@ -230,4 +230,6 @@ Much of this tutorial has been inspired by or copied from the original forum ins
 My thanks to [Ballscrewbob](https://forum.arduino.cc/u/Ballscrewbob), [Robin 2](https://forum.arduino.cc/u/robin2) and [Idahowalker](https://forum.arduino.cc/u/Idahowalker) all of whom have provided a great deal of support and feedback, without which this tutorial would contain far more errors than it does and would be a lot less clear than it is.
 
 **Feedback**
-[Please provide any feedback or comments here](https://forum.arduino.cc/t/new-forum-instructions-feedback-and-comments/680710)
+[Please provide comments, feedback or suggestions for improvements for these instructions here.](https://forum.arduino.cc/t/how-to-get-the-best-from-this-forum-feedback-and-comments/854470)
+
+Thank you.
