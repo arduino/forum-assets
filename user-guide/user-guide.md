@@ -78,25 +78,15 @@ Thank you.
 ## [Making your first post](#first-post)
 
 **Choosing the right category**
-It is important to choose the right category and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every category so please take your time and post in a category related to your question. If English is not your preferred language please post in the category for your language. If your language is not shown the please use Google translate and post in an English category in English.
-
-**There are English language categories for a variety of possible kinds of problems.**
-Please only post in English in the English language categories.
-
-![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
+It is important to choose the right category and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every category so please take your time and post in a category related to your question.
 
 **If English is not your preferred language then scroll down and choose from one of the other language categories.**
 
-- [中文 (Chinese)](https://forum.arduino.cc/c/international/chinese/75)
-- [Deutsch - German](https://forum.arduino.cc/c/international/deutsch/47)
-- [Español - Spanish](https://forum.arduino.cc/c/international/espanol/48)
-- [Français - French](https://forum.arduino.cc/c/international/francais/49)
-- [অসমীয়া, বাংলা, बड़ो - India](https://forum.arduino.cc/c/international/india/62)
-- [Italiano - Italian](https://forum.arduino.cc/c/international/italiano/50)
-- [Nederlands - Dutch](https://forum.arduino.cc/c/international/nederlands/61)
-- [Portugues - Portuguese](https://forum.arduino.cc/c/international/portugues/51)
-- [Россия - Russia](https://forum.arduino.cc/c/international/russia/82)
-- [Scandinavia Swedish, Suomi - Finnish, Norsk - Norwegian](https://forum.arduino.cc/c/international/scandinavia/52)
+https://forum.arduino.cc/c/international/10
+
+Please only post in English in the English language categories. If your language is not shown then please use Google translate and post in an English language category using English.
+
+![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
 
 **Making a topic**
 
