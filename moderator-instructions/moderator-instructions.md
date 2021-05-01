@@ -86,7 +86,7 @@ The ["Review" page](https://forum.arduino.cc/review) presents four options for h
 
 #### [Post flagged as "Off-Topic"](#post-flagged-as-off-topic)
 
-See the [**"Move topic"**](#move-topic) or [**"Split topic"**](#split-hijacked-topic) instructions.
+See the [**"Move topic"**](#move-topic-to-correct-category) or [**"Split topic"**](#split-hijacked-topic) instructions.
 
 ---
 
@@ -131,7 +131,7 @@ The user submitting a "Something Else" flag will provide a message explaining th
 
 1. [Review the flag](#review-flag).
 1. If the flag warranted action, resolve it, following the relevant instructions provided elsewhere in this document. In cases where an **"Agree"** review was warranted but you are unable to take the external action to resolve the flag, just select **"Keep Post"** from the **<kbd>:+1: Agree...</kbd>** menu. A message is generated in the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators) for each "Something Else" flag, and this message will be used to track the request. If the flag was resolved by the review process itself
-1. A private message is generated for each "Something Else" flag. This can be accessed directly via the flag's **<kbd>view full conversation</kbd>** button, or the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators). If the flag was resolved by the review interface itself, this message will automatically be archived. However, it is often not possible to resolve the flag via the review interface (e.g., [moving](#move-topic) a topic to the appropriate category). In this case, the message must be manually archived by clicking its **<kbd>:file_folder: Archive</kbd>** button.
+1. A private message is generated for each "Something Else" flag. This can be accessed directly via the flag's **<kbd>view full conversation</kbd>** button, or the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators). If the flag was resolved by the review interface itself, this message will automatically be archived. However, it is often not possible to resolve the flag via the review interface (e.g., [moving](#move-topic-to-correct-category) a topic to the appropriate category). In this case, the message must be manually archived by clicking its **<kbd>:file_folder: Archive</kbd>** button.
 
    ![Archive message](img/archive-something-else-flag-message.png)
 
@@ -194,9 +194,9 @@ This flag is created by `@system` when a post is detected as possibly malicious.
 
 This flag is created by `@system` when a post is detected as possibly spam by [Akismet](https://en.wikipedia.org/wiki/Akismet). The post must be reviewed by a moderator.
 
-<a name="If the post is benign-1"></a>
+<a name="if-the-post-is-benign-1"></a>
 
-##### [If the post is benign](#If the post is benign-1)
+##### [If the post is benign](#if-the-post-is-benign-1)
 
 1. Click the **<kbd>:-1: Not Spam</kbd>** button.
 
@@ -289,7 +289,7 @@ Topics written in a language for which there is not a dedicated board may be lef
 
 1. If you don't know the language or, in the case of language categories with sub-categories, subject, copy the post text and paste it into [Google Translate](https://translate.google.com). This will detect the language and allow you to determine the subject matter.
    **Note:** it's easy for someone unfamiliar with the language to mistake Portuguese for Spanish.
-1. Follow the **["Move topic to correct category" instructions](#move-topic)** to move the topic to the appropriate category.
+1. Follow the **["Move topic to correct category" instructions](#move-topic-to-correct-category)** to move the topic to the appropriate category.
 
 ---
 
@@ -407,9 +407,9 @@ These are instructions for the general-purpose actions that make up the moderato
 
 ---
 
-<a name="move-topic"></a>
+<a name="move-topic-to-correct-category"></a>
 
-### [Move topic to correct category](#move-topic)
+### [Move topic to correct category](#move-topic-to-correct-category)
 
 Users often create topics in [categories](https://forum.arduino.cc/categories) which are inappropriate for the topic's subject matter.
 
@@ -463,9 +463,9 @@ It is frequently necessary for moderators to investigate an account to determine
 
 The forum software provides some useful tools for investigating a user:
 
-<a name="user-notes-1"></a>
+<a name="user-notes"></a>
 
-#### [User Notes](#user-notes-1)
+#### [User Notes](#user-notes)
 
 This is the tool used by staff and automated systems to store documentation related to a user account.
 
@@ -497,7 +497,7 @@ This tool allows you to see all the accounts associated with the user's [IP addr
 
 #### [Action Logs](#action-logs)
 
-This shows all staff actions that affected the user's account. The [User Notes](#user-notes-1) will generally contain entries for all important actions, as well as manually added notes, so check User Notes first.
+This shows all staff actions that affected the user's account. The [User Notes](#user-notes) will generally contain entries for all important actions, as well as manually added notes, so check User Notes first.
 
 1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
 1. Click the **<kbd>Admin</kbd>** button.
@@ -542,9 +542,9 @@ User notes can be associated with a post. These are the same as the [User Notes 
 
 ---
 
-<a name="staff-post"></a>
+<a name="make-staff-post"></a>
 
-### [Make staff post](#staff-post)
+### [Make staff post](#make-staff-post)
 
 Moderators can mark their posts with a "Staff Color", which is intended to give it emphasis as an official proclamation.
 
@@ -592,7 +592,7 @@ The "Silence" action is used in cases where the intent is to temporarily curtail
 
 ---
 
-<a name="suspend-account"></a>
+<a name="suspend-an-account"></a>
 
 ### [Suspend an account](#suspend-an-account)
 
@@ -600,7 +600,7 @@ The user is blocked from logging in to their account when it is suspended.
 
 Account suspensions are used when the intention is to permanently exclude the user from the Arduino Forum.
 
-**Note:** in cases where the intent is to temporarily curtail a user's forum activity in response to [inappropriate behavior](#dealing-with-inappropriate-behavior), with the intent to later restore their privileges in hopes they can be reformed to a responsible member of the forum community, they should instead be ["Silenced"](#silence-user).
+**Note:** in cases where the intent is to temporarily curtail a user's forum activity in response to [inappropriate behavior](#deal-with-inappropriate-behavior), with the intent to later restore their privileges in hopes they can be reformed to a responsible member of the forum community, they should instead be ["Silenced"](#silence-user).
 
 **Note:** Arduino has [a policy](https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095/5) against deleting accounts, so you must not use the convenient **Delete User** options the Discourse moderator interface often presents. Account suspensions are used instead. Suspensions are reversible in the event an error was discovered, which allows the moderators more freedom to take swift action.
 
