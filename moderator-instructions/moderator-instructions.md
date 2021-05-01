@@ -194,6 +194,26 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 ---
 
+<a name="delete-post"></a>
+
+### [Delete post](#delete-post)
+
+**Note:** be careful not to accidentally [delete the topic](#delete-topic) when you intended instead to only delete the last reply in the thread.
+
+1. Click the **⬤⬤⬤** icon at the bottom of the post to be deleted.
+1. Click the trash can icon ("delete this post").
+
+---
+
+<a name="delete-topic"></a>
+
+### [Delete topic](#delete-topic)
+
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Delete Topic**".
+
+---
+
 <a name="investigate-user"></a>
 
 ### [Investigate user](#investigate-user)
@@ -356,31 +376,37 @@ Account suspensions are used when the intention is to permanently exclude the us
 
 ---
 
-<a name="delete-post"></a>
-
-### [Delete post](#delete-post)
-
-**Note:** be careful not to accidentally [delete the topic](#delete-topic) when you intended instead to only delete the last reply in the thread.
-
-1. Click the **⬤⬤⬤** icon at the bottom of the post to be deleted.
-1. Click the trash can icon ("delete this post").
-
----
-
-<a name="delete-topic"></a>
-
-### [Delete topic](#delete-topic)
-
-1. Click the wrench button ("topic actions") at the bottom of the topic.
-1. From the menu, select "**Delete Topic**".
-
----
-
 <a name="guides"></a>
 
 ## [Guides](#guides)
 
 Instructions for dealing with specific common occurrences.
+
+---
+
+<a name="deal-with-inappropriate-behavior"></a>
+
+### [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
+
+<a name="context"></a>
+
+#### [Context](#context)
+
+Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
+
+The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
+
+<a name="tools"></a>
+
+#### [Tools](#tools)
+
+The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
+
+- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
+- [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
+- [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
+- [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
+- [**Suspend User**](#suspend-an-account) - block the user from logging in.
 
 ---
 
@@ -417,32 +443,6 @@ Mentions of relevant products or services of interest to the Arduino community a
 1. Click the **"Activity"** tab to see their other posts.
 1. Open any other spam posts they have made.
 1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions to delete the additional spam.
-
----
-
-<a name="deal-with-inappropriate-behavior"></a>
-
-### [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
-
-<a name="context"></a>
-
-#### [Context](#context)
-
-Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
-
-The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
-
-<a name="tools"></a>
-
-#### [Tools](#tools)
-
-The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
-
-- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
-- [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
-- [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
-- [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
-- [**Suspend User**](#suspend-an-account) - block the user from logging in.
 
 ---
 
