@@ -194,6 +194,60 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 ---
 
+<a name="investigate-user"></a>
+
+### [Investigate user](#investigate-user)
+
+It is frequently necessary for moderators to investigate an account to determine whether moderation action is warranted, and which level of action. This might be done to determine whether:
+
+- the user's intentions are benign or malicious (e.g., a spammer making seemingly innocent posts to prepare an account).
+- the user has a history of [inappropriate behavior](#deal-with-inappropriate-behavior), which would indicate a more severe level of action is needed.
+- a previous moderation action was warranted or in error in response to a report from the user of an inappropriate moderation action.
+
+The forum software provides some useful tools for investigating a user:
+
+<a name="user-notes-1"></a>
+
+#### [User Notes](#user-notes-1)
+
+This is the tool used by staff and automated systems to store documentation related to a user account.
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>User Notes</kbd>** button.
+
+<a name="user-activity"></a>
+
+#### [User activity](#user-activity)
+
+This shows the user's posts, which can be used to find unreported inappropriate behavior (e.g., cross-posting, spam).
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+   - If any of their posts have been deleted, there will be a black bar at the top of the user profile "Summary" page with a **"deleted posts"** link. Click that link to see the deleted posts.
+   - Click the **"Activity"** tab to see their other posts.
+
+<a name="ip-lookup"></a>
+
+#### [IP Lookup](#ip-lookup)
+
+This tool allows you to see all the accounts associated with the user's [IP address](https://en.wikipedia.org/wiki/IP_address), which can be used to determine whether the user has other accounts (e.g., circumventing a [suspension](#suspend-an-account), [sock puppets](https://en.wikipedia.org/wiki/Sock_puppet_account)).
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>Admin</kbd>** button.
+1. Click the **<kbd>:globe_with_meridians: IP Lookup</kbd>** button.
+1. Check whether any other accounts are listed under the **"Other accounts with this IP address"** section.
+
+<a name="action-logs"></a>
+
+#### [Action Logs](#action-logs)
+
+This shows all staff actions that affected the user's account. The [User Notes](#user-notes-1) will generally contain entries for all important actions, as well as manually added notes, so check User Notes first.
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>Admin</kbd>** button.
+1. Click the **<kbd>Action Logs</kbd>** button.
+
+---
+
 <a name="add-user-note"></a>
 
 ### [Add User Note](#add-user-note)
@@ -363,60 +417,6 @@ Mentions of relevant products or services of interest to the Arduino community a
 1. Click the **"Activity"** tab to see their other posts.
 1. Open any other spam posts they have made.
 1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions to delete the additional spam.
-
----
-
-<a name="investigate-user"></a>
-
-### [Investigate user](#investigate-user)
-
-It is frequently necessary for moderators to investigate an account to determine whether moderation action is warranted, and which level of action. This might be done to determine whether:
-
-- the user's intentions are benign or malicious (e.g., a spammer making seemingly innocent posts to prepare an account).
-- the user has a history of [inappropriate behavior](#deal-with-inappropriate-behavior), which would indicate a more severe level of action is needed.
-- a previous moderation action was warranted or in error in response to a report from the user of an inappropriate moderation action.
-
-The forum software provides some useful tools for investigating a user:
-
-<a name="user-notes-1"></a>
-
-#### [User Notes](#user-notes-1)
-
-This is the tool used by staff and automated systems to store documentation related to a user account.
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-1. Click the **<kbd>User Notes</kbd>** button.
-
-<a name="user-activity"></a>
-
-#### [User activity](#user-activity)
-
-This shows the user's posts, which can be used to find unreported inappropriate behavior (e.g., cross-posting, spam).
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-   - If any of their posts have been deleted, there will be a black bar at the top of the user profile "Summary" page with a **"deleted posts"** link. Click that link to see the deleted posts.
-   - Click the **"Activity"** tab to see their other posts.
-
-<a name="ip-lookup"></a>
-
-#### [IP Lookup](#ip-lookup)
-
-This tool allows you to see all the accounts associated with the user's [IP address](https://en.wikipedia.org/wiki/IP_address), which can be used to determine whether the user has other accounts (e.g., circumventing a [suspension](#suspend-an-account), [sock puppets](https://en.wikipedia.org/wiki/Sock_puppet_account)).
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-1. Click the **<kbd>Admin</kbd>** button.
-1. Click the **<kbd>:globe_with_meridians: IP Lookup</kbd>** button.
-1. Check whether any other accounts are listed under the **"Other accounts with this IP address"** section.
-
-<a name="action-logs"></a>
-
-#### [Action Logs](#action-logs)
-
-This shows all staff actions that affected the user's account. The [User Notes](#user-notes-1) will generally contain entries for all important actions, as well as manually added notes, so check User Notes first.
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-1. Click the **<kbd>Admin</kbd>** button.
-1. Click the **<kbd>Action Logs</kbd>** button.
 
 ---
 
