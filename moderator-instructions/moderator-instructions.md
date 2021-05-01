@@ -176,7 +176,7 @@ Instructions for dealing with specific common occurrences.
 
 <a name="context"></a>
 
-#### [Context](#context)
+##### [Context](#context)
 
 Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
 
@@ -184,7 +184,7 @@ The [**"Investigate user" instructions**](#investigate-user) explain how to acce
 
 <a name="tools"></a>
 
-#### [Tools](#tools)
+##### [Tools](#tools)
 
 The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
 
@@ -270,13 +270,13 @@ A cross-post is when a user posts on the same subject to the forum multiple time
 
 <a name="if-the-post-to-be-removed-has-no-valuable-replies"></a>
 
-#### [If the post to be removed has no valuable replies](#if-the-post-to-be-removed-has-no-valuable-replies)
+##### [If the post to be removed has no valuable replies](#if-the-post-to-be-removed-has-no-valuable-replies)
 
 1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions.
 
 <a name="if-the-post-to-be-removed-has-valuable-replies"></a>
 
-#### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
+##### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
 
 If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic:
 
@@ -325,7 +325,7 @@ When four months have passed since the last reply to a topic, it is automaticall
 
 When a reopen request flag is received, it should be reviewed to determine whether reopening the topic would be appropriate.
 
-#### If reopening is appropriate
+##### If reopening is appropriate
 
 1. Click the topic title at the top of the flag message to open the topic in question.
 1. Click the wrench button ("topic actions") at the bottom of the topic.
@@ -340,7 +340,7 @@ When a reopen request flag is received, it should be reviewed to determine wheth
 1. Click the <kbd>**Ignore**</kbd> button on the flag message.
    **Note:** the <kbd>**:+1: Agree...**</kbd> button should not be used because this would result in an unwarranted strike against the topic author.
 
-#### If reopening is not appropriate
+##### If reopening is not appropriate
 
 1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
 1. Click the <kbd>**Reply**</kbd> button.
@@ -486,7 +486,7 @@ User notes can be associated with a post. These are the same as the [User Notes 
 
 <a name="user-notes-general-to-an-account"></a>
 
-##### [User Notes general to an account](#user-notes-general-to-an-account)
+#### [User Notes general to an account](#user-notes-general-to-an-account)
 
 1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
 1. Click the **<kbd>User Notes</kbd>** button. The user notes will be displayed, as well as a field for adding new notes.
