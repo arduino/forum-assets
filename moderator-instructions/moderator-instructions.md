@@ -502,14 +502,6 @@ A topic hijack is when a user makes a reply that is not relevant to the topic. T
 
 ---
 
-<a name="resolve-report"></a>
-
-### [Resolve report](#resolve-report)
-
-Forum users may assist the moderators by reporting inappropriate posts. A list of open reports are shown in the [Moderate > Reported Posts area](https://forum.arduino.cc/review). If you delete the offending topic or post to resolve the report, it will be automatically closed. Otherwise, please click the "Close" button on the report after you have resolved it (or determined that no action is required) so it will be removed from the list of open reports. If you are unsure of how to resolve the report, feel free to leave it for another moderator to deal with.
-
----
-
 <a name="reopen-auto-closed-topic"></a>
 
 ### [Reopen auto-closed topic](#reopen-auto-closed-topic)
