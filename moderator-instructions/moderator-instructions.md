@@ -6,6 +6,53 @@ For an overview of the Discourse moderation system, see the **[Discourse Moderat
 
 ---
 
+<a name="table-of-contents"></a>
+
+## [Table of Contents](#table-of-contents)
+
+<!-- toc -->
+
+- [Flags](#flags)
+  - [User-submitted flags](#user-submitted-flags)
+    - [Review flag](#review-flag)
+    - [Post flagged as "Off-Topic"](#post-flagged-as-off-topic)
+    - [Post flagged as "Inappropriate"](#post-flagged-as-inappropriate)
+    - [Post flagged as "Spam"](#post-flagged-as-spam)
+    - [Post flagged as "Something Else"](#post-flagged-as-something-else)
+  - [Automated system-submitted flags](#automated-system-submitted-flags)
+    - ["Needs Approval" flag for account](#needs-approval-flag-for-account)
+    - ["Needs Approval" flag for post](#needs-approval-flag-for-post)
+    - [Akismet flagged post](#akismet-flagged-post)
+- [Guides](#guides)
+  - [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
+  - [Delete spam](#delete-spam)
+  - [Move to correct language category](#move-to-correct-language-category)
+  - [Deal with cross-post](#deal-with-cross-post)
+  - [Split hijacked topic](#split-hijacked-topic)
+  - [Reopen auto-closed topic](#reopen-auto-closed-topic)
+- [General](#general)
+  - [Move topic to correct category](#move-topic-to-correct-category)
+  - [Delete post](#delete-post)
+  - [Delete topic](#delete-topic)
+  - [Investigate user](#investigate-user)
+    - [User Notes](#user-notes)
+    - [User activity](#user-activity)
+    - [IP Lookup](#ip-lookup)
+    - [Action Logs](#action-logs)
+  - [Add User Note](#add-user-note)
+    - [User Notes specific to a post](#user-notes-specific-to-a-post)
+    - [User Notes general to an account](#user-notes-general-to-an-account)
+  - [Make staff post](#make-staff-post)
+  - [Adjust user Trust Level](#adjust-user-trust-level)
+  - [Silence user](#silence-user)
+  - [Suspend an account](#suspend-an-account)
+- [Resources](#resources)
+- [Feedback and discussion](#feedback-and-discussion)
+
+<!-- tocstop -->
+
+---
+
 <a name="flags"></a>
 
 ## [Flags](#flags)
