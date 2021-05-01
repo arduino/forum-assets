@@ -113,9 +113,9 @@ Thank you.
 
 ## [Making your first post](#making-your-first-post-1)
 
-<a name="choosing-the-right-category"></a>
+<a name="1-choose-the-right-category"></a>
 
-### [Choosing the right category](#choosing-the-right-category)
+### [1. Choose the right category](#1-choose-the-right-category)
 
 It is important to choose the right category and the right language so that the people most likely to be able to help you will see your question. Not everyone here reads questions in every category so please take your time and post in a category related to your question.
 
@@ -127,17 +127,17 @@ Please only post in English in the English language categories. If your language
 
 ![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
 
-<a name="making-a-topic"></a>
+<a name="2-make-a-topic"></a>
 
-### [Making a topic](#making-a-topic)
+### [2. Make a topic](#2-make-a-topic)
 
 Once you have found the right category you can start your post. Click on New Topic
 
 ![Starting a new topic|527x291](upload://xyrhjvPG4GMCC2HJiIzALTx4wkB.png)
 
-<a name="writing-your-post"></a>
+<a name="3-write-your-post"></a>
 
-### [Writing your post](#writing-your-post)
+### [3. Write your post](#3-write-your-post)
 
 Enter a title and a description of your problem:
 
@@ -147,9 +147,9 @@ Don't forget to include code in code tags **`</>`** and a schematic of your circ
 
 For your first two posts, the right hand side of the post composer pane will show a welcome message. Once you have closed that message, you will see a preview of how your post will look once you have submitted it.
 
-<a name="publishing-your-topic"></a>
+<a name="4-publish-your-topic"></a>
 
-### [Publishing your topic](#publishing-your-topic)
+### [4. Publish your topic](#4-publish-your-topic)
 
 When you are happy with your post click on + Create Topic to post it.
 
