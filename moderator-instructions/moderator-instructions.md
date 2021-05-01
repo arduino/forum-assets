@@ -162,6 +162,14 @@ This flag is created by `@system` when a post is detected as possibly spam by [A
 
 ---
 
+<a name="general"></a>
+
+## [General](#general)
+
+These are instructions for the general-purpose actions that make up the moderator's tool kit.
+
+---
+
 <a name="move-topic"></a>
 
 ### [Move topic to correct category](#move-topic)
@@ -311,6 +319,14 @@ Account suspensions are used when the intention is to permanently exclude the us
 
 1. Click the wrench button ("topic actions") at the bottom of the topic.
 1. From the menu, select "**Delete Topic**".
+
+---
+
+<a name="guides"></a>
+
+## [Guides](#guides)
+
+Instructions for dealing with specific common occurrences.
 
 ---
 
@@ -552,7 +568,7 @@ When a reopen request flag is received, it should be reviewed to determine wheth
 
 <a name="resources"></a>
 
-### [Resources](#resources)
+## [Resources](#resources)
 
 Some additional information relevant to forum moderator procedures:
 
@@ -564,7 +580,7 @@ Some additional information relevant to forum moderator procedures:
 
 <a name="feedback-and-discussion"></a>
 
-### [Feedback and discussion](#feedback-and-discussion)
+## [Feedback and discussion](#feedback-and-discussion)
 
 Please use the forum topic at the link below for discussion of this content:
 <https://forum.arduino.cc/t/discussion-re-moderator-documentation-content/852461>
