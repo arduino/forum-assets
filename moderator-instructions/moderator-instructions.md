@@ -484,6 +484,17 @@ User notes can be associated with a post. These are the same as the [User Notes 
 
 ---
 
+<a name="user-notes-general-to-an-account"></a>
+
+##### [User Notes general to an account](#user-notes-general-to-an-account)
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **<kbd>User Notes</kbd>** button. The user notes will be displayed, as well as a field for adding new notes.
+1. Write the User Note.
+1. Click the **<kbd>Add User Note</kbd>** button.
+
+---
+
 <a name="staff-post"></a>
 
 ### [Make staff post](#staff-post)
@@ -496,17 +507,6 @@ Moderators can mark their posts with a "Staff Color", which is intended to give 
 1. Click the **⬤⬤⬤** icon at the bottom of the post to be given the "Staff Color".
 1. Click the wrench icon.
 1. Click **"Add Staff Color"**.
-
----
-
-<a name="user-notes-general-to-an-account"></a>
-
-#### [User Notes general to an account](#user-notes-general-to-an-account)
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-1. Click the **<kbd>User Notes</kbd>** button. The user notes will be displayed, as well as a field for adding new notes.
-1. Write the User Note.
-1. Click the **<kbd>Add User Note</kbd>** button.
 
 ---
 
