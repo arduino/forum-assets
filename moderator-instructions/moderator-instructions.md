@@ -162,6 +162,196 @@ This flag is created by `@system` when a post is detected as possibly spam by [A
 
 ---
 
+<a name="guides"></a>
+
+## [Guides](#guides)
+
+Instructions for dealing with specific common occurrences.
+
+---
+
+<a name="deal-with-inappropriate-behavior"></a>
+
+### [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
+
+<a name="context"></a>
+
+#### [Context](#context)
+
+Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
+
+The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
+
+<a name="tools"></a>
+
+#### [Tools](#tools)
+
+The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
+
+- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
+- [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
+- [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
+- [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
+- [**Suspend User**](#suspend-an-account) - block the user from logging in.
+
+---
+
+<a name="delete-spam"></a>
+
+### [Delete spam](#delete-spam)
+
+In addition to the reports via [flags](#flags), you may also encounter spam while [investigating users](#investigate-user) or browsing the forum. These are the instructions for directly removing spam and spammers from the forum.
+
+<a name="exceptions"></a>
+
+##### [Exceptions](#exceptions)
+
+Mentions of relevant products or services of interest to the Arduino community are allowed in:
+
+- Topics in the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
+- Replies to topics in other [categories](https://forum.arduino.cc/categories) when the intent is to benefit the discussion, rather than solely to advertise.
+
+<a name="instructions"></a>
+
+##### [Instructions](#instructions)
+
+1. Click the **⬤⬤⬤** icon at the bottom of the spam post.
+1. Click the **:black_flag:** icon.
+1. Click the **It's Spam** radio button.
+1. Click the **<kbd>Take Action...</kbd>** button.
+1. From the dropdown menu, click **Suspend User**. The **"Suspend User"** dialog will open.
+1. From the **Select a timeframe** dropdown menu, select **Forever**.
+1. In the **Suspension Reason** text field, enter "spam".
+1. From the **"What would you like to do with the associated post?"** dropdown menu, select **Delete the post**.
+1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
+1. Click the spammer's user name.
+1. Click the spammer's user name in the profile preview popup.
+1. Click the **"Activity"** tab to see their other posts.
+1. Open any other spam posts they have made.
+1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions to delete the additional spam.
+
+---
+
+<a name="move-to-correct-language-category"></a>
+
+### [Move to correct language category](#move-to-correct-language-category)
+
+The Arduino Forum has [dedicated categories for several common non-English languages](https://forum.arduino.cc/c/international/10). When a topic written in one of these languages is created in one of the English language categories of the forum, it should be moved to the appropriate language category. Some of the language categories have subject-specific subcategories which should be used when appropriate.
+
+Topics written in a language for which there is not a dedicated board may be left in the appropriate English language board.
+
+1. If you don't know the language or, in the case of language categories with sub-categories, subject, copy the post text and paste it into [Google Translate](https://translate.google.com). This will detect the language and allow you to determine the subject matter.
+   **Note:** it's easy for someone unfamiliar with the language to mistake Portuguese for Spanish.
+1. Follow the **["Move topic to correct category" instructions](#move-topic)** to move the topic to the appropriate category.
+
+---
+
+<a name="deal-with-cross-post"></a>
+
+### [Deal with cross-post](#deal-with-cross-post)
+
+A cross-post is when a user posts on the same subject to the forum multiple times. This is harmful because it can lead to wasting the time of people trying to help by unknowingly duplicating the efforts that were made previously in reply to another instance of the cross-post.
+
+1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
+1. Click the **"Activity"** tab to see their posts.
+1. Pick one of the cross-posts to keep. If only one cross-post has valuable replies, keep that one. The cross-post that is in the appropriate forum board has preference.
+1. Follow the instructions below to [delete](#if-the-post-to-be-removed-has-no-valuable-replies) or [merge](#if-the-post-to-be-removed-has-valuable-replies) the other cross-posts.
+1. Add a [**"User Note"**](#add-user-note) to document the rule violation. If the user notes indicate a history of repeated cross-posting, take more severe moderation action, as described in the [**"Deal with inappropriate behavior"**](#deal-with-inappropriate-behavior) instructions.
+1. In a reply to the cross-post to be kept, add a ["Staff Post"](#make-staff-post):
+   > I've deleted/merged your other cross-post(s).
+   >
+   > Cross-posting is against the rules of the forum. The reason is that duplicate posts can waste the time of the people trying to help. Someone might spend 15 minutes (or more) writing a detailed answer on this topic, without knowing that someone else already did the same in the other topic.
+   >
+   > Repeated cross-posting will result in a suspension from the forum.
+   >
+   > In the future, please take some time to pick the forum board that best suits the topic of your question and then only post once to that forum board. This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
+   >
+   > Thanks in advance for your cooperation.
+
+<a name="if-the-post-to-be-removed-has-no-valuable-replies"></a>
+
+#### [If the post to be removed has no valuable replies](#if-the-post-to-be-removed-has-no-valuable-replies)
+
+1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions.
+
+<a name="if-the-post-to-be-removed-has-valuable-replies"></a>
+
+#### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
+
+If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic:
+
+1. Open the cross-post's topic.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
+1. If the entire thread is related to the cross-post, click **select all** in the dialog. If the cross-post was a [thread hijack](#split-hijacked-topic), then click the **<kbd>select</kbd>** button on each post related to the cross-post.
+1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
+1. Use the **"Search for a Topic"** field to find the cross-post topic to be kept. This can be done by entering its topic ID, which is the number at the end of the topic's URL. For example, the ID of this topic (`https://forum.arduino.cc/t/moderator-instructions/630548`) is `630548`.
+1. Click the **<kbd>Move to Existing Topic</kbd>** button.
+
+---
+
+<a name="split-hijacked-topic"></a>
+
+### [Split hijacked topic](#split-hijacked-topic)
+
+A topic hijack is when a user makes a reply that is not relevant to the topic. This can either result in a confusing thread where there are multiple parallel discussions, or else one of the people needing help being forgotten about.
+
+**Note:** a relevant reply to an old topic is not considered a hijack.
+
+**Note:** cross-posts are sometimes done in the form of a hijack. In that case, follow the [**"Deal with cross-post"** instructions](#deal-with-cross-post).
+
+1. Open the hijacked topic.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
+1. Click the **<kbd>select</kbd>** button on each post related to the hijack.
+1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
+1. In the **"New Topic Title"** field, enter an appropriate title for the subject of the hijack post.
+1. Select the appropriate [forum category](https://forum.arduino.cc/categories) from the **"Category"** dropdown menu.
+1. Click the **<kbd>Move to New Topic</kbd>** button. The new topic will be created and opened in your browser.
+1. In a reply to the newly created topic, add a ["Staff Post"](#make-staff-post):
+   > Please don't hijack topics. I've had to split your post out to its own topic.
+   >
+   > This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
+   >
+   > Thanks in advance for your cooperation.
+
+---
+
+<a name="reopen-auto-closed-topic"></a>
+
+### [Reopen auto-closed topic](#reopen-auto-closed-topic)
+
+When four months have passed since the last reply to a topic, it is automatically closed and non-staff forum users are prevented from replying. Forum users may request topics be unlocked by raising a "Something Else" flag against the topic.
+
+When a reopen request flag is received, it should be reviewed to determine whether reopening the topic would be appropriate.
+
+#### If reopening is appropriate
+
+1. Click the topic title at the top of the flag message to open the topic in question.
+1. Click the wrench button ("topic actions") at the bottom of the topic.
+1. From the menu, select "**:unlock: Open Topic**".
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
+1. Click the <kbd>**Reply**</kbd> button.
+1. Add a message to inform the flagger that the topic was opened:
+   > The topic has now been reopened.
+1. Click the <kbd>**:email: Message**</kbd> button.
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**Ignore**</kbd> button on the flag message.
+   **Note:** the <kbd>**:+1: Agree...**</kbd> button should not be used because this would result in an unwarranted strike against the topic author.
+
+#### If reopening is not appropriate
+
+1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
+1. Click the <kbd>**Reply**</kbd> button.
+1. Add a message to inform the flagger that the topic will not be reopened:
+   > We have decided to leave the topic closed. Please [create a new topic](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966#first-post).
+1. Click the <kbd>**:email: Message**</kbd> button.
+1. Go back to [the flag review page](https://forum.arduino.cc/review).
+1. Click the <kbd>**:-1: Disagree**</kbd> button.
+
+---
+
 <a name="general"></a>
 
 ## [General](#general)
@@ -373,196 +563,6 @@ Account suspensions are used when the intention is to permanently exclude the us
 1. From the **Select a timeframe** dropdown menu, select **Forever**.
 1. In the **Suspension Reason** text field, enter a short explanation for the cause of suspension (e.g., "spam").
 1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
-
----
-
-<a name="guides"></a>
-
-## [Guides](#guides)
-
-Instructions for dealing with specific common occurrences.
-
----
-
-<a name="deal-with-inappropriate-behavior"></a>
-
-### [Deal with inappropriate behavior](#deal-with-inappropriate-behavior)
-
-<a name="context"></a>
-
-#### [Context](#context)
-
-Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
-
-The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
-
-<a name="tools"></a>
-
-#### [Tools](#tools)
-
-The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
-
-- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
-- [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
-- [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
-- [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
-- [**Suspend User**](#suspend-an-account) - block the user from logging in.
-
----
-
-<a name="delete-spam"></a>
-
-### [Delete spam](#delete-spam)
-
-In addition to the reports via [flags](#flags), you may also encounter spam while [investigating users](#investigate-user) or browsing the forum. These are the instructions for directly removing spam and spammers from the forum.
-
-<a name="exceptions"></a>
-
-##### [Exceptions](#exceptions)
-
-Mentions of relevant products or services of interest to the Arduino community are allowed in:
-
-- Topics in the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
-- Replies to topics in other [categories](https://forum.arduino.cc/categories) when the intent is to benefit the discussion, rather than solely to advertise.
-
-<a name="instructions"></a>
-
-##### [Instructions](#instructions)
-
-1. Click the **⬤⬤⬤** icon at the bottom of the spam post.
-1. Click the **:black_flag:** icon.
-1. Click the **It's Spam** radio button.
-1. Click the **<kbd>Take Action...</kbd>** button.
-1. From the dropdown menu, click **Suspend User**. The **"Suspend User"** dialog will open.
-1. From the **Select a timeframe** dropdown menu, select **Forever**.
-1. In the **Suspension Reason** text field, enter "spam".
-1. From the **"What would you like to do with the associated post?"** dropdown menu, select **Delete the post**.
-1. Click the **<kbd>:no_entry_sign: Suspend</kbd>** button.
-1. Click the spammer's user name.
-1. Click the spammer's user name in the profile preview popup.
-1. Click the **"Activity"** tab to see their other posts.
-1. Open any other spam posts they have made.
-1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions to delete the additional spam.
-
----
-
-<a name="move-to-correct-language-category"></a>
-
-### [Move to correct language category](#move-to-correct-language-category)
-
-The Arduino Forum has [dedicated categories for several common non-English languages](https://forum.arduino.cc/c/international/10). When a topic written in one of these languages is created in one of the English language categories of the forum, it should be moved to the appropriate language category. Some of the language categories have subject-specific subcategories which should be used when appropriate.
-
-Topics written in a language for which there is not a dedicated board may be left in the appropriate English language board.
-
-1. If you don't know the language or, in the case of language categories with sub-categories, subject, copy the post text and paste it into [Google Translate](https://translate.google.com). This will detect the language and allow you to determine the subject matter.
-   **Note:** it's easy for someone unfamiliar with the language to mistake Portuguese for Spanish.
-1. Follow the **["Move topic to correct category" instructions](#move-topic)** to move the topic to the appropriate category.
-
----
-
-<a name="deal-with-cross-post"></a>
-
-### [Deal with cross-post](#deal-with-cross-post)
-
-A cross-post is when a user posts on the same subject to the forum multiple times. This is harmful because it can lead to wasting the time of people trying to help by unknowingly duplicating the efforts that were made previously in reply to another instance of the cross-post.
-
-1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
-1. Click the **"Activity"** tab to see their posts.
-1. Pick one of the cross-posts to keep. If only one cross-post has valuable replies, keep that one. The cross-post that is in the appropriate forum board has preference.
-1. Follow the instructions below to [delete](#if-the-post-to-be-removed-has-no-valuable-replies) or [merge](#if-the-post-to-be-removed-has-valuable-replies) the other cross-posts.
-1. Add a [**"User Note"**](#add-user-note) to document the rule violation. If the user notes indicate a history of repeated cross-posting, take more severe moderation action, as described in the [**"Deal with inappropriate behavior"**](#deal-with-inappropriate-behavior) instructions.
-1. In a reply to the cross-post to be kept, add a ["Staff Post"](#make-staff-post):
-   > I've deleted/merged your other cross-post(s).
-   >
-   > Cross-posting is against the rules of the forum. The reason is that duplicate posts can waste the time of the people trying to help. Someone might spend 15 minutes (or more) writing a detailed answer on this topic, without knowing that someone else already did the same in the other topic.
-   >
-   > Repeated cross-posting will result in a suspension from the forum.
-   >
-   > In the future, please take some time to pick the forum board that best suits the topic of your question and then only post once to that forum board. This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
-   >
-   > Thanks in advance for your cooperation.
-
-<a name="if-the-post-to-be-removed-has-no-valuable-replies"></a>
-
-#### [If the post to be removed has no valuable replies](#if-the-post-to-be-removed-has-no-valuable-replies)
-
-1. Follow the [**"Delete post"**](#delete-post) or [**"Delete topic"**](#delete-topic) instructions.
-
-<a name="if-the-post-to-be-removed-has-valuable-replies"></a>
-
-#### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
-
-If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic:
-
-1. Open the cross-post's topic.
-1. Click the wrench button ("topic actions") at the bottom of the topic.
-1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
-1. If the entire thread is related to the cross-post, click **select all** in the dialog. If the cross-post was a [thread hijack](#split-hijacked-topic), then click the **<kbd>select</kbd>** button on each post related to the cross-post.
-1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
-1. Use the **"Search for a Topic"** field to find the cross-post topic to be kept. This can be done by entering its topic ID, which is the number at the end of the topic's URL. For example, the ID of this topic (`https://forum.arduino.cc/t/moderator-instructions/630548`) is `630548`.
-1. Click the **<kbd>Move to Existing Topic</kbd>** button.
-
----
-
-<a name="split-hijacked-topic"></a>
-
-### [Split hijacked topic](#split-hijacked-topic)
-
-A topic hijack is when a user makes a reply that is not relevant to the topic. This can either result in a confusing thread where there are multiple parallel discussions, or else one of the people needing help being forgotten about.
-
-**Note:** a relevant reply to an old topic is not considered a hijack.
-
-**Note:** cross-posts are sometimes done in the form of a hijack. In that case, follow the [**"Deal with cross-post"** instructions](#deal-with-cross-post).
-
-1. Open the hijacked topic.
-1. Click the wrench button ("topic actions") at the bottom of the topic.
-1. From the menu, select "**Select Posts...**". A **"You have selected 0 posts."** dialog will open.
-1. Click the **<kbd>select</kbd>** button on each post related to the hijack.
-1. Click the **<kbd>move to</kbd>** button. A **"Move to"** dialog will open.
-1. In the **"New Topic Title"** field, enter an appropriate title for the subject of the hijack post.
-1. Select the appropriate [forum category](https://forum.arduino.cc/categories) from the **"Category"** dropdown menu.
-1. Click the **<kbd>Move to New Topic</kbd>** button. The new topic will be created and opened in your browser.
-1. In a reply to the newly created topic, add a ["Staff Post"](#make-staff-post):
-   > Please don't hijack topics. I've had to split your post out to its own topic.
-   >
-   > This is basic forum etiquette, as explained in the [**"How to get the best out of this forum"**](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966) guide. It contains a lot of other useful information. Please read it.
-   >
-   > Thanks in advance for your cooperation.
-
----
-
-<a name="reopen-auto-closed-topic"></a>
-
-### [Reopen auto-closed topic](#reopen-auto-closed-topic)
-
-When four months have passed since the last reply to a topic, it is automatically closed and non-staff forum users are prevented from replying. Forum users may request topics be unlocked by raising a "Something Else" flag against the topic.
-
-When a reopen request flag is received, it should be reviewed to determine whether reopening the topic would be appropriate.
-
-#### If reopening is appropriate
-
-1. Click the topic title at the top of the flag message to open the topic in question.
-1. Click the wrench button ("topic actions") at the bottom of the topic.
-1. From the menu, select "**:unlock: Open Topic**".
-1. Go back to [the flag review page](https://forum.arduino.cc/review).
-1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
-1. Click the <kbd>**Reply**</kbd> button.
-1. Add a message to inform the flagger that the topic was opened:
-   > The topic has now been reopened.
-1. Click the <kbd>**:email: Message**</kbd> button.
-1. Go back to [the flag review page](https://forum.arduino.cc/review).
-1. Click the <kbd>**Ignore**</kbd> button on the flag message.
-   **Note:** the <kbd>**:+1: Agree...**</kbd> button should not be used because this would result in an unwarranted strike against the topic author.
-
-#### If reopening is not appropriate
-
-1. Click the <kbd>**view full conversation**</kbd> button on the flag message.
-1. Click the <kbd>**Reply**</kbd> button.
-1. Add a message to inform the flagger that the topic will not be reopened:
-   > We have decided to leave the topic closed. Please [create a new topic](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966#first-post).
-1. Click the <kbd>**:email: Message**</kbd> button.
-1. Go back to [the flag review page](https://forum.arduino.cc/review).
-1. Click the <kbd>**:-1: Disagree**</kbd> button.
 
 ---
 
