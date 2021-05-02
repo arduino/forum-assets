@@ -125,7 +125,7 @@ https://forum.arduino.cc/c/international/10
 
 Please only post in English in the English language categories. If your language is not shown then please use Google Translate and post in an English language category using English.
 
-![Forum categories|211x500](upload://q1RpPXkL13Q8IO2uwxl2XAqXIdB.png)
+![Forum categories|211x500](https://aws1.discourse-cdn.com/arduino/optimized/4X/b/6/6/b66e64c09f6c1cfe9720e4d3d38caf76a9268503_2_211x500.png)
 
 <a name="2-make-a-topic"></a>
 
@@ -133,7 +133,7 @@ Please only post in English in the English language categories. If your language
 
 Once you have found the right category you can start your post. Click on New Topic
 
-![Starting a new topic|527x291](upload://xyrhjvPG4GMCC2HJiIzALTx4wkB.png)
+![Starting a new topic|527x291](https://aws1.discourse-cdn.com/arduino/original/4X/e/b/2/eb2c6015e18cb0b3cdeac25317434dddae3ab54d.png)
 
 <a name="3-write-your-post"></a>
 
@@ -141,7 +141,7 @@ Once you have found the right category you can start your post. Click on New Top
 
 Enter a title and a description of your problem:
 
-![Compose post|690x396](upload://x7X09LtaHT6K7MlbOMBPEBFsbU1.png)
+![Compose post|690x396](https://aws1.discourse-cdn.com/arduino/original/4X/e/8/2/e82dd9261ba78475d4ed9ec9c1a2d430674da54d.png)
 
 Don't forget to include code in code tags **`</>`** and a schematic of your circuit.
 
@@ -153,7 +153,7 @@ For your first two posts, the right hand side of the post composer pane will sho
 
 When you are happy with your post click on + Create Topic to post it.
 
-![Create topic|482x500](upload://847Xfcn13YiloEhhAmXzE5gEBKd.png)
+![Create topic|482x500](https://aws1.discourse-cdn.com/arduino/original/4X/3/8/8/3888dbaf5834c68321792a21d9493b24e9ff8165.png)
 
 That's your first post completed.
 
