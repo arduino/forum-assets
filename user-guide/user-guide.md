@@ -65,8 +65,6 @@ If you want to use computer software to create a schematic, then you might like 
 
 Please try to avoid posting links to other sites where code or photos or schematics are hosted. Most of us will not follow such links, partly due to the risk that they hold malware or other unwanted content, partly to maintain everything on this site for the benefit of future users looking for an answer to a similar question, and partly because we feel that if you want our help you should provide everything we need on this site not expect us to go hunting elsewhere for it.
 
-TYPING IN ALL UPPER CASE is considered to be SHOUTING. It won't get you an answer any quicker, it will just annoy people.
-
 <a name="research"></a>
 
 ### [Research](#research)
@@ -298,6 +296,12 @@ Ready written code for every possible application does not exist, including for 
 ### [Be polite](#be-polite)
 
 A little courtesy and politeness goes a long way. Even if you think a question has been asked before, or you don't see the point of it, try to answer politely. Remember a lot of the posters with high post counts see the same questions every day, and they may get a bit terse if you appear not to have tried very hard to help yourself in the first place. You will find that if you respond in a friendly way, people will stick with you and you will almost certainly get your problem solved. Personal insults, rudeness and offensive language are not acceptable and will result in a ban. Stick to the topic.
+
+<a name="dont-shout"></a>
+
+### [DON'T SHOUT](#dont-shout)
+
+TYPING IN ALL UPPER CASE is considered to be SHOUTING. It won't get you an answer any quicker, it will just annoy people.
 
 <a name="homework"></a>
 
