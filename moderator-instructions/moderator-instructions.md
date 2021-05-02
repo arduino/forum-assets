@@ -61,6 +61,8 @@ Flags are used to bring things to the attention of the moderators. They may be s
 
 Flags are shown on the ["Review" page](https://forum.arduino.cc/review). A moderators must review each flag and decide how it should be handled.
 
+**Note:** there are some conditions where mention of products or services is allowed and not considered spam, which are listed [here](#exceptions).
+
 <a name="user-submitted-flags"></a>
 
 ### [User-submitted flags](#user-submitted-flags)
@@ -111,8 +113,6 @@ See the [**"Inappropriate behavior"**](#deal-with-inappropriate-behavior) instru
 <a name="if-the-post-is-spam"></a>
 
 ##### [If the post is spam](#if-the-post-is-spam)
-
-**Note:** legitimate advertisements of products/services that may be of interest to the Arduino community, are allowed as long as they are posted to the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
 
 1. Click the **<kbd>:+1: Agree...</kbd>** button.
 1. From the dropdown menu, click **Suspend User**. The **"Suspend User"** dialog will open.
