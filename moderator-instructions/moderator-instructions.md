@@ -318,7 +318,20 @@ Account suspensions are used when the intention is to permanently exclude the us
 
 ### [Delete spam](#delete-spam)
 
-**Note:** topics devoted to legitimate advertisements of products/services that may be of interest to the Arduino community are allowed as long as they are in the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
+In addition to the reports via [flags](#flags), you may also encounter spam while [investigating users](#investigate-user) or browsing the forum. These are the instructions for directly removing spam and spammers from the forum.
+
+<a name="exceptions"></a>
+
+##### [Exceptions](#exceptions)
+
+Mentions of relevant products or services of interest to the Arduino community are allowed in:
+
+- Topics in the ["Products and Services" category](https://forum.arduino.cc/c/community/products-and-services/41).
+- Replies to topics in other [categories](https://forum.arduino.cc/categories) when the intent is to benefit the discussion, rather than solely to advertise.
+
+<a name="instructions"></a>
+
+##### [Instructions](#instructions)
 
 1. Click the **⬤⬤⬤** icon at the bottom of the spam post.
 1. Click the **:black_flag:** icon.
