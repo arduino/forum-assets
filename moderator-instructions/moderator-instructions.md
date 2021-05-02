@@ -225,7 +225,7 @@ Instructions for dealing with specific common occurrences.
 
 ##### [Context](#context)
 
-Although some forms of inappropriate behavior (e.g., malicious spam, hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
+Although some forms of inappropriate behavior (e.g., malicious [spam](#delete-spam), hate speech) should always result in an immediate [account suspension](#suspend-an-account), there are other cases where the user can be encouraged to follow the forum rules and become a responsible member of the community. In these cases, the history of moderation actions against the user can provide important context for determining the appropriate action to take in response to the current violation.
 
 The [**"Investigate user" instructions**](#investigate-user) explain how to access this information.
 
@@ -235,7 +235,7 @@ The [**"Investigate user" instructions**](#investigate-user) explain how to acce
 
 The moderation system offers several tools to deal with inappropriate behavior, listed below in order of increasing severity:
 
-- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
+- [**User Notes**](#add-user-note) - documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a [spam](#delete-spam) account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future violations.
 - [**Staff Post**](#make-staff-post) - mark a moderator's reply regarding inappropriate behavior as an official proclamation.
 - [**Trust Level**](#adjust-user-trust-level) - reduce the user's "Trust Level" to put automated limits on their forum use.
 - [**Silence User**](#silence-user) - block the user from making new posts, flags, or PMs.
@@ -457,7 +457,7 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 It is frequently necessary for moderators to investigate an account to determine whether moderation action is warranted, and which level of action. This might be done to determine whether:
 
-- the user's intentions are benign or malicious (e.g., a spammer making seemingly innocent posts to prepare an account).
+- the user's intentions are benign or malicious (e.g., a [spammer](#delete-spam) making seemingly innocent posts to prepare an account).
 - the user has a history of [inappropriate behavior](#deal-with-inappropriate-behavior), which would indicate a more severe level of action is needed.
 - a previous moderation action was warranted or in error in response to a report from the user of an inappropriate moderation action.
 
@@ -476,7 +476,7 @@ This is the tool used by staff and automated systems to store documentation rela
 
 #### [User activity](#user-activity)
 
-This shows the user's posts, which can be used to find unreported inappropriate behavior (e.g., cross-posting, spam).
+This shows the user's posts, which can be used to find unreported inappropriate behavior (e.g., cross-posting, [spam](#delete-spam)).
 
 1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
    - If any of their posts have been deleted, there will be a black bar at the top of the user profile "Summary" page with a **"deleted posts"** link. Click that link to see the deleted posts.
@@ -513,7 +513,7 @@ This shows all staff actions that affected the user's account. The [User Notes](
 
 **Note:** only moderators and administrators can see the icon and the notes. They are not visible to regular users.
 
-Documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a spam account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future [inappropriate behavior](#deal-with-inappropriate-behavior).
+Documenting inappropriate behavior or even suspicions of malicious intent (e.g., generic replies used to prepare a [spam](#delete-spam) account) generates [the history](#context) that will allow moderators to determine the appropriate level of action to take in response to future [inappropriate behavior](#deal-with-inappropriate-behavior).
 
 ---
 
