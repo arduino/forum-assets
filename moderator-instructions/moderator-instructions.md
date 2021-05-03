@@ -325,7 +325,9 @@ A cross-post is when a user posts on the same subject to the forum multiple time
 
 ##### [If the post to be removed has valuable replies](#if-the-post-to-be-removed-has-valuable-replies)
 
-If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic:
+If multiple cross-posts have valuable replies, they must be preserved by merging into a single topic.
+
+**Note:** The moved posts will be appended to the end of the thread of the topic they are moved to, regardless of the chronology of the posts.
 
 1. Open the cross-post's topic.
 1. Click the wrench button ("topic actions") at the bottom of the topic.
