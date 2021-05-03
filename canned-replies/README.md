@@ -20,3 +20,7 @@ For this reason, it is necessary to follow a formal process for adding or modify
 1. The pull request receives [approval](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request#submitting-your-review).
 1. The pull request is merged.
 1. The Canned Replies on Discourse are synced with the content of this repository.
+
+## Related
+
+- [Forum topic for related discussion](https://forum.arduino.cc/t/discussion-re-canned-replies/856761)
