@@ -1,8 +1,8 @@
 @
 
-[b]TOPIC MERGED.[/b]
+**TOPIC MERGED.**
 
-Could you take a few moments to [url=https://forum.arduino.cc/index.php?topic=710766.0]Learn How To Use The Forum[/url].
+Could you also take a few moments to [Learn How To Use The Forum](https://forum.arduino.cc/index.php?topic=710766.0).
 
-Other general [url=https://support.arduino.cc/hc/en-us]help and troubleshooting advice can be found here.[/url]
-It will help you get the best out of the forum.
+Other general [help and troubleshooting advice can be found here.](https://support.arduino.cc/hc/en-us)
+It will help you get the best out of the forum in the future.
