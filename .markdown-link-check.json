@@ -26,6 +26,9 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/draft-proposal-for-moderator-documentation/623114$"
+    },
+    {
+      "pattern": "^https://support\\.arduino\\.cc/hc"
     }
   ],
   "retryOn429": true,
