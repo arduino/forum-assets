@@ -1,5 +1,14 @@
 # Arduino Forum Documentation
 
+[![Check General Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml)
+[![Check License status](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml)
+[![Check Markdown status](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml)
+[![Check Prettier Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml)
+[![Check ToC status](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml)
+[![Check Workflows status](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml)
+[![Check YAML status](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml)
+[![Spell Check status](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml)
+
 This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) [pinned](https://meta.discourse.org/t/how-can-i-manually-pin-a-topic-to-the-top/95405) topics.
 
 The source content of the documentation is stored in the files in this repository. There is a folder for each document. The development of this content is done via a formal process that allows all interested parties the opportunity to participate in an efficient manner:
