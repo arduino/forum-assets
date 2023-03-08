@@ -1,5 +1,6 @@
-# See: https://github.com/igorshubovych/markdownlint-cli#ignoring-files
-
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-markdown/.markdownlintignore
+.licenses/
+__pycache__/
 node_modules/
 /faq-guidelines/faq-guidelines.md
 /loop-back-test-instructions/loop-back-test-instructions.md
