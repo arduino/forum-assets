@@ -1,0 +1,14 @@
+# Used by the "Sync Labels" workflow
+# See: https://github.com/Financial-Times/github-label-sync#label-config-file
+
+- name: "topic: availability"
+  color: "00ffff"
+  description: Related to outage or degradation of web services
+- name: "topic: forum software"
+  color: "00ffff"
+  description: Related to configuration of the Arduino Forum software
+# Vulnerability disclosures are made following the procedure at:
+# https://github.com/arduino/.github/blob/master/SECURITY.md
+- name: "topic: security"
+  color: ff0000
+  description: Related to the protection of user data

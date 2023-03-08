@@ -9,6 +9,7 @@
 [![Check Workflows status](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml)
 [![Check YAML status](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml)
 [![Spell Check status](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml)
+[![Sync Labels status](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml)
 
 This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) [pinned](https://meta.discourse.org/t/how-can-i-manually-pin-a-topic-to-the-top/95405) topics.
 
