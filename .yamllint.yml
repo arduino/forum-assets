@@ -71,3 +71,4 @@ yaml-files:
 
 ignore: |
   /.git/
+  node_modules/

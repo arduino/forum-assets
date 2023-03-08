@@ -1,3 +1,4 @@
 # See: https://prettier.io/docs/en/ignore.html#ignoring-files-prettierignore
 
+node_modules/
 /faq-guidelines/faq-guidelines.md
