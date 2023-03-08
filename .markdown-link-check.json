@@ -9,6 +9,9 @@
   ],
   "ignorePatterns": [
     {
+      "pattern": "^#"
+    },
+    {
       "pattern": "^/"
     },
     {
