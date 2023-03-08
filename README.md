@@ -4,6 +4,7 @@
 [![Check License status](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml)
 [![Check Markdown status](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml)
 [![Check Prettier Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml)
+[![Check Taskfiles status](https://github.com/arduino/forum-assets/actions/workflows/check-taskfiles.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-taskfiles.yml)
 [![Check ToC status](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml)
 [![Check Workflows status](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml)
 [![Check YAML status](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-yaml-task.yml)
