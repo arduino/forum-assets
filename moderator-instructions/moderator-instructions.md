@@ -133,7 +133,7 @@ The user submitting a "Something Else" flag will provide a message explaining th
 1. If the flag warranted action, resolve it, following the relevant instructions provided elsewhere in this document. In cases where an **"Agree"** review was warranted but you are unable to take the external action to resolve the flag, just select **"Keep Post"** from the **<kbd>:+1: Agree...</kbd>** menu. A message is generated in the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators) for each "Something Else" flag, and this message will be used to track the request. If the flag was resolved by the review process itself
 1. A private message is generated for each "Something Else" flag. This can be accessed directly via the flag's **<kbd>view full conversation</kbd>** button, or the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators). If the flag was resolved by the review interface itself, this message will automatically be archived. However, it is often not possible to resolve the flag via the review interface (e.g., [moving](#move-topic-to-correct-category) a topic to the appropriate category). In this case, the message must be manually archived by clicking its **<kbd>:file_folder: Archive</kbd>** button.
 
-   ![Archive message|356x500, 50%](https://aws1.discourse-cdn.com/arduino/original/4X/0/e/c/0ec0938faf6e77029655ff167701d3ca16bbdd3f.png)
+   ![Archive message|356x500, 50%](https://europe1.discourse-cdn.com/arduino/original/4X/0/e/c/0ec0938faf6e77029655ff167701d3ca16bbdd3f.png)
 
    **WARNING:** the [**"Moderators"** messages folder](https://forum.arduino.cc/my/messages/group/moderators) is shared between all the moderators. When you take an action it affects the inbox for everyone.
 
@@ -418,19 +418,19 @@ Users often create topics in [categories](https://forum.arduino.cc/categories) w
 
 1. Click the pencil icon ("edit the title and category of this topic") to the right of the topic title.
 
-   ![Edit topic title and category|487x253, 50%](https://aws1.discourse-cdn.com/arduino/original/4X/9/b/b/9bbf52090269d52f96c6957c6ba9b06ca6d72070.png)
+   ![Edit topic title and category|487x253, 50%](https://europe1.discourse-cdn.com/arduino/original/4X/9/b/b/9bbf52090269d52f96c6957c6ba9b06ca6d72070.png)
 
 1. Click the category field, which is under the topic title field.<br />
 
-   ![Category field|487x297, 50%](https://aws1.discourse-cdn.com/arduino/original/4X/f/9/7/f975537c87ac67779c7dc8299bf09212e2ace7b6.png)
+   ![Category field|487x297, 50%](https://europe1.discourse-cdn.com/arduino/original/4X/f/9/7/f975537c87ac67779c7dc8299bf09212e2ace7b6.png)
 
 1. Select the appropriate category from the dropdown menu. There is a convenient search feature to allow quickly finding the category you want.<br />
 
-   ![Category menu|486x296, 50%](https://aws1.discourse-cdn.com/arduino/original/4X/8/f/b/8fba956e157d958952d7b6142fefda546e5d5aef.png)
+   ![Category menu|486x296, 50%](https://europe1.discourse-cdn.com/arduino/original/4X/8/f/b/8fba956e157d958952d7b6142fefda546e5d5aef.png)
 
 1. Click the **<kbd>:heavy_check_mark:</kbd>** button.<br />
 
-   ![Confirm category|486x331, 50%](https://aws1.discourse-cdn.com/arduino/original/4X/6/a/3/6a3a4f46600a335da2ec90659ce94c42a2e520dc.png)
+   ![Confirm category|486x331, 50%](https://europe1.discourse-cdn.com/arduino/original/4X/6/a/3/6a3a4f46600a335da2ec90659ce94c42a2e520dc.png)
 
 ---
 
