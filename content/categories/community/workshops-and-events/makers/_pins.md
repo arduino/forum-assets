@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-makers-category/847507
+- https://forum.arduino.cc/t/hi-welcome-to-maker-faire-rome-the-european-edition/158299

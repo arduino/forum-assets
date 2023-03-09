@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-bar-sport-category/847486
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681340

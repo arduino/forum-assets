@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/faq-guidelines/5
+- https://forum.arduino.cc/t/about-the-staff-category/2

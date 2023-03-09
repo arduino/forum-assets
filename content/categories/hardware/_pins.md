@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-hardware-category/847452

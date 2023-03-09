@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-arduino-101-category/847517
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681346
+- https://forum.arduino.cc/t/read-me-first-troubleshooting/363430

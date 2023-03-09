@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-interfacing-w-software-on-the-computer-category/847468
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681321
+- https://forum.arduino.cc/t/demo-of-pc-arduino-comms-using-python/219184

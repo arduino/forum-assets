@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-mkr1000-old-category/847575
+- https://forum.arduino.cc/t/this-forum-section-will-be-in-read-only/376698
+- https://forum.arduino.cc/t/start-here-install-guide-faq/366571

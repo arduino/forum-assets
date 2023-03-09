@@ -1,0 +1,4 @@
+- https://forum.arduino.cc/t/about-the-mkrvidor4000-category/847590
+- https://forum.arduino.cc/t/workflow-release-vidor-sample-projects-are-opensource/558444
+- https://forum.arduino.cc/t/new-samd-beta-core-1-6-23-release-bootloader-and-library-updates/541379
+- https://forum.arduino.cc/t/solved-fpga-boot-loader-recovery/539660

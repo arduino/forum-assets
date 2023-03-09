@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-emergency-response-remote-learning-category/847530
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681306

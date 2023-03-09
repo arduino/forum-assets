@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-mkrwifi1010-category/847587

@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-general-discussion-category/847457
+- https://forum.arduino.cc/t/jobs-at-arduino/703821
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681356

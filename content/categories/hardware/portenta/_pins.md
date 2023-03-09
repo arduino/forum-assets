@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-portenta-category/847531
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681342

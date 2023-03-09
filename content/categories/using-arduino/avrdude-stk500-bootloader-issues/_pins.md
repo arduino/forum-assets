@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-avrdude-stk500-bootloader-issues-category/847521

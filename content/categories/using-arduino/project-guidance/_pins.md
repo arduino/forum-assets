@@ -1,0 +1,4 @@
+- https://forum.arduino.cc/t/about-the-project-guidance-category/847459
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681308
+- https://forum.arduino.cc/t/beginners-and-learners-read-this/600141
+- https://forum.arduino.cc/t/demonstration-code-for-several-things-at-the-same-time/217158

@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-emergency-response-covid-19-projects-category/847528
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681304

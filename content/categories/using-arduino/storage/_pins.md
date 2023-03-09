@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-storage-category/847498
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681320
+- https://forum.arduino.cc/t/dont-format-sd-cards-with-os-utilities/222016

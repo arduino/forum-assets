@@ -1,0 +1,4 @@
+- https://forum.arduino.cc/t/about-the-moderation-category/847500
+- https://forum.arduino.cc/t/moderator-instructions/630548
+- https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095
+- https://forum.arduino.cc/t/moderation-guidelines/54905

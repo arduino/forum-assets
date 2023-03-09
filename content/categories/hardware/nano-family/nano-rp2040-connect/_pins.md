@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-nano-rp2040-connect/848570

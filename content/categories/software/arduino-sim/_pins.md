@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-arduino-sim-category/847526
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681355

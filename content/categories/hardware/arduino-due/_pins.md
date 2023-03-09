@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/about-the-arduino-due-category/847504
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681349
+- https://forum.arduino.cc/t/due-pinout-diagram/129258

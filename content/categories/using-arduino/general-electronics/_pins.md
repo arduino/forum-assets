@@ -1,0 +1,7 @@
+- https://forum.arduino.cc/t/about-the-general-electronics-category/847461
+- https://forum.arduino.cc/t/using-operational-amplifiers-in-your-arduino-project/692648
+- https://forum.arduino.cc/t/buttons-and-other-electro-mechanical-inputs-advanced/688595
+- https://forum.arduino.cc/t/buttons-and-other-electro-mechanical-inputs-introduction/688576
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681311
+- https://forum.arduino.cc/t/flyback-diodes-and-why-you-need-them/675409
+- https://forum.arduino.cc/t/common-ground-and-why-you-need-one/626215

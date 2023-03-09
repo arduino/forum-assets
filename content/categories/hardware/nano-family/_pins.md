@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-nano-family-category/847527
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681343

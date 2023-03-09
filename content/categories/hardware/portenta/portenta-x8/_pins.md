@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-portenta-x8-category/1018194

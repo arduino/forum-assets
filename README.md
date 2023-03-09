@@ -1,4 +1,4 @@
-# Arduino Forum Documentation
+# Arduino Forum Assets
 
 [![Check General Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml)
 [![Check License status](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml)
@@ -11,9 +11,11 @@
 [![Spell Check status](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml)
 [![Sync Labels status](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml)
 
-This repository is used for collaborative development of the content of the important documentation content published in the [Arduino Forum](https://forum.arduino.cc) [pinned](https://meta.discourse.org/t/how-can-i-manually-pin-a-topic-to-the-top/95405) topics.
+This repository is used for collaborative development of the assets of the [Arduino Forum](https://forum.arduino.cc).
 
-The source content of the documentation is stored in the files in this repository. There is a folder for each document. The development of this content is done via a formal process that allows all interested parties the opportunity to participate in an efficient manner:
+The source content and metadata of the assets is stored in the files in this repository. There is additional documentation about the assets in their individual folders.
+
+The development is done via a formal process that allows all interested parties the opportunity to participate in an efficient manner:
 
 1. Create [a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) to contain your proposed changes.
 1. Make your proposed changes to the appropriate file.

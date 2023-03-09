@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-arduino-wifi-rev2-category/847524

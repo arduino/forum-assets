@@ -1,0 +1,3 @@
+- https://forum.arduino.cc/t/spam-topics-with-examples/999260
+- https://forum.arduino.cc/t/about-the-website-and-forum-category/847480
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681334

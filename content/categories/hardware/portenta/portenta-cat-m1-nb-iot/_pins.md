@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-portenta-cat-m1-nb-iot-gnss-shield-category/1018199

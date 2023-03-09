@@ -1,0 +1,4 @@
+- https://forum.arduino.cc/t/about-the-programming-questions-category/847460
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681310
+- https://forum.arduino.cc/t/useful-links-check-here-for-reference-posts-tutorials/370268
+- https://forum.arduino.cc/t/read-this-before-posting-a-programming-question/95349
