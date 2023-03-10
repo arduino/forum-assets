@@ -1,0 +1,44 @@
+# See: https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+name: Defect Report
+description: Report a problem with the assets, documentation, or infrastructure in this repository.
+labels:
+  - "type: imperfection"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the problem
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: |
+        If reporting a problem with a specific asset that is hosted online, provide its URL.
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Suggested correction
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any additional information here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Issue checklist
+      description: Please double-check that you have done each of the following things before submitting the issue.
+      options:
+        - label: I searched for previous reports in [the issue tracker](https://github.com/arduino/forum-assets/issues?q=)
+          required: true
+        - label: My report contains all necessary details
+          required: true

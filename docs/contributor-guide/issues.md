@@ -10,11 +10,11 @@
 
 High quality defect reports and enhancement proposals are valuable contributions to this project. These can be made by submitting an issue report to the project's GitHub repository:
 
-https://github.com/per1234/forum-assets/issues/new/choose
+https://github.com/arduino/forum-assets/issues/new/choose
 
 ## Before Reporting an Issue
 
-Search [existing pull requests and issues](https://github.com/per1234/forum-assets/issues?q=) to see if it was already reported.<br />
+Search [existing pull requests and issues](https://github.com/arduino/forum-assets/issues?q=) to see if it was already reported.<br />
 
 If you have additional information to provide about an existing issue, please comment there instead of creating a duplicate. You can use [GitHub's "Reactions" feature](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) if you only want to express support 👍.
 
