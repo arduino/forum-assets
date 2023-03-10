@@ -2,6 +2,24 @@
 version: "3"
 
 tasks:
+  check:
+    desc: Check for problems with the project
+    deps:
+      - task: ci:validate
+      - task: general:check-formatting
+      - task: general:check-spelling
+      - task: markdown:check-links
+      - task: markdown:lint
+      - task: yaml:lint
+
+  fix:
+    desc: Make automated corrections to the project's files
+    deps:
+      - task: general:correct-spelling
+      - task: general:format-prettier
+      - task: markdown:fix
+      - task: markdown:toc
+
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
   ci:validate:
     desc: Validate GitHub Actions workflows against their JSON schema
