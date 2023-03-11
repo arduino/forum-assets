@@ -1,6 +1,7 @@
 # Arduino Forum Assets
 
 [![Check General Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml)
+[![Check Files status](https://github.com/arduino/forum-assets/actions/workflows/check-files-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-files-task.yml)
 [![Check License status](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml)
 [![Check Markdown status](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml)
 [![Check Prettier Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml)
