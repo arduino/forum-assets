@@ -2,4 +2,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/t/about-the-mkr1000-old-category/847575
+https://forum.arduino.cc/t/about-the-mkr1000-old-category/847575 (private)

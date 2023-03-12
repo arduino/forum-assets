@@ -1,1 +1,1 @@
-- https://forum.arduino.cc/t/about-the-windows-virtual-shields-for-arduino-category/847513
+- https://forum.arduino.cc/t/about-the-windows-virtual-shields-for-arduino-category/847513 (private)

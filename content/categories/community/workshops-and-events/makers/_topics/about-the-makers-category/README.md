@@ -2,4 +2,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/t/about-the-makers-category/847507
+https://forum.arduino.cc/t/about-the-makers-category/847507 (private)

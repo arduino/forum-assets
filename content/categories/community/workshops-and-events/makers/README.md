@@ -2,4 +2,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/community/workshops-and-events/makers/67
+https://forum.arduino.cc/c/community/workshops-and-events/makers/67 (private)

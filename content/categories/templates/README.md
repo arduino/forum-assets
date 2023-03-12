@@ -8,8 +8,8 @@ The Discourse Templates feature is only available for staff members (moderators 
 
 ## Related
 
-- [Forum topic for related discussion](https://forum.arduino.cc/t/discussion-re-canned-replies/856761)
+- [Forum topic for related discussion](https://forum.arduino.cc/t/discussion-re-canned-replies/856761) (private)
 
 ## Published At
 
-https://forum.arduino.cc/c/templates/181
+https://forum.arduino.cc/c/templates/181 (private)
