@@ -161,11 +161,12 @@ This flag is created by `@system` when a user account creation is detected as po
 
 ##### [If the account is malicious](#if-the-account-is-malicious)
 
-Please note that Arduino has a firm policy against deleting any accounts, so you must not use the convenient **<kbd>Delete user...</kbd>** button Discourse presents. Instead, the following procedure is used to suspend the account:
+Please note that Arduino has a firm policy against deleting any accounts, so you must not use the **<kbd>Delete user...</kbd>** button Discourse presents. Instead, the following procedure is used to suspend the account:
 
 1. Suspend the user account, [following these instructions](#suspend-an-account)
 1. Go back to [the flag review page](https://forum.arduino.cc/review).
-1. Click the **<kbd>Approve User</kbd>** button. This seems absolutely wrong, but it's the only way to clear the flag. The user account will remain suspended even though it has been "approved".
+1. Click the **<kbd>Approve User</kbd>** button.
+   **ⓘ** This is done to clear the flag in a manner compliant with [Arduino's user account policies](https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095). It does not affect the suspension.
 
 <a name="needs-approval-flag-for-post"></a>
 
@@ -606,7 +607,7 @@ Account suspensions are used when the intention is to permanently exclude the us
 
 **Note:** in cases where the intent is to temporarily curtail a user's forum activity in response to [inappropriate behavior](#deal-with-inappropriate-behavior), with the intent to later restore their privileges in hopes they can be reformed to a responsible member of the forum community, they should instead be ["Silenced"](#silence-user).
 
-**Note:** Arduino has [a policy](https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095/5) against deleting accounts, so you must not use the convenient **Delete User** options the Discourse moderator interface often presents. Account suspensions are used instead. Suspensions are reversible in the event an error was discovered, which allows the moderators more freedom to take swift action.
+**Note:** Arduino has [a policy](https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095/5) against deleting accounts, so you must not use the **Delete User** options the Discourse moderator interface often presents. Account suspensions are used instead. Suspensions are reversible in the event an error was discovered, which allows the moderators more freedom to take swift action.
 
 1. Open the user's profile page. This can be accessed by clicking their user name, then the user name in the profile preview popup.
 1. Click the **<kbd>Admin</kbd>** button.
