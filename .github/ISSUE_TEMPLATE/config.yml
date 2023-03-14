@@ -1,6 +1,7 @@
 # See:
 # https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
 
+blank_issues_enabled: false
 contact_links:
   - name: Learn about using this project
     url: https://github.com/arduino/forum-assets#readme
