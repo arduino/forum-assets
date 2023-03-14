@@ -12,7 +12,7 @@
 [![Spell Check status](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/spell-check-task.yml)
 [![Sync Labels status](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/sync-labels-npm.yml)
 
-This repository is used for collaborative development of the assets of the [Arduino Forum](https://forum.arduino.cc).
+This repository is used for issue tracking and collaborative development of [Arduino Forum](https://forum.arduino.cc) assetx.
 
 The source content and metadata of the assets is stored in the files in this repository. There is additional documentation about the assets in their individual folders.
 

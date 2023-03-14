@@ -1,7 +1,7 @@
 # See: https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 
 name: Defect Report
-description: Report a problem with the assets, documentation, or infrastructure in this repository.
+description: Report a problem with the forum configuration or assets, documentation, and infrastructure hosted in this repository.
 labels:
   - "type: imperfection"
 body:
