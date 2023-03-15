@@ -1,4 +1,4 @@
-#
+# Intel®-based platforms
 
 ## Published At
 
