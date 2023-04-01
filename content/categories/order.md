@@ -1,0 +1,170 @@
+- Staff
+  - Moderation
+    - Policies
+  - TEST
+- Using Arduino
+  - Installation & Troubleshooting
+  - Introductory Tutorials
+  - Avrdude, stk500, Bootloader issues
+  - Project Guidance
+  - Programming Questions
+  - General Electronics
+  - Microcontrollers
+  - LEDs and Multiplexing
+  - Displays
+  - Audio
+  - Motors, Mechanics, Power and CNC
+  - Sensors
+  - Networking, Protocols, and Devices
+  - Storage
+  - Interfacing w/ Software on the Computer
+- Projects Discussion and Showcase
+  - Emergency Response: Covid-19 Projects
+  - Emergency Response: Remote Learning
+  - E-Textiles and Craft
+  - Science and Measurement
+  - Robotics
+  - Home Automation
+  - Device Hacking
+  - Education and Teaching
+  - Interactive Art
+  - Product Design
+- Hardware
+  - Portenta
+    - Portenta C33
+    - Portenta H7
+    - Portenta X8
+    - Portenta Machine Control
+    - Portenta Breakout
+    - Portenta Max Carrier
+    - Portenta CAT.M1/NB IoT GNSS Shield
+    - Portenta Vision Shield
+    - Edge Control
+  - Nano Family
+    - Classic Nano
+    - Nano 33 IoT
+    - Nano Every
+    - Nano 33 BLE
+    - Nano 33 BLE Sense
+    - Nano RP2040 Connect
+  - MKR Family
+    - MKRVIDOR4000
+    - MKR1000
+    - MKRWIFI1010
+    - MKRZero
+    - MKRFOX1200
+    - MKRWAN1300
+    - MKRNB1500
+    - MKRGSM1400
+    - Mkr1000 [old]
+    - MKRWAN1310
+    - MKR SHIELDS
+  - Arduino Yún
+    - Yún Shield
+  - Arduino WiFi Rev2
+  - Arduino Education Kits
+    - CTC 101
+    - Arduino Engineering Kit
+    - Arduino Starter Kit Classroom Pack
+    - CTC GO!
+    - Arduino Science Journal & Arduino Science Kit
+  - The Arduino Starter Kit
+  - Arduino 101
+  - Arduino Zero
+  - Arduino Due
+  - Arduino Esplora
+  - Arduino GSM Shield
+  - WiFi Shield 101
+  - Materia 101
+  - WisGate Gateways
+  - Nicla family
+    - Nicla Sense ME
+    - Nicla Vision
+    - Nicla Voice
+  - Opta
+  - GIGA R1
+- Software
+  - Arduino IDE 2.0
+  - Web Editor
+  - Cloud
+  - IoT Cloud
+  - Chrome App
+  - Intel®-based platforms
+  - Arduino command line tools
+  - Arduino SIM
+  - Windows Remote Arduino
+  - Windows Virtual Shields for Arduino
+- Community
+  - General Discussion
+  - Website and Forum
+  - Products and Services
+  - Jobs and Paid Consultancy
+  - Workshops and Events
+    - Makers
+    - Events and Tour
+  - Local Groups
+  - Exhibition / Gallery
+  - Bar Sport
+  - Project Hub
+- Development
+  - Suggestions for the Arduino Project
+  - Other Hardware Development
+  - Libraries
+- International
+  - 中文 (Chinese)
+  - Deutsch
+  - Español
+    - Software
+    - Hardware
+    - Microcontroladores
+    - Documentación
+    - Humor y Debate
+    - Talleres, Encuentros, ...
+    - Proyectos
+  - Français
+    - Tutoriels et cours
+    - Réalisations et Projets Finis
+    - Le bar
+  - India
+  - Italiano
+    - Generale
+    - Hardware
+    - Megatopic
+    - Software
+  - Nederlands
+  - Português
+  - Россия - Russia
+  - Scandinavia
+- Garbage
+  - Recycle Bin
+- Forum 2005-2010 (read only)
+  - General
+    - Uno Punto Zero
+    - Bar Sport
+    - Frequently-Asked Questions
+    - News
+    - Exhibition
+    - Workshops
+  - Hardware
+    - Interfacing
+    - Bugs & Suggestions
+    - Development
+    - Troubleshooting
+  - Software
+    - Development
+    - Interfacing
+    - Syntax & Programs
+    - Bugs & Suggestions
+    - Troubleshooting
+  - International
+    - Portugues
+    - Deutsch
+    - Español
+    - Français
+    - Italiano
+    - Scandinavia
+  - Web/Forum/Email/Spam
+    - Report Spam at Arduino.cc
+    - Forum
+    - Playground Wiki
+- Templates
