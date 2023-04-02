@@ -2,4 +2,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/t/about-the-nano-33-ble/847599/1
+https://forum.arduino.cc/t/about-the-nano-33-ble/847599

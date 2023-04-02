@@ -2,4 +2,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/t/about-the-hardware-category/847452/1
+https://forum.arduino.cc/t/about-the-hardware-category/847452
