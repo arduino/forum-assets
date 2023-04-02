@@ -3,6 +3,7 @@
     - Policies
   - TEST
 - Using Arduino
+  - Uncategorized
   - Installation & Troubleshooting
   - Introductory Tutorials
   - Avrdude, stk500, Bootloader issues
