@@ -22,6 +22,21 @@ The content of the "**About the \_\_\_\_\_ category**" topics is used as the cat
 1. Save the file.
 1. Submit a [pull request](contributor-guide/pull-requests.md) for the change.
 
+## Reorder Categories
+
+The forum software is configured to show categories in a specific order in the category listings. Changes to this order can be made by the following procedure:
+
+1. Open the (`content/categories/order.md`)[./content/categories/order.md) file in a text editor.
+1. Make the desired changes to the order of the categories listed in the file.
+1. Save the file.
+1. Submit a [pull request](contributor-guide/pull-requests.md) for the change.
+
+---
+
+**ⓘ** The forum contains some categories that are only accessible to staff members (either due to being archived obsolete content or only of use to staff). Those categories will not be visible on the forum website when not logged into a forum account with staff privileges.
+
+---
+
 ## Add or Edit a Discourse Template
 
 ["Discourse Templates"](https://meta.discourse.org/t/discourse-templates/229250) provide standardized reusable content for common posts.

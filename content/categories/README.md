@@ -8,6 +8,12 @@ The "**See**" (view category and topics), "**Reply**" (reply to topics), and "**
 
 The special "**everyone**" group is used to set category permissions that are universal to all forum users regardless of the specific groups they are a member of.
 
+## Category Order
+
+The order of the categories is defined in [`order.md`](order.md).
+
+More information [**here**](../../docs/development.md#reorder-categories).
+
 ## Notes
 
 - The content of the "**About the \_\_\_\_\_ category**" topics is used as the category description in the category listings.
