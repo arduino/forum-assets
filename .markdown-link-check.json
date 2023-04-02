@@ -72,6 +72,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-staff-category/2$"
     },
     {
+      "pattern": "^https://forum.arduino.cc/t/about-the-recycle-bin-category/847560$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-templates-category/1087943$"
     },
     {

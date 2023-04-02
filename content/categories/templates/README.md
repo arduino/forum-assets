@@ -10,6 +10,13 @@ The Discourse Templates feature is only available for staff members (moderators 
 
 - [Forum topic for related discussion](https://forum.arduino.cc/t/discussion-re-canned-replies/856761) (private)
 
+## Permissions
+
+| Group  | See | Reply | Create |
+| ------ | --- | ----- | ------ |
+| admins | ✓   | ✓     | ✓      |
+| staff  | ✓   |       |        |
+
 ## Published At
 
 https://forum.arduino.cc/c/templates/181 (private)
