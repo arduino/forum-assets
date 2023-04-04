@@ -10,7 +10,7 @@
 1. Save the file.
 1. Submit a [pull request](contributor-guide/pull-requests.md) for the change.
 
-## Change the Description of a Topic
+## Change the Description of a Category
 
 The content of the "**About the \_\_\_\_\_ category**" topics is used as the category description in the category listings. This description helps the users to understand whether the category is the appropriate place for a topic they are creating.
 
