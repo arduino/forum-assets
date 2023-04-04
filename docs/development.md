@@ -102,11 +102,13 @@ New asset topics can be added to the repository to enable collaborative developm
    ```
 1. If the topic is already published on Arduino Forum, add the URL under a `## Published At` heading.
    For example:
+
    ```markdown
    ## Published At
 
    https://forum.arduino.cc/t/some-valuable-topic/1234
    ```
+
 1. Save the file.
 1. Create a file named `1.md`.
 1. Add the post text to the file.
