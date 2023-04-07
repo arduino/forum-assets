@@ -15,3 +15,6 @@ contact_links:
   - name: Contributor guide
     url: https://github.com/arduino/forum-assets/blob/main/docs/CONTRIBUTING.md#contributor-guide
     about: Learn about contributing to this project.
+  - name: Discourse reports and contributions
+    url: https://github.com/discourse/discourse/blob/main/CONTRIBUTING.md#contributing-to-discourse
+    about: Report bugs, request features, or contribute to the Discourse platform used by Arduino Forum.
