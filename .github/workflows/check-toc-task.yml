@@ -106,3 +106,15 @@ jobs:
         if: failure() && steps.check-toc.outcome == 'failure'
         run: |
           echo "::notice file=${{ matrix.file.name }}::Corrected file was saved to the ${{ env.ARTIFACT_NAME }} workflow artifact"
+
+      - name: Resolution instructions
+        if: failure() && steps.check-toc.outcome == 'failure'
+        run: |
+          echo "Table of contents can be updated by running the following command from the root of the repository:"
+          echo "task markdown:toc FILE_PATH=${{ matrix.file.name }} MAX_DEPTH=${{ matrix.file.maxdepth }}"
+          echo
+          echo "- OR -"
+          echo
+          echo "Download the ${{ env.ARTIFACT_NAME }} workflow artifact and replace ${{ matrix.file.name }} with the"
+          echo "corrected file from the artifact."
+          echo "See: https://docs.github.com/actions/managing-workflow-runs/downloading-workflow-artifacts"
