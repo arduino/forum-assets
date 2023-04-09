@@ -56,6 +56,9 @@ jobs:
     if: needs.run-determination.outputs.result == 'true'
     runs-on: ubuntu-latest
 
+    env:
+      ARTIFACT_NAME: corrected-files
+
     strategy:
       fail-fast: false
 
@@ -86,4 +89,20 @@ jobs:
             MAX_DEPTH=${{ matrix.file.maxdepth }}
 
       - name: Check ToC
+        id: check-toc
         run: git diff --color --exit-code
+
+      - name: Upload corrected file to workflow artifact
+        if: failure() && steps.check-toc.outcome == 'failure'
+        uses: actions/upload-artifact@v3
+        with:
+          if-no-files-found: error
+          name: ${{ env.ARTIFACT_NAME }}
+          # Globstar prefix is to preserve folder structure in artifact.
+          # https://github.com/actions/upload-artifact/tree/v3.1.2#:~:text=path%20hierarchy%20will%20be%20preserved
+          path: "**/${{ matrix.file.name }}"
+
+      - name: Add artifact availability notice
+        if: failure() && steps.check-toc.outcome == 'failure'
+        run: |
+          echo "::notice file=${{ matrix.file.name }}::Corrected file was saved to the ${{ env.ARTIFACT_NAME }} workflow artifact"

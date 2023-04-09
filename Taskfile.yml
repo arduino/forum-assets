@@ -20,7 +20,6 @@ tasks:
       - task: general:correct-spelling
       - task: general:format-prettier
       - task: markdown:fix
-      - task: markdown:toc
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
   ci:validate:
