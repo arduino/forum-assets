@@ -84,6 +84,7 @@
     - Nicla Voice
   - Opta
   - GIGA R1
+  - UNO R4
 - Software
   - Arduino IDE 2.0
   - Web Editor
