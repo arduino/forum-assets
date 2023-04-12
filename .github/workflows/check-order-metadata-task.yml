@@ -1,0 +1,92 @@
+name: Check Category Order Metadata
+
+# See: https://docs.github.com/actions/using-workflows/events-that-trigger-workflows
+on:
+  create:
+  push:
+    paths:
+      - ".github/workflows/check-order-metadata-task.ya?ml"
+      - "poetry.lock"
+      - "pyproject.toml"
+      - "Taskfile.ya?ml"
+      - "assets/generate-category-order-metadata/*"
+      - "content/categories/order.md"
+  pull_request:
+    paths:
+      - ".github/workflows/check-order-metadata-task.ya?ml"
+      - "poetry.lock"
+      - "pyproject.toml"
+      - "Taskfile.ya?ml"
+      - "assets/generate-category-order-metadata/*"
+      - "content/categories/order.md"
+  schedule:
+    # Run periodically to catch breakage caused by external changes.
+    - cron: "0 3 * * FRI"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  run-determination:
+    runs-on: ubuntu-latest
+    outputs:
+      result: ${{ steps.determination.outputs.result }}
+    steps:
+      - name: Determine if the rest of the workflow should run
+        id: determination
+        run: |
+          if [[ "${{ secrets.ARDUINO_FORUM_API_KEY }}" == "" ]]; then
+            # Required API key secret is not defined.
+            RESULT="false"
+          else
+            RESULT="true"
+          fi
+
+          echo "result=$RESULT" >> $GITHUB_OUTPUT
+
+  check-order-metadata:
+    needs: run-determination
+    if: needs.run-determination.outputs.result == 'true'
+    runs-on: ubuntu-latest
+    env:
+      ARTIFACT_NAME: category-order-metadata
+      CATEGORY_ORDER_METADATA_FILE_PATH: content/categories/order.md
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Poetry
+        run: |
+          pipx install \
+            --python "$(which python)" \
+            poetry
+
+      - name: Install Task
+        uses: arduino/setup-task@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Generate category order metadata
+        env:
+          ARDUINO_FORUM_API_KEY: ${{ secrets.ARDUINO_FORUM_API_KEY }}
+        run: |
+          task \
+            --silent \
+            forum:generate-category-order-metadata
+
+      - name: Check category order metadata
+        id: check-category-order-metadata
+        run: git diff --color --exit-code
+
+      - name: Upload corrected file to workflow artifact
+        if: failure() && steps.check-category-order-metadata.outcome == 'failure'
+        uses: actions/upload-artifact@v3
+        with:
+          if-no-files-found: error
+          name: ${{ env.ARTIFACT_NAME }}
+          path: ${{ env.CATEGORY_ORDER_METADATA_FILE_PATH }}
+
+      - name: Add artifact availability notice
+        if: failure() && steps.check-category-order-metadata.outcome == 'failure'
+        run: |
+          echo "::notice file=${{ env.CATEGORY_ORDER_METADATA_FILE_PATH }}::Corrected file was saved to the ${{ env.ARTIFACT_NAME }} workflow artifact"

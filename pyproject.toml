@@ -6,6 +6,7 @@ authors = ["Arduino <info@arduino.cc>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+requests = "^2.28.2"
 
 [tool.poetry.group.dev.dependencies]
 yamllint = "^1.30.0"
