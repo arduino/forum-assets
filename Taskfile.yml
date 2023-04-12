@@ -54,6 +54,21 @@ tasks:
     # This is an "umbrella" task used to call any documentation generation processes the project has.
     # It can be left empty if there are none.
 
+  forum:generate-category-order-metadata:
+    desc: Generate the category order metadata file
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - |
+        if [[ "$ARDUINO_FORUM_API_KEY" == "" ]]; then
+          echo "ARDUINO_FORUM_API_KEY environment variable not set."
+          echo "This task requires a forum.arduino.cc Discourse API key with \"categories > list\" scope."
+          exit 1
+        fi
+
+        poetry run \
+          python assets/generate-category-order-metadata/generate-category-order-metadata.py
+
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-files-task/Taskfile.yml
   general:check-filenames:
     desc: Check for non-portable filenames
@@ -286,6 +301,22 @@ tasks:
     desc: Install dependencies managed by Poetry
     cmds:
       - poetry install --no-root
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-python-task/Taskfile.yml
+  python:format:
+    desc: Format Python files
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - poetry run black .
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-python-task/Taskfile.yml
+  python:lint:
+    desc: Lint Python code
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - poetry run flake8 --show-source
 
   # Make a temporary file named according to the passed TEMPLATE variable and print the path passed to stdout
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/windows-task/Taskfile.yml
