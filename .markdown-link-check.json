@@ -129,9 +129,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/getting-to-tl-so-you-can-post-images-etc/1087956$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/code-tags-usage/1087949$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved/1087950$"
     },
     {
