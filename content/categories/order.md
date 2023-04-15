@@ -94,6 +94,7 @@
   - Intel®-based platforms
   - Arduino command line tools
   - Arduino SIM
+  - PLC IDE
   - Windows Remote Arduino
   - Windows Virtual Shields for Arduino
 - Community
