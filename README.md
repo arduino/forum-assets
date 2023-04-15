@@ -1,10 +1,12 @@
 # Arduino Forum Assets
 
+[![Check Category Order Metadata](https://github.com/arduino/forum-assets/actions/workflows/check-order-metadata-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-order-metadata-task.yml)
 [![Check General Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-general-formatting-task.yml)
 [![Check Files status](https://github.com/arduino/forum-assets/actions/workflows/check-files-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-files-task.yml)
 [![Check License status](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-license.yml)
 [![Check Markdown status](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-markdown-task.yml)
 [![Check Prettier Formatting status](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-prettier-formatting-task.yml)
+[![Check Python status](https://github.com/arduino/forum-assets/actions/workflows/check-python-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-python-task.yml)
 [![Check Taskfiles status](https://github.com/arduino/forum-assets/actions/workflows/check-taskfiles.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-taskfiles.yml)
 [![Check ToC status](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-toc-task.yml)
 [![Check Workflows status](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml/badge.svg)](https://github.com/arduino/forum-assets/actions/workflows/check-workflows-task.yml)

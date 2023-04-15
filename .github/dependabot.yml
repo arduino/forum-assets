@@ -5,7 +5,27 @@ updates:
   # Configure check for outdated GitHub Actions actions in workflows.
   # See: https://docs.github.com/en/code-security/supply-chain-security/keeping-your-actions-up-to-date-with-dependabot
   - package-ecosystem: github-actions
+    assignees:
+      - per1234
     directory: / # Check the repository's workflows under /.github/workflows/
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+
+  - package-ecosystem: npm
+    assignees:
+      - per1234
+    directory: /
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+
+  - package-ecosystem: pip
+    assignees:
+      - per1234
+    directory: /
     schedule:
       interval: daily
     labels:

@@ -30,6 +30,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/hardware/mkr-boards/mkr1000-old/"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/c/hardware/uno-r4/"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/c/software/cloud/"
     },
     {
@@ -81,6 +84,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-test-category/847511$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-uno-r4-category/1114082$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-windows-remote-arduino-category/847512$"
     },
     {
@@ -88,6 +94,9 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/hi-welcome-to-maker-faire-rome-the-european-edition/158299$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/how-to-get-the-best-out-of-this-forum/1114083$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
