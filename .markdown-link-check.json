@@ -102,6 +102,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/staging-site-sandbox-forum-instance/1112538$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/this-forum-section-will-be-in-read-only/376698$"
     },
     {

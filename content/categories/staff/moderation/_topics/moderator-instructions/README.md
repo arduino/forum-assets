@@ -15,3 +15,5 @@
 - https://forum.arduino.cc/t/draft-proposal-for-moderator-documentation/623114 (private)
 - https://meta.discourse.org/t/discourse-moderation-guide/63116
 - https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095 (private)
+- ["Staging site" sandbox forum access instructions](https://forum.arduino.cc/t/staging-site-sandbox-forum-instance/1112538) (private)
+  - This can be used for testing during the development of standard moderation procedures.
