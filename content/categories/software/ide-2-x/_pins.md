@@ -1,0 +1,2 @@
+- `<latest release announcement>`
+- https://forum.arduino.cc/t/about-the-ide-2-x-category/847533

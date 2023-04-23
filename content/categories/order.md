@@ -86,7 +86,7 @@
   - GIGA R1
   - UNO R4
 - Software
-  - Arduino IDE 2.0
+  - IDE 2.x
   - Web Editor
   - Cloud
   - IoT Cloud
