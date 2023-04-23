@@ -1,4 +1,4 @@
-# Introductory Tutorials
+# Tutorials
 
 ## Permissions
 
@@ -11,4 +11,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/introductory-tutorials/80
+https://forum.arduino.cc/c/using-arduino/tutorials/80
