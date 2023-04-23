@@ -85,7 +85,7 @@
   - Opta
   - GIGA R1
   - UNO R4
-- Software
+- Development Tools
   - Arduino IDE 2.0
   - Web Editor
   - Cloud

@@ -1,11 +1,11 @@
-# Web Editor
+# Development Tools
 
 ## Permissions
 
 | Group    | See | Reply | Create |
 | -------- | --- | ----- | ------ |
-| everyone | ✓   | ✓     | ✓      |
+| everyone | ✓   |       |        |
 
 ## Published At
 
-https://forum.arduino.cc/c/software/editor/134
+https://forum.arduino.cc/c/development-tools/164

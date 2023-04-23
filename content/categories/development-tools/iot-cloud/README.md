@@ -1,4 +1,4 @@
-# Arduino command line tools
+# IoT Cloud
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/arduino-cli/89
+https://forum.arduino.cc/c/development-tools/iot-cloud/152

@@ -1,4 +1,4 @@
-# IoT Cloud
+# PLC IDE
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/iot-cloud/152
+https://forum.arduino.cc/c/development-tools/plc-ide/187
