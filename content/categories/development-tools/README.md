@@ -1,11 +1,11 @@
-# PLC IDE
+# Development Tools
 
 ## Permissions
 
 | Group    | See | Reply | Create |
 | -------- | --- | ----- | ------ |
-| everyone | ✓   | ✓     | ✓      |
+| everyone | ✓   |       |        |
 
 ## Published At
 
-https://forum.arduino.cc/c/software/plc-ide/187
+https://forum.arduino.cc/c/development-tools/164

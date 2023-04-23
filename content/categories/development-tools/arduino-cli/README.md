@@ -1,4 +1,4 @@
-# Web Editor
+# Arduino command line tools
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/editor/134
+https://forum.arduino.cc/c/development-tools/arduino-cli/89

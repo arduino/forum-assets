@@ -1,4 +1,4 @@
-# Chrome App
+# IDE 2.x
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/chrome-app/141
+https://forum.arduino.cc/c/development-tools/ide-2-x/93
