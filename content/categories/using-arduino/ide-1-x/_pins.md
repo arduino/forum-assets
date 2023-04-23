@@ -1,4 +1,4 @@
-- https://forum.arduino.cc/t/about-the-installation-troubleshooting-category/847458
+- https://forum.arduino.cc/t/about-the-ide-1-x-category/847458
 - https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966
 - https://forum.arduino.cc/t/loop-back-test-instructions/73046
 - https://forum.arduino.cc/t/please-check-the-troubleshooting-guide-before-posting-here/52209
