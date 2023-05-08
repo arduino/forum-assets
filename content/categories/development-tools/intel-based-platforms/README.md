@@ -1,4 +1,4 @@
-# Arduino IDE 2.0
+# Intel®-based platforms
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/arduino-ide-2-0/93
+https://forum.arduino.cc/c/development-tools/intel-based-platforms/144

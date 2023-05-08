@@ -1,4 +1,4 @@
-# PLC IDE
+# Web Editor
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/plc-ide/187
+https://forum.arduino.cc/c/development-tools/editor/134

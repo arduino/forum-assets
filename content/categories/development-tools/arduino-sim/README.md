@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/arduino-sim/86
+https://forum.arduino.cc/c/development-tools/arduino-sim/86
