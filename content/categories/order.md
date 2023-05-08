@@ -30,7 +30,7 @@
   - Education and Teaching
   - Interactive Art
   - Product Design
-- Hardware
+- Official Hardware
   - Portenta
     - Portenta C33
     - Portenta H7
