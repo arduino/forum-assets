@@ -5,7 +5,7 @@
 - Using Arduino
   - Uncategorized
   - Installation & Troubleshooting
-  - Introductory Tutorials
+  - Tutorials
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
   - Programming Questions
