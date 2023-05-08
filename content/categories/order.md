@@ -8,7 +8,7 @@
   - Introductory Tutorials
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
-  - Programming Questions
+  - Programming
   - General Electronics
   - Microcontrollers
   - LEDs and Multiplexing
