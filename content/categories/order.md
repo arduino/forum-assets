@@ -138,8 +138,6 @@
   - Português
   - Россия - Russia
   - Scandinavia
-- Garbage
-  - Recycle Bin
 - Forum 2005-2010 (read only)
   - General
     - Uno Punto Zero

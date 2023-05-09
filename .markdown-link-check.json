@@ -24,9 +24,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/community/workshops-and-events/makers/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/garbage/"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/c/hardware/mkr-boards/mkr1000-old/"
     },
     {
@@ -57,9 +54,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-events-and-tour-category/847508$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-garbage-category/847559$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-makers-category/847507$"
     },
     {
@@ -73,9 +67,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-staff-category/2$"
-    },
-    {
-      "pattern": "^https://forum.arduino.cc/t/about-the-recycle-bin-category/847560$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-templates-category/1087943$"
