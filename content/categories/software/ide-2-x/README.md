@@ -1,4 +1,4 @@
-# Arduino IDE 2.0
+# IDE 2.x
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/arduino-ide-2-0/93
+https://forum.arduino.cc/c/software/ide-2-x/93
