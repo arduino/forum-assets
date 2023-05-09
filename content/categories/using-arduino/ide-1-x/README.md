@@ -1,4 +1,4 @@
-# Installation & Troubleshooting
+# IDE 1.x
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/installation-troubleshooting/18
+https://forum.arduino.cc/c/using-arduino/ide-1-x/18

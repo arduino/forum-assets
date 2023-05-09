@@ -4,7 +4,7 @@
   - TEST
 - Using Arduino
   - Uncategorized
-  - Installation & Troubleshooting
+  - IDE 1.x
   - Introductory Tutorials
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
