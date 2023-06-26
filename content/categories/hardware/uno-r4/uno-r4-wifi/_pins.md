@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-uno-r4-wifi-category/1141867
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1141868

@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-uno-r4-minima-category/1141865
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1141870
