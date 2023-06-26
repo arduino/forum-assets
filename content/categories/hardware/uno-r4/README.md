@@ -2,11 +2,9 @@
 
 ## Permissions
 
-| Group                | See | Reply | Create |
-| -------------------- | --- | ----- | ------ |
-| arduino_team         | ✓   | ✓     | ✓      |
-| early_access_program | ✓   | ✓     | ✓      |
-| staff                | ✓   | ✓     | ✓      |
+| Group    | See | Reply | Create |
+| -------- | --- | ----- | ------ |
+| everyone | ✓   |       |        |
 
 ## Published At
 

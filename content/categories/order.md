@@ -85,6 +85,8 @@
   - Opta
   - GIGA R1
   - UNO R4
+    - UNO R4 Minima
+    - UNO R4 WiFi
 - Software
   - IDE 2.x
   - Web Editor
