@@ -44,6 +44,7 @@
   - Nano Family
     - Classic Nano
     - Nano 33 IoT
+    - Nano ESP32
     - Nano Every
     - Nano 33 BLE
     - Nano 33 BLE Sense

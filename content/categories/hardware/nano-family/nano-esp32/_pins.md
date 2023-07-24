@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-nano-esp32-category/1151125
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1151127
