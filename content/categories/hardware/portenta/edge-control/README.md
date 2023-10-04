@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/hardware/portenta/edge-impulse/178
+https://forum.arduino.cc/c/hardware/portenta/edge-control/178
