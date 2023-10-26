@@ -37,6 +37,7 @@
     - Portenta X8
     - Portenta Machine Control
     - Portenta Breakout
+    - Portenta Hat Carrier
     - Portenta Max Carrier
     - Portenta CAT.M1/NB IoT GNSS Shield
     - Portenta Vision Shield
