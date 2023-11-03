@@ -86,6 +86,7 @@
     - Nicla Voice
   - Opta
   - GIGA R1
+  - GIGA Display Shield
   - UNO R4
     - UNO R4 Minima
     - UNO R4 WiFi
