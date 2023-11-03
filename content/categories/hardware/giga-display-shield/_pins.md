@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-giga-display-shield-category/1166398
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1166402
