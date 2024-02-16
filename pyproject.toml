@@ -12,7 +12,7 @@ python = "^3.9"
 requests = "^2.31.0"
 
 [tool.poetry.group.dev.dependencies]
-yamllint = "^1.34.0"
+yamllint = "^1.35.0"
 codespell = "^2.2.6"
 black = "24.2.0"
 flake8 = "7.0.0"
