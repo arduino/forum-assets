@@ -18,6 +18,9 @@
       "pattern": "^https://cloud\\.arduino\\.cc/cloud$"
     },
     {
+      "pattern": "^https://chromewebstore\\.google\\.com/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/c/community/workshops-and-events/events-and-tour/"
     },
     {
