@@ -14,7 +14,7 @@ requests = "^2.31.0"
 [tool.poetry.group.dev.dependencies]
 yamllint = "^1.35.1"
 codespell = "^2.2.6"
-black = "24.4.0"
+black = "24.4.1"
 flake8 = "7.0.0"
 pep8-naming = "0.13.3"
 
