@@ -9,7 +9,7 @@ authors = ["Arduino <info@arduino.cc>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-requests = "^2.32.2"
+requests = "^2.32.3"
 
 [tool.poetry.group.dev.dependencies]
 yamllint = "^1.35.1"
