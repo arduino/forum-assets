@@ -8,6 +8,7 @@ updates:
     assignees:
       - per1234
     directory: / # Check the repository's workflows under /.github/workflows/
+    open-pull-requests-limit: 100
     schedule:
       interval: daily
     labels:
@@ -17,6 +18,7 @@ updates:
     assignees:
       - per1234
     directory: /
+    open-pull-requests-limit: 100
     schedule:
       interval: daily
     labels:
@@ -26,6 +28,7 @@ updates:
     assignees:
       - per1234
     directory: /
+    open-pull-requests-limit: 100
     schedule:
       interval: daily
     labels:
