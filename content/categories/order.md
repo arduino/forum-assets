@@ -47,6 +47,7 @@
     - Nano 33 IoT
     - Nano ESP32
     - Nano Every
+    - Nano Matter
     - Nano 33 BLE
     - Nano 33 BLE Sense
     - Nano RP2040 Connect
