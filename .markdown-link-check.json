@@ -87,6 +87,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-windows-virtual-shields-for-arduino-category/847513$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/flag-for-post-making-responsible-use-of-ai-generated-content/1289013$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/hi-welcome-to-maker-faire-rome-the-european-edition/158299$"
     },
     {
