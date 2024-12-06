@@ -1,0 +1,27 @@
+---
+config:
+  flowchart:
+    curve: monotoneY
+  theme: base
+  themeVariables:
+    clusterBkg: '#ffffff'
+    edgeLabelBackground: '#ffffff'
+    lineColor: '#000000'
+    primaryBorderColor: '#000000'
+    primaryColor: '#f0f0f0'
+    primaryTextColor: '#000000'
+---
+
+flowchart TB
+  subgraph main[" "]
+    direction TB
+
+
+    closeTopic["Close<br />topic"]
+    closeTopic --> closedTemplate
+    closedTemplate["#quot;<b>Topic closed<br />so deletion<br />not necessary</b>#quot;<br />template"]
+    closedTemplate --> review
+    review["Review flag"]
+    review --> overviewWorkflow
+    overviewWorkflow[["#quot;<b>Content deletion<br />handling overview</b>#quot;"]]
+  end

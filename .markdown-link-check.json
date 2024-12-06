@@ -87,6 +87,12 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-windows-virtual-shields-for-arduino-category/847513$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/content-deletion-escalation/1329581$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/content-deletion-not-necessary/1329583$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/flag-for-post-making-responsible-use-of-ai-generated-content/1289013$"
     },
     {
@@ -99,10 +105,22 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/obtain-content-deletion-reason/1329584$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/post-ownership-has-been-transferred/1329586$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/solved-content-deletion-not-necessary/1329591$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/staging-site-sandbox-forum-instance/1112538$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/this-forum-section-will-be-in-read-only/376698$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/topic-closed-so-deletion-not-necessary/1329587$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/start-here-install-guide-faq/366571$"
@@ -115,9 +133,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/duplicate-topic-deleted/1087957$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/we-dont-like-to-delete/1087947$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account-italian/1087962$"
@@ -135,9 +150,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/topic-split-from-another-topic/1087951$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-post-or-topic-italian/1087961$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-french-section/1087946$"
     },
     {
@@ -145,9 +157,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account/1087963$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-posts-or-topic/1087960$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/duplicate-topics-merged/1087959$"
