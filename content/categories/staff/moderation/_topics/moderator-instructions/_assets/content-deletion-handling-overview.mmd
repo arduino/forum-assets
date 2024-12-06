@@ -1,0 +1,43 @@
+---
+config:
+  flowchart:
+    curve: monotoneY
+  theme: base
+  themeVariables:
+    clusterBkg: '#ffffff'
+    edgeLabelBackground: '#ffffff'
+    lineColor: '#000000'
+    primaryBorderColor: '#000000'
+    primaryColor: '#f0f0f0'
+    primaryTextColor: '#000000'
+---
+
+flowchart TB
+  subgraph main[" "]
+    direction TB
+
+
+    harm{"Deletion<br />harmful?"}
+    harm -- "Yes" --> reasonGiven
+    reasonGiven{"Reason<br />given?"}
+    reasonGiven -- "Yes" --> redirectWorkflow
+    redirectWorkflow[["#quot;<b>Redirect content<br />deletion</b>#quot;"]]
+    redirectWorkflow --> redirectResult
+    redirectResult{"Redirected?"}
+    redirectResult -- "Yes" ---> done
+    done["Done"]
+
+    redirectResult -- "No" --> deletionRequestInstructionsTemplate
+    deletionRequestInstructionsTemplate["#quot;<b>Content deletion<br />escalation</b>#quot;<br />template"]
+    deletionRequestInstructionsTemplate --> suspend
+    suspend["Suspend account<br />(permanently)"]
+
+    reasonGiven -- "No" --> obtainReasonTemplate
+    obtainReasonTemplate["#quot;<b>Obtain content<br />deletion reason</b>#quot;<br />template"]
+    obtainReasonTemplate --> redirectWorkflow
+
+    harm -- "No" --> delete
+    delete["Delete<br />post"]
+    delete ------> reviewB
+    reviewB["Review flag"]
+  end

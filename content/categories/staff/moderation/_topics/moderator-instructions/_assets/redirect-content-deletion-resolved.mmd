@@ -1,0 +1,31 @@
+---
+config:
+  flowchart:
+    curve: monotoneY
+  theme: base
+  themeVariables:
+    clusterBkg: '#ffffff'
+    edgeLabelBackground: '#ffffff'
+    lineColor: '#000000'
+    primaryBorderColor: '#000000'
+    primaryColor: '#f0f0f0'
+    primaryTextColor: '#000000'
+---
+
+flowchart TB
+  subgraph main[" "]
+    direction TB
+
+
+    hasSolution{"Topic has<br />solution?"}
+    hasSolution -- "Yes" --> notNecessaryTemplate
+    notNecessaryTemplate["#quot;<b>Solved content<br />deletion not<br />necessary</b>#quot;<br />template"]
+    notNecessaryTemplate --> review
+    review["Review flag"]
+    review --> overviewWorkflow
+    overviewWorkflow[["#quot;<b>Content deletion<br />handling overview</b>#quot;"]]
+
+    hasSolution -- "No" --> addSolutionTemplate
+    addSolutionTemplate["#quot;<b>Request adding<br />solution</b>#quot;<br />template"]
+    addSolutionTemplate --> review
+  end
