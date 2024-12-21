@@ -189,6 +189,7 @@ The following development tools must be available in your local environment:
 - [**Task**](https://taskfile.dev/installation/)
 - [**Node.js**](https://nodejs.dev/en/download/)
 - [**Python**](https://www.python.org/downloads/)
+  - The **Python** version in use is defined in the `tool.poetry.dependencies` field of [`pyproject.toml`](../pyproject.toml).
 - [**Poetry**](https://python-poetry.org/docs/#installation)
 
 ### Running Checks
