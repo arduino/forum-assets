@@ -4,7 +4,6 @@
   - TEST
 - Using Arduino
   - Uncategorized
-  - IDE 1.x
   - Tutorials
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
@@ -95,6 +94,7 @@
   - Science and Measurement
 - Development Tools
   - IDE 2.x
+  - IDE 1.x
   - Web Editor
   - Cloud
   - IoT Cloud
