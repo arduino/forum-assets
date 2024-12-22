@@ -1,1 +1,1 @@
-- https://forum.arduino.cc/t/about-the-official-hardware-category/1334654
+- https://forum.arduino.cc/t/about-the-official-hardware-category/847452

@@ -9,27 +9,12 @@
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
   - Programming
-  - General Electronics
-  - Microcontrollers
-  - LEDs and Multiplexing
-  - Displays
-  - Audio
-  - Motors, Mechanics, Power and CNC
-  - Sensors
   - Networking, Protocols, and Devices
-  - Storage
   - Interfacing w/ Software on the Computer
 - Projects Discussion and Showcase
   - Emergency Response: Covid-19 Projects
   - Emergency Response: Remote Learning
-  - E-Textiles and Craft
-  - Science and Measurement
-  - Robotics
-  - Home Automation
-  - Device Hacking
   - Education and Teaching
-  - Interactive Art
-  - Product Design
 - Official Hardware
   - Portenta
     - Portenta C33
@@ -91,6 +76,23 @@
   - UNO R4
     - UNO R4 Minima
     - UNO R4 WiFi
+- Other Hardware
+  - Microcontrollers
+  - General Electronics
+  - Audio
+  - Displays
+  - LEDs and Multiplexing
+  - Motors, Mechanics, Power and CNC
+  - Sensors
+  - Storage
+  - Other Hardware Development
+  - Device Hacking
+  - E-Textiles and Craft
+  - Home Automation
+  - Interactive Art
+  - Product Design
+  - Robotics
+  - Science and Measurement
 - Software
   - IDE 2.x
   - Web Editor
@@ -117,7 +119,6 @@
   - Project Hub
 - Development
   - Suggestions for the Arduino Project
-  - Other Hardware Development
   - Libraries
 - International
   - 中文 (Chinese)
