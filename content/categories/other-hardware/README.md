@@ -1,4 +1,4 @@
-# Official Hardware
+# Other Hardware
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/12
+https://forum.arduino.cc/c/other-hardware/196

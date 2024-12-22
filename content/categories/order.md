@@ -91,6 +91,7 @@
   - UNO R4
     - UNO R4 Minima
     - UNO R4 WiFi
+- Other Hardware
 - Software
   - IDE 2.x
   - Web Editor
