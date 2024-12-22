@@ -5,7 +5,7 @@
 - Using Arduino
   - Uncategorized
   - IDE 1.x
-  - Introductory Tutorials
+  - Tutorials
   - Avrdude, stk500, Bootloader issues
   - Project Guidance
   - Programming
