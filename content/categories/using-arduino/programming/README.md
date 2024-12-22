@@ -1,4 +1,4 @@
-# Programming Questions
+# Programming
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/programming-questions/20
+https://forum.arduino.cc/c/using-arduino/programming/20
