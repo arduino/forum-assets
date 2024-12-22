@@ -134,7 +134,6 @@
     - Tutoriels et cours
     - Réalisations et Projets Finis
     - Le bar
-  - India
   - Italiano
     - Generale
     - Hardware
