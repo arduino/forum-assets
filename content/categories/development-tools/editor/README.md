@@ -1,4 +1,4 @@
-# IDE 2.x
+# Web Editor
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/ide-2-x/93
+https://forum.arduino.cc/c/development-tools/editor/134

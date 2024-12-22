@@ -93,7 +93,7 @@
   - Product Design
   - Robotics
   - Science and Measurement
-- Software
+- Development Tools
   - IDE 2.x
   - Web Editor
   - Cloud

@@ -33,13 +33,13 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/uno-r4/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/software/cloud/"
+      "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/cloud/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/software/windows-remote-arduino/"
+      "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/windows-remote-arduino/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/software/windows-virtual-shields-for-arduino/"
+      "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/windows-virtual-shields-for-arduino/"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/c/staff/"

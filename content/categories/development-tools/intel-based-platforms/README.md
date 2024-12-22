@@ -1,4 +1,4 @@
-# Arduino SIM
+# Intel®-based platforms
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/software/arduino-sim/86
+https://forum.arduino.cc/c/development-tools/intel-based-platforms/144
