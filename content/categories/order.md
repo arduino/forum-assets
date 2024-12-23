@@ -1,6 +1,5 @@
 - Staff
   - Moderation
-    - Policies
   - TEST
 - Projects
   - Uncategorized
