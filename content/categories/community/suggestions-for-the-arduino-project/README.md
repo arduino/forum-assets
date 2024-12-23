@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development/suggestions-for-the-arduino-project/37
+https://forum.arduino.cc/c/community/suggestions-for-the-arduino-project/37

@@ -105,6 +105,7 @@
 - Community
   - General Discussion
   - Website and Forum
+  - Suggestions for the Arduino Project
   - Education
   - Products and Services
   - Jobs and Paid Consultancy
@@ -113,7 +114,6 @@
   - Bar Sport
   - Project Hub
 - Development
-  - Suggestions for the Arduino Project
 - International
   - 中文 (Chinese)
   - Deutsch
