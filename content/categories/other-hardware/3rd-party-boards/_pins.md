@@ -1,3 +1,3 @@
-- https://forum.arduino.cc/t/about-the-microcontrollers-category/847499
+- https://forum.arduino.cc/t/about-the-3rd-party-boards-category/847499
 - https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681312
 - https://forum.arduino.cc/t/microcontroller-i-o-adc-benchmarks/315304
