@@ -5,7 +5,6 @@
 - Using Arduino
   - Uncategorized
   - Tutorials
-  - Avrdude, stk500, Bootloader issues
   - Project Guidance
   - Programming
   - Networking, Protocols, and Devices
@@ -95,6 +94,7 @@
 - Development Tools
   - IDE 2.x
   - IDE 1.x
+  - Avrdude, stk500, Bootloader issues
   - Web Editor
   - Cloud
   - IoT Cloud
