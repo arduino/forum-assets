@@ -1,4 +1,4 @@
-# Avrdude, stk500, Bootloader issues
+# Uploading
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/avrdude-stk500-bootloader-issues/81
+https://forum.arduino.cc/c/using-arduino/uploading/81

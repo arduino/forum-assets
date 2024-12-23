@@ -94,7 +94,7 @@
 - Development Tools
   - IDE 2.x
   - IDE 1.x
-  - Avrdude, stk500, Bootloader issues
+  - Uploading
   - Web Editor
   - Cloud
   - IoT Cloud
