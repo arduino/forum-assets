@@ -1,4 +1,4 @@
-# Local Groups
+# Groups and Events
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/community/local-groups/44
+https://forum.arduino.cc/c/community/groups-and-events/44
