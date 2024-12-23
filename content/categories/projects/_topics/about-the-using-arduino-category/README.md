@@ -1,4 +1,4 @@
-# About the Using Arduino category
+# About the Projects category
 
 ## Published At
 
