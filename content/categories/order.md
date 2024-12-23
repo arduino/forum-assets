@@ -4,7 +4,7 @@
 - Projects
   - Uncategorized
   - Tutorials
-  - Project Guidance
+  - General Guidance
   - Programming
   - Networking, Protocols, and Devices
   - Interfacing w/ Software on the Computer

@@ -1,4 +1,4 @@
-# Project Guidance
+# General Guidance
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/project-guidance/19
+https://forum.arduino.cc/c/projects/general-guidance/19
