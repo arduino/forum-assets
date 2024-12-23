@@ -1,4 +1,4 @@
-# Programming
+# Interfacing w/ Software on the Computer
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/programming/20
+https://forum.arduino.cc/c/projects/interfacing-w-software-on-the-computer/28
