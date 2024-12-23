@@ -110,9 +110,6 @@
   - Website and Forum
   - Products and Services
   - Jobs and Paid Consultancy
-  - Workshops and Events
-    - Makers
-    - Events and Tour
   - Groups and Events
   - Showcase
   - Bar Sport
@@ -176,4 +173,7 @@
     - Forum
     - Playground Wiki
   - India
+  - Workshops and Events
+    - Makers
+    - Events and Tour
 - Templates
