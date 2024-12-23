@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/home-automation/32
+https://forum.arduino.cc/c/other-hardware/home-automation/32

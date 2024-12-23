@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/motors-mechanics-power-and-cnc/25
+https://forum.arduino.cc/c/other-hardware/motors-mechanics-power-and-cnc/25

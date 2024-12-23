@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/education-and-teaching/34
+https://forum.arduino.cc/c/projects-discussion-and-showcase/education-and-teaching/34

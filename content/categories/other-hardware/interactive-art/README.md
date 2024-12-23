@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/interactive-art/35
+https://forum.arduino.cc/c/other-hardware/interactive-art/35

@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/microcontrollers/59
+https://forum.arduino.cc/c/other-hardware/microcontrollers/59
