@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/uploading/81
+https://forum.arduino.cc/c/development-tools/uploading/81

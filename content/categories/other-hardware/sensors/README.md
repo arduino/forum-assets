@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/sensors/26
+https://forum.arduino.cc/c/other-hardware/sensors/26

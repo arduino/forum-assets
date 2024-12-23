@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/science-and-measurement/31
+https://forum.arduino.cc/c/other-hardware/science-and-measurement/31

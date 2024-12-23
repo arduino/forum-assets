@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/storage/58
+https://forum.arduino.cc/c/other-hardware/storage/58

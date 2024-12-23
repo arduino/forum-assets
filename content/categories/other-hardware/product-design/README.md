@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/product-design/36
+https://forum.arduino.cc/c/other-hardware/product-design/36

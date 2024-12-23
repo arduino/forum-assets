@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/e-textiles-and-craft/29
+https://forum.arduino.cc/c/other-hardware/e-textiles-and-craft/29

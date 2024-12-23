@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/leds-and-multiplexing/22
+https://forum.arduino.cc/c/other-hardware/leds-and-multiplexing/22

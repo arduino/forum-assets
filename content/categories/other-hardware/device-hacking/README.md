@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/device-hacking/33
+https://forum.arduino.cc/c/other-hardware/device-hacking/33

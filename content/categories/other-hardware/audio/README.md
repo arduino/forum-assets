@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/audio/24
+https://forum.arduino.cc/c/other-hardware/audio/24

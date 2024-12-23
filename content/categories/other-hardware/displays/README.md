@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/displays/23
+https://forum.arduino.cc/c/other-hardware/displays/23

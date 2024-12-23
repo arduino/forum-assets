@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects/remote-learning/90
+https://forum.arduino.cc/c/projects-discussion-and-showcase/remote-learning/90
