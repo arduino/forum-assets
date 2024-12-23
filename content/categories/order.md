@@ -113,7 +113,7 @@
   - Workshops and Events
     - Makers
     - Events and Tour
-  - Local Groups
+  - Groups and Events
   - Showcase
   - Bar Sport
   - Project Hub
