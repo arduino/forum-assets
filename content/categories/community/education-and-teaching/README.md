@@ -1,4 +1,4 @@
-# Education and Teaching
+# Education
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/community/education-and-teaching/34
+https://forum.arduino.cc/c/community/education/34
