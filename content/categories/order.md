@@ -75,7 +75,7 @@
     - UNO R4 Minima
     - UNO R4 WiFi
 - Other Hardware
-  - Microcontrollers
+  - 3rd Party Boards
   - General Electronics
   - Audio
   - Displays

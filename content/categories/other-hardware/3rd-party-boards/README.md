@@ -1,4 +1,4 @@
-# Microcontrollers
+# 3rd Party Boards
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/other-hardware/microcontrollers/59
+https://forum.arduino.cc/c/other-hardware/3rd-party-boards/59
