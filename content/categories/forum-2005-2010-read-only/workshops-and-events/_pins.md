@@ -1,2 +1,1 @@
 - https://forum.arduino.cc/t/about-the-workshops-and-events-category/847483
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681337
