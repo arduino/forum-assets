@@ -10,7 +10,6 @@
   - Interfacing w/ Software on the Computer
   - Emergency Response: Covid-19 Projects
 - Projects Discussion and Showcase
-  - Education and Teaching
 - Official Hardware
   - Portenta
     - Portenta C33
@@ -106,6 +105,7 @@
 - Community
   - General Discussion
   - Website and Forum
+  - Education and Teaching
   - Products and Services
   - Jobs and Paid Consultancy
   - Groups and Events
