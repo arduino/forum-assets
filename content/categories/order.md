@@ -10,7 +10,6 @@
   - Interfacing w/ Software on the Computer
   - Emergency Response: Covid-19 Projects
 - Projects Discussion and Showcase
-  - Emergency Response: Remote Learning
   - Education and Teaching
 - Official Hardware
   - Portenta
@@ -170,6 +169,7 @@
     - Report Spam at Arduino.cc
     - Forum
     - Playground Wiki
+  - Emergency Response: Remote Learning
   - India
   - Workshops and Events
     - Makers
