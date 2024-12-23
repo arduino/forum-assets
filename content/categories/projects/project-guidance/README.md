@@ -1,4 +1,4 @@
-# Uncategorized
+# Project Guidance
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/uncategorized/184
+https://forum.arduino.cc/c/projects/project-guidance/19

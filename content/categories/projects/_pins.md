@@ -1,1 +1,1 @@
-- https://forum.arduino.cc/t/about-the-projects-discussion-and-showcase-category/847447
+- https://forum.arduino.cc/t/about-the-projects-category/847446

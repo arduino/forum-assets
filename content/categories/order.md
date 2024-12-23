@@ -2,7 +2,7 @@
   - Moderation
     - Policies
   - TEST
-- Using Arduino
+- Projects
   - Uncategorized
   - Tutorials
   - Project Guidance

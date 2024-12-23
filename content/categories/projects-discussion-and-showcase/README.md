@@ -1,4 +1,4 @@
-# Using Arduino
+# Projects Discussion and Showcase
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/6
+https://forum.arduino.cc/c/projects/7

@@ -10,4 +10,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/using-arduino/tutorials/80
+https://forum.arduino.cc/c/projects/tutorials/80
