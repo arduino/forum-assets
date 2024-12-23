@@ -114,7 +114,7 @@
     - Makers
     - Events and Tour
   - Local Groups
-  - Exhibition / Gallery
+  - Showcase
   - Bar Sport
   - Project Hub
 - Development

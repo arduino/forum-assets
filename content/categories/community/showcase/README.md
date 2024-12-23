@@ -1,4 +1,4 @@
-# Exhibition / Gallery
+# Showcase
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/community/exhibition-gallery/45
+https://forum.arduino.cc/c/community/showcase/45
