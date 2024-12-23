@@ -1,5 +1,5 @@
-# About the Education and Teaching category
+# About the Education category
 
 ## Published At
 
-https://forum.arduino.cc/t/about-the-education-and-teaching-category/847474
+https://forum.arduino.cc/t/about-the-education-category/847474

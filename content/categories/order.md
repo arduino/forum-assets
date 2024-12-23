@@ -105,7 +105,7 @@
 - Community
   - General Discussion
   - Website and Forum
-  - Education and Teaching
+  - Education
   - Products and Services
   - Jobs and Paid Consultancy
   - Groups and Events
