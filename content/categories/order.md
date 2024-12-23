@@ -8,8 +8,8 @@
   - Programming
   - Networking, Protocols, and Devices
   - Interfacing w/ Software on the Computer
-- Projects Discussion and Showcase
   - Emergency Response: Covid-19 Projects
+- Projects Discussion and Showcase
   - Emergency Response: Remote Learning
   - Education and Teaching
 - Official Hardware
