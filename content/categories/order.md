@@ -8,6 +8,7 @@
   - Programming
   - Networking, Protocols, and Devices
   - Interfacing w/ Software on the Computer
+  - Libraries
   - Emergency Response: Covid-19 Projects
 - Official Hardware
   - Portenta
@@ -113,7 +114,6 @@
   - Project Hub
 - Development
   - Suggestions for the Arduino Project
-  - Libraries
 - International
   - 中文 (Chinese)
   - Deutsch

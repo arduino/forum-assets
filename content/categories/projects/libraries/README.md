@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development/libraries/39
+https://forum.arduino.cc/c/projects/libraries/39
