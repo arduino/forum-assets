@@ -9,7 +9,6 @@
   - Networking, Protocols, and Devices
   - Interfacing w/ Software on the Computer
   - Emergency Response: Covid-19 Projects
-- Projects Discussion and Showcase
 - Official Hardware
   - Portenta
     - Portenta C33
@@ -171,6 +170,7 @@
     - Playground Wiki
   - Emergency Response: Remote Learning
   - India
+  - Projects Discussion and Showcase
   - Workshops and Events
     - Makers
     - Events and Tour

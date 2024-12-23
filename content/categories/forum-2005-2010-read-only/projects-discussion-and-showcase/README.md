@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects-discussion-and-showcase/7
+https://forum.arduino.cc/c/forum-2005-2010-read-only/projects-discussion-and-showcase/7
