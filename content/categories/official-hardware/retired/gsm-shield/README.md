@@ -1,4 +1,4 @@
-# 101
+# GSM Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/retired/gsm-shield/66

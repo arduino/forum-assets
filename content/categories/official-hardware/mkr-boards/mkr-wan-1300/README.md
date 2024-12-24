@@ -1,4 +1,4 @@
-# 101
+# MKR WAN 1300
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/mkr-boards/mkr-wan-1300/145

@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-science-journal-science-kit-category/847594
+- https://forum.arduino.cc/t/arduino-science-kit-physics-lab-faq/613109

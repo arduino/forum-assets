@@ -1,4 +1,4 @@
-# 101
+# UNO WiFi Rev2
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/classic/uno-wifi-rev2/84

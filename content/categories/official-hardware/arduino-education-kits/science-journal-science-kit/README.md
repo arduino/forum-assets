@@ -1,4 +1,4 @@
-# 101
+# Science Journal & Science Kit
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/arduino-education-kits/science-journal-science-kit/154

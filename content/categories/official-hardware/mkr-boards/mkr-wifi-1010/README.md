@@ -1,4 +1,4 @@
-# 101
+# MKR WiFi 1010
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/mkr-boards/mkr-wifi-1010/147

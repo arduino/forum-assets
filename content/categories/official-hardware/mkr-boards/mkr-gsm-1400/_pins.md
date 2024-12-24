@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-mkr-gsm-1400-category/847586

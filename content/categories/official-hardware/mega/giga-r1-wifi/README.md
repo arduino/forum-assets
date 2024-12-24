@@ -1,4 +1,4 @@
-# 101
+# GIGA R1 WiFi
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/mega/giga-r1-wifi/182
