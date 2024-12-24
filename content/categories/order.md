@@ -26,6 +26,7 @@
   - Emergency Response: Covid-19 Projects
 - Official Hardware
   - Kits
+    - The Arduino Starter Kit
   - Portenta Family
     - Portenta C33
     - Portenta H7
@@ -76,7 +77,6 @@
     - Edge Control
     - Portenta Machine Control
     - WisGate Gateways
-  - The Arduino Starter Kit
   - Nicla family
     - Nicla Sense ME
     - Nicla Vision

@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-starter-kit/63
+https://forum.arduino.cc/c/official-hardware/kits/arduino-starter-kit/63
