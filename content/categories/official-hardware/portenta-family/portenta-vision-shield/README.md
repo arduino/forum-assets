@@ -1,4 +1,4 @@
-# Portenta C33
+# Portenta Vision Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-c33/183
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-vision-shield/177

@@ -1,4 +1,4 @@
-# Portenta Vision Shield
+# Portenta Max Carrier
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-vision-shield/177
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-max-carrier/175

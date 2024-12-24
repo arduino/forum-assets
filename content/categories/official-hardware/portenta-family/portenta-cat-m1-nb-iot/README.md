@@ -1,4 +1,4 @@
-# Portenta Machine Control
+# Portenta CAT.M1/NB IoT GNSS Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-machine-control/173
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-cat-m1-nb-iot/176

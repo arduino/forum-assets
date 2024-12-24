@@ -1,4 +1,4 @@
-# Portenta CAT.M1/NB IoT GNSS Shield
+# Portenta H7
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-cat-m1-nb-iot/176
+https://forum.arduino.cc/c/official-hardware/portenta-family/pro-family/168

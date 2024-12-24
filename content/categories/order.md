@@ -25,7 +25,7 @@
   - Libraries
   - Emergency Response: Covid-19 Projects
 - Official Hardware
-  - Portenta
+  - Portenta Family
     - Portenta C33
     - Portenta H7
     - Portenta X8

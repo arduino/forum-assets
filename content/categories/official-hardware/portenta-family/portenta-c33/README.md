@@ -1,4 +1,4 @@
-# Portenta Breakout
+# Portenta C33
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-breakout/174
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-c33/183

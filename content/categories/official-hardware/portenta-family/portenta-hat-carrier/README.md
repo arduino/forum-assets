@@ -1,4 +1,4 @@
-# Portenta H7
+# Portenta Hat Carrier
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/pro-family/168
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-hat-carrier/193

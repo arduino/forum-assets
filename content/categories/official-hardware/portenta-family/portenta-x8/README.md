@@ -1,4 +1,4 @@
-# Portenta Max Carrier
+# Portenta X8
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-max-carrier/175
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-x8/172

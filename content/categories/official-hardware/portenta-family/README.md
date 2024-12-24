@@ -1,4 +1,4 @@
-# Portenta
+# Portenta Family
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/91
+https://forum.arduino.cc/c/official-hardware/portenta-family/91

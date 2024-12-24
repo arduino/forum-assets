@@ -1,4 +1,4 @@
-# Portenta Hat Carrier
+# Portenta Machine Control
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-hat-carrier/193
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-machine-control/173
