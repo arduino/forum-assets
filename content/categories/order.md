@@ -45,6 +45,7 @@
     - Nano 33 BLE
     - Nano 33 BLE Sense
     - Nano RP2040 Connect
+  - Mega
   - MKR Family
     - MKRVIDOR4000
     - MKR1000
