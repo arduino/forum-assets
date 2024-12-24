@@ -46,6 +46,9 @@
     - Nano 33 BLE Sense
     - Nano RP2040 Connect
   - Mega
+    - Arduino Due
+    - GIGA Display Shield
+    - GIGA R1
   - MKR Family
     - MKRVIDOR4000
     - MKR1000
@@ -72,7 +75,6 @@
     - Arduino Science Journal & Arduino Science Kit
   - The Arduino Starter Kit
   - Arduino 101
-  - Arduino Due
   - Arduino Esplora
   - Arduino GSM Shield
   - WiFi Shield 101
@@ -83,8 +85,6 @@
     - Nicla Vision
     - Nicla Voice
   - Opta
-  - GIGA R1
-  - GIGA Display Shield
   - UNO R4
   - Yún Shield
 - Other Hardware

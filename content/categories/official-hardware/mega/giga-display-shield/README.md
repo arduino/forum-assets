@@ -1,4 +1,4 @@
-# GIGA R1
+# GIGA Display Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/giga-r1/182
+https://forum.arduino.cc/c/official-hardware/mega/giga-display-shield/191
