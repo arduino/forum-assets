@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/community/workshops-and-events/43
+https://forum.arduino.cc/c/forum-2005-2010-read-only/workshops-and-events/43
