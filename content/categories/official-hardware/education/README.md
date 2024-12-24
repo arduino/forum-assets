@@ -1,4 +1,4 @@
-# Arduino Education Kits
+# Education
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-education-kits/83
+https://forum.arduino.cc/c/official-hardware/education/83

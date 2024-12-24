@@ -1,1 +1,0 @@
-- https://forum.arduino.cc/t/about-the-arduino-education-kits-category/847523

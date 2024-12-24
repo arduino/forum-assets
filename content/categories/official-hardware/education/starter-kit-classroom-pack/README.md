@@ -1,4 +1,4 @@
-# Science Journal & Science Kit
+# Starter Kit Classroom Pack
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-education-kits/science-journal-science-kit/154
+https://forum.arduino.cc/c/official-hardware/educationS/starter-kit-classroom-pack/151

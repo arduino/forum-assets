@@ -1,4 +1,4 @@
-# CTC GO!
+# Engineering Kit
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-education-kits/ctc-go/153
+https://forum.arduino.cc/c/official-hardware/education/engineering-kit/149
