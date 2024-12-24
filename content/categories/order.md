@@ -1,6 +1,20 @@
 - Staff
   - Moderation
   - TEST
+- Development Tools
+  - IDE 2.x
+  - IDE 1.x
+  - Uploading
+  - Web Editor
+  - Cloud
+  - IoT Cloud
+  - Chrome App
+  - Intel®-based platforms
+  - Arduino command line tools
+  - Arduino SIM
+  - PLC IDE
+  - Windows Remote Arduino
+  - Windows Virtual Shields for Arduino
 - Projects
   - Uncategorized
   - Tutorials
@@ -88,20 +102,6 @@
   - Product Design
   - Robotics
   - Science and Measurement
-- Development Tools
-  - IDE 2.x
-  - IDE 1.x
-  - Uploading
-  - Web Editor
-  - Cloud
-  - IoT Cloud
-  - Chrome App
-  - Intel®-based platforms
-  - Arduino command line tools
-  - Arduino SIM
-  - PLC IDE
-  - Windows Remote Arduino
-  - Windows Virtual Shields for Arduino
 - Community
   - General Discussion
   - Website and Forum
