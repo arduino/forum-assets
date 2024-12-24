@@ -1,4 +1,4 @@
-# Arduino Yún
+# Yún Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-yun/69
+https://forum.arduino.cc/c/official-hardware/yun-shield/139
