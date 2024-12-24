@@ -1,2 +1,2 @@
-- https://forum.arduino.cc/t/about-the-nano-motor-carrier-category/<!-- TODO -->
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/<!-- TODO -->
+- https://forum.arduino.cc/t/about-the-nano-motor-carrier-category/1335481
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335483
