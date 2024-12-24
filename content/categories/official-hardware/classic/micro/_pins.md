@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-micro-category/1335464
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335465
