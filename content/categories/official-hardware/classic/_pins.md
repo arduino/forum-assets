@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-classic-category/1335250
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335251

@@ -57,6 +57,7 @@
     - Mkr1000 [old]
     - MKRWAN1310
     - MKR SHIELDS
+  - Classic
   - Arduino Yún
     - Yún Shield
   - Arduino WiFi Rev2
