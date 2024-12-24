@@ -67,7 +67,7 @@
     - UNO WiFi Rev2
     - Yún
     - Zero
-  - Arduino Education Kits
+  - Education
     - CTC 101
     - Engineering Kit
     - Starter Kit Classroom Pack
