@@ -107,12 +107,12 @@
   - Website and Forum
   - Suggestions for the Arduino Project
   - Education
-  - Products and Services
-  - Jobs and Paid Consultancy
-  - Groups and Events
   - Showcase
-  - Bar Sport
   - Project Hub
+  - Groups and Events
+  - Bar Sport
+  - Jobs and Paid Consultancy
+  - Products and Services
 - International
   - 中文 (Chinese)
   - Deutsch
