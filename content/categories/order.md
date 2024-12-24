@@ -25,42 +25,6 @@
   - Libraries
   - Emergency Response: Covid-19 Projects
 - Official Hardware
-  - Kits
-    - Starter Kit
-  - Portenta Family
-    - Portenta C33
-    - Portenta H7
-    - Portenta X8
-    - Portenta Breakout
-    - Portenta Hat Carrier
-    - Portenta Max Carrier
-    - Portenta CAT.M1/NB IoT GNSS Shield
-    - Portenta Vision Shield
-  - Nano Family
-    - Classic Nano
-    - Nano 33 IoT
-    - Nano ESP32
-    - Nano Every
-    - Nano Matter
-    - Nano 33 BLE
-    - Nano 33 BLE Sense
-    - Nano RP2040 Connect
-  - Mega
-    - Due
-    - GIGA Display Shield
-    - GIGA R1 WiFi
-  - MKR Family
-    - MKR Vidor 4000
-    - MKR 1000 WiFi
-    - MKR WiFi 1010
-    - MKR Zero
-    - MKR FOX 1200
-    - MKR WAN 1300
-    - MKR NB 1500
-    - MKR GSM 1400
-    - Mkr1000 [old]
-    - MKR WAN 1310
-    - MKR Shields
   - Classic
     - UNO R4 Minima
     - UNO R4 WiFi
@@ -69,19 +33,55 @@
     - Zero
   - Education
     - CTC 101
-    - Engineering Kit
-    - Starter Kit Classroom Pack
     - CTC GO!
+    - Engineering Kit
     - Science Journal & Science Kit
-  - Pro Solutions
-    - Edge Control
-    - Portenta Machine Control
-    - WisGate Gateways
+    - Starter Kit Classroom Pack
+  - Kits
+    - Starter Kit
+  - Mega
+    - Due
+    - GIGA R1 WiFi
+    - GIGA Display Shield
+  - MKR Family
+    - MKR 1000 WiFi
+    - MKR FOX 1200
+    - MKR GSM 1400
+    - MKR NB 1500
+    - MKR Vidor 4000
+    - MKR WAN 1300
+    - MKR WAN 1310
+    - MKR WiFi 1010
+    - MKR Zero
+    - MKR Shields
+    - Mkr1000 [old]
+  - Nano Family
+    - Classic Nano
+    - Nano 33 BLE
+    - Nano 33 BLE Sense
+    - Nano 33 IoT
+    - Nano ESP32
+    - Nano Every
+    - Nano Matter
+    - Nano RP2040 Connect
   - Nicla family
     - Nicla Sense ME
     - Nicla Vision
     - Nicla Voice
   - Opta
+  - Portenta Family
+    - Portenta C33
+    - Portenta H7
+    - Portenta X8
+    - Portenta Breakout
+    - Portenta CAT.M1/NB IoT GNSS Shield
+    - Portenta Hat Carrier
+    - Portenta Max Carrier
+    - Portenta Vision Shield
+  - Pro Solutions
+    - Edge Control
+    - Portenta Machine Control
+    - WisGate Gateways
   - Retired
     - 101
     - Esplora
