@@ -94,7 +94,7 @@
   - Motors, Mechanics, Power and CNC
   - Sensors
   - Storage
-  - Other Hardware Development
+  - Hardware Development
   - Device Hacking
   - E-Textiles and Craft
   - Home Automation
