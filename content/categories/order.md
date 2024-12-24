@@ -73,6 +73,7 @@
     - Arduino Starter Kit Classroom Pack
     - CTC GO!
     - Arduino Science Journal & Arduino Science Kit
+  - Pro Solutions
   - The Arduino Starter Kit
   - Arduino 101
   - Arduino Esplora
