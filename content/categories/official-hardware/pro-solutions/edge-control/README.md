@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta-family/edge-control/178
+https://forum.arduino.cc/c/official-hardware/pro-solutions/edge-control/178
