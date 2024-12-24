@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-hardware-development-category/847478
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681332

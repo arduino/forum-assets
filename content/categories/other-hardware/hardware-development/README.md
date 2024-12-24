@@ -1,4 +1,4 @@
-# Other Hardware Development
+# Hardware Development
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development/other-hardware-development/38
+https://forum.arduino.cc/c/development/hardware-development/38
