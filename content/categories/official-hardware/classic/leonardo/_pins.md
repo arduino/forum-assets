@@ -1,2 +1,2 @@
-- https://forum.arduino.cc/t/about-the-leonardo-category/<!-- TODO -->
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/<!-- TODO -->
+- https://forum.arduino.cc/t/about-the-leonardo-category/1335459
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335460
