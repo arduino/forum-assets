@@ -1,4 +1,4 @@
-# WiFi Shield 101
+# Yún Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/wifi-shield-101/76
+https://forum.arduino.cc/c/official-hardware/retired/yun-shield/139

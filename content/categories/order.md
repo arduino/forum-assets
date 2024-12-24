@@ -76,18 +76,18 @@
     - Portenta Machine Control
     - WisGate Gateways
   - The Arduino Starter Kit
-  - Arduino 101
-  - Arduino Esplora
-  - Arduino GSM Shield
-  - WiFi Shield 101
-  - Materia 101
   - Nicla family
     - Nicla Sense ME
     - Nicla Vision
     - Nicla Voice
   - Opta
   - Retired
-  - Yún Shield
+    - Arduino 101
+    - Arduino Esplora
+    - Arduino GSM Shield
+    - Materia 101
+    - WiFi Shield 101
+    - Yún Shield
 - Other Hardware
   - 3rd Party Boards
   - General Electronics
