@@ -86,6 +86,7 @@
     - Nicla Vision
     - Nicla Voice
   - Opta
+  - Retired
   - Yún Shield
 - Other Hardware
   - 3rd Party Boards
