@@ -27,6 +27,7 @@
   - Emergency Response: Covid-19 Projects
 - Official Hardware
   - Classic
+    - Leonardo
     - UNO R4 Minima
     - UNO R4 WiFi
     - UNO WiFi Rev2
