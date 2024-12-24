@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-due/64
+https://forum.arduino.cc/c/official-hardware/mega/arduino-due/64
