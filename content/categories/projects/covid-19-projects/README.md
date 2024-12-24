@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/projects-discussion-and-showcase/covid-19-projects/88
+https://forum.arduino.cc/c/projects/covid-19-projects/88

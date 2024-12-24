@@ -21,10 +21,10 @@
       "pattern": "^https://chromewebstore\\.google\\.com/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/community/workshops-and-events/events-and-tour/"
+      "pattern": "^https://forum\\.arduino\\.cc/c/forum-2005-2010-read-only/workshops-and-events/events-and-tour/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/community/workshops-and-events/makers/"
+      "pattern": "^https://forum\\.arduino\\.cc/c/forum-2005-2010-read-only/workshops-and-events/makers/"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/mkr-boards/mkr1000-old/"
