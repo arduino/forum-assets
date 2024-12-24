@@ -29,13 +29,11 @@
     - Portenta C33
     - Portenta H7
     - Portenta X8
-    - Portenta Machine Control
     - Portenta Breakout
     - Portenta Hat Carrier
     - Portenta Max Carrier
     - Portenta CAT.M1/NB IoT GNSS Shield
     - Portenta Vision Shield
-    - Edge Control
   - Nano Family
     - Classic Nano
     - Nano 33 IoT
@@ -74,13 +72,15 @@
     - CTC GO!
     - Arduino Science Journal & Arduino Science Kit
   - Pro Solutions
+    - Edge Control
+    - Portenta Machine Control
+    - WisGate Gateways
   - The Arduino Starter Kit
   - Arduino 101
   - Arduino Esplora
   - Arduino GSM Shield
   - WiFi Shield 101
   - Materia 101
-  - WisGate Gateways
   - Nicla family
     - Nicla Sense ME
     - Nicla Vision

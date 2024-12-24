@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/wisgate-gateways/167
+https://forum.arduino.cc/c/official-hardware/pro-solutions/wisgate-gateways/167

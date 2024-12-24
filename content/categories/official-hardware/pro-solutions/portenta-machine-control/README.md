@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-machine-control/173
+https://forum.arduino.cc/c/official-hardware/pro-solutions/portenta-machine-control/173
