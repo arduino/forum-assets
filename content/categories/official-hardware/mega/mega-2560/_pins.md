@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-mega-2560-category/1335474
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335475

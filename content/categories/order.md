@@ -48,6 +48,7 @@
     - Due
     - GIGA R1 WiFi
     - GIGA Display Shield
+    - Mega 2560
   - MKR Family
     - MKR 1000 WiFi
     - MKR FOX 1200
