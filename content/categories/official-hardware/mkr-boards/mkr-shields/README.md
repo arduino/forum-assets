@@ -1,4 +1,4 @@
-# MKR SHIELDS
+# MKR Shields
 
 ## Permissions
 

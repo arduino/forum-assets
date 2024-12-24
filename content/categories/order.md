@@ -26,7 +26,7 @@
   - Emergency Response: Covid-19 Projects
 - Official Hardware
   - Kits
-    - The Arduino Starter Kit
+    - Starter Kit
   - Portenta Family
     - Portenta C33
     - Portenta H7
@@ -46,33 +46,33 @@
     - Nano 33 BLE Sense
     - Nano RP2040 Connect
   - Mega
-    - Arduino Due
+    - Due
     - GIGA Display Shield
-    - GIGA R1
+    - GIGA R1 WiFi
   - MKR Family
-    - MKRVIDOR4000
-    - MKR1000
-    - MKRWIFI1010
-    - MKRZero
-    - MKRFOX1200
-    - MKRWAN1300
-    - MKRNB1500
-    - MKRGSM1400
+    - MKR Vidor 4000
+    - MKR 1000 WiFi
+    - MKR WiFi 1010
+    - MKR Zero
+    - MKR FOX 1200
+    - MKR WAN 1300
+    - MKR NB 1500
+    - MKR GSM 1400
     - Mkr1000 [old]
-    - MKRWAN1310
-    - MKR SHIELDS
+    - MKR WAN 1310
+    - MKR Shields
   - Classic
     - UNO R4 Minima
     - UNO R4 WiFi
-    - Arduino WiFi Rev2
-    - Arduino Yún
-    - Arduino Zero
+    - UNO WiFi Rev2
+    - Yún
+    - Zero
   - Arduino Education Kits
     - CTC 101
-    - Arduino Engineering Kit
-    - Arduino Starter Kit Classroom Pack
+    - Engineering Kit
+    - Starter Kit Classroom Pack
     - CTC GO!
-    - Arduino Science Journal & Arduino Science Kit
+    - Science Journal & Science Kit
   - Pro Solutions
     - Edge Control
     - Portenta Machine Control
@@ -83,9 +83,9 @@
     - Nicla Voice
   - Opta
   - Retired
-    - Arduino 101
-    - Arduino Esplora
-    - Arduino GSM Shield
+    - 101
+    - Esplora
+    - GSM Shield
     - Materia 101
     - WiFi Shield 101
     - Yún Shield

@@ -1,4 +1,4 @@
-# 101
+# MKR FOX 1200
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/retired/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/mkr-boards/mkr-fox-1200/142

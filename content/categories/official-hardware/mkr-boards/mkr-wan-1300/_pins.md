@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-mkr-wan-1300-category/847585

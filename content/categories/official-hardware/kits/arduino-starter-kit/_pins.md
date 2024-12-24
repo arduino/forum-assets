@@ -1,2 +1,0 @@
-- https://forum.arduino.cc/t/about-the-the-arduino-starter-kit/847503
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681345

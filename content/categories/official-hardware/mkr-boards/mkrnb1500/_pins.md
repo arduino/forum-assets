@@ -1,1 +1,0 @@
-- https://forum.arduino.cc/t/about-the-mkrnb1500-category/847596

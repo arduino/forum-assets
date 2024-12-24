@@ -1,0 +1,1 @@
+- https://forum.arduino.cc/t/about-the-mkr-nb-1500-category/847596

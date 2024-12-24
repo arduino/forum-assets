@@ -1,4 +1,4 @@
-# About the MKR SHIELDS category
+# About the MKR Shields category
 
 ## Published At
 
