@@ -113,7 +113,6 @@
   - Showcase
   - Bar Sport
   - Project Hub
-- Development
 - International
   - 中文 (Chinese)
   - Deutsch
@@ -168,6 +167,7 @@
     - Report Spam at Arduino.cc
     - Forum
     - Playground Wiki
+  - Development
   - Emergency Response: Remote Learning
   - India
   - Projects Discussion and Showcase
