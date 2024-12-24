@@ -29,6 +29,7 @@
   - Classic
     - Leonardo
     - Micro
+    - UNO R3
     - UNO R4 Minima
     - UNO R4 WiFi
     - UNO WiFi Rev2
