@@ -1,4 +1,4 @@
-# Arduino Zero
+# Arduino Yún
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-zero/74
+https://forum.arduino.cc/c/official-hardware/classic/arduino-yun/69

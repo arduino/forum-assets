@@ -1,4 +1,4 @@
-# Yún Shield
+# Arduino WiFi Rev2
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-yun/yun-shield/139
+https://forum.arduino.cc/c/official-hardware/classic/arduino-wifi-rev2/84

@@ -58,9 +58,11 @@
     - MKRWAN1310
     - MKR SHIELDS
   - Classic
-  - Arduino Yún
-    - Yún Shield
-  - Arduino WiFi Rev2
+    - UNO R4 Minima
+    - UNO R4 WiFi
+    - Arduino WiFi Rev2
+    - Arduino Yún
+    - Arduino Zero
   - Arduino Education Kits
     - CTC 101
     - Arduino Engineering Kit
@@ -69,7 +71,6 @@
     - Arduino Science Journal & Arduino Science Kit
   - The Arduino Starter Kit
   - Arduino 101
-  - Arduino Zero
   - Arduino Due
   - Arduino Esplora
   - Arduino GSM Shield
@@ -84,8 +85,7 @@
   - GIGA R1
   - GIGA Display Shield
   - UNO R4
-    - UNO R4 Minima
-    - UNO R4 WiFi
+  - Yún Shield
 - Other Hardware
   - 3rd Party Boards
   - General Electronics

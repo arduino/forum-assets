@@ -1,4 +1,4 @@
-# Arduino WiFi Rev2
+# Arduino Zero
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-wifi-rev2/84
+https://forum.arduino.cc/c/official-hardware/classic/arduino-zero/74
