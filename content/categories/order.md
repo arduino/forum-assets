@@ -22,6 +22,7 @@
   - Programming
   - Networking, Protocols, and Devices
   - Interfacing w/ Software on the Computer
+  - Showcase
   - Libraries
   - Emergency Response: Covid-19 Projects
 - Official Hardware
@@ -111,7 +112,6 @@
   - Website and Forum
   - Suggestions for the Arduino Project
   - Education
-  - Showcase
   - Project Hub
   - Groups and Events
   - Bar Sport
