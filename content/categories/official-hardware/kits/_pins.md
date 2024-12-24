@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-kits-category/1335302
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1335305
