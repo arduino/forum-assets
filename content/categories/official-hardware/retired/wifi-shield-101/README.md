@@ -1,4 +1,4 @@
-# Arduino 101
+# WiFi Shield 101
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-101/77
+https://forum.arduino.cc/c/official-hardware/retired/wifi-shield-101/76

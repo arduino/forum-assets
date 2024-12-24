@@ -1,4 +1,4 @@
-# Yún Shield
+# Materia 101
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/yun-shield/139
+https://forum.arduino.cc/c/official-hardware/retired/materia-101/70

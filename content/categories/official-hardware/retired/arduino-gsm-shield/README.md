@@ -1,4 +1,4 @@
-# Arduino Esplora
+# Arduino GSM Shield
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/arduino-esplora/65
+https://forum.arduino.cc/c/official-hardware/retired/arduino-gsm-shield/66

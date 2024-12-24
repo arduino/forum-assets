@@ -1,4 +1,4 @@
-# Materia 101
+# Arduino Esplora
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/materia-101/70
+https://forum.arduino.cc/c/official-hardware/retired/arduino-esplora/65
