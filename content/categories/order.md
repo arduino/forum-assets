@@ -70,6 +70,7 @@
     - Nano Every
     - Nano Matter
     - Nano RP2040 Connect
+    - Nano Motor Carrier
   - Nicla family
     - Nicla Sense ME
     - Nicla Vision
