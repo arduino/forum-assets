@@ -4,8 +4,8 @@
 
 | Group    | See | Reply | Create |
 | -------- | --- | ----- | ------ |
-| everyone | ✓   |       |        |
+| everyone | ✓   | ✓     | ✓      |
 
 ## Published At
 
-https://forum.arduino.cc/c/development/8
+https://forum.arduino.cc/c/forum-2005-2010-read-only/development/8
