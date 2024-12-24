@@ -1,4 +1,4 @@
-# Portenta X8
+# Portenta Breakout
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta/portenta-x8/172
+https://forum.arduino.cc/c/official-hardware/portenta-family/portenta-breakout/174
