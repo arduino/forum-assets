@@ -2,6 +2,7 @@
   - Moderation
   - TEST
 - Development Tools
+  - Uncategorized
   - IDE 2.x
   - IDE 1.x
   - Uploading
@@ -16,7 +17,6 @@
   - Windows Remote Arduino
   - Windows Virtual Shields for Arduino
 - Projects
-  - Uncategorized
   - Tutorials
   - General Guidance
   - Programming
