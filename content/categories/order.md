@@ -86,7 +86,6 @@
     - Nicla Vision
     - Nicla Voice
   - Opta
-  - UNO R4
   - Yún Shield
 - Other Hardware
   - 3rd Party Boards
@@ -174,6 +173,7 @@
   - Emergency Response: Remote Learning
   - India
   - Projects Discussion and Showcase
+  - UNO R4
   - Workshops and Events
     - Makers
     - Events and Tour
