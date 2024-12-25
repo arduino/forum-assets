@@ -6,9 +6,9 @@
   - IDE 2.x
   - IDE 1.x
   - Uploading
-  - Web Editor
+  - Cloud Editor
   - Cloud
-  - IoT Cloud
+  - Cloud IoT
   - Chrome App
   - Arduino command line tools
   - PLC IDE

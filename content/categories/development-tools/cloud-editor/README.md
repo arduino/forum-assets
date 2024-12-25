@@ -1,4 +1,4 @@
-# IoT Cloud
+# Cloud Editor
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development-tools/iot-cloud/152
+https://forum.arduino.cc/c/development-tools/cloud-editor/134

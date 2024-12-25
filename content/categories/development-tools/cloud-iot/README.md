@@ -1,4 +1,4 @@
-# Web Editor
+# Cloud IoT
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development-tools/editor/134
+https://forum.arduino.cc/c/development-tools/cloud-iot/152
