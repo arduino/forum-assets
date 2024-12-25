@@ -37,6 +37,7 @@
     - Yún
     - Zero
   - Education
+    - Alvik
     - CTC 101
     - CTC GO!
     - Engineering Kit
