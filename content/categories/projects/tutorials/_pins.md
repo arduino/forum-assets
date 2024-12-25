@@ -1,6 +1,6 @@
 - https://forum.arduino.cc/t/flashing-multiple-leds-at-the-same-time/1065564
 - https://forum.arduino.cc/t/about-the-tutorials-category/847520
 - https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681307
-- https://forum.arduino.cc/t/getting-started-with-arduino-create-project-hub-web-editor-device-manager/537039
+- https://forum.arduino.cc/t/getting-started-with-arduino-cloud-project-hub-cloud-editor-manager-for-linux/537039
 - https://forum.arduino.cc/t/serial-input-basics-updated/382007
 - https://forum.arduino.cc/t/how-to-submit-a-tutorial/1111344
