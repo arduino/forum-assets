@@ -12,7 +12,6 @@
   - Chrome App
   - Intel®-based platforms
   - Arduino command line tools
-  - Arduino SIM
   - PLC IDE
   - Windows Remote Arduino
   - Windows Virtual Shields for Arduino
@@ -178,6 +177,7 @@
     - Report Spam at Arduino.cc
     - Forum
     - Playground Wiki
+  - Arduino SIM
   - Development
   - Emergency Response: Remote Learning
   - India
