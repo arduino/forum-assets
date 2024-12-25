@@ -10,7 +10,6 @@
   - Cloud
   - IoT Cloud
   - Chrome App
-  - Intel®-based platforms
   - Arduino command line tools
   - PLC IDE
   - Windows Remote Arduino
@@ -181,6 +180,7 @@
   - Development
   - Emergency Response: Remote Learning
   - India
+  - Intel®-based platforms
   - Projects Discussion and Showcase
   - UNO R4
   - Workshops and Events
