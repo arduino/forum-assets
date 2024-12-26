@@ -1,4 +1,4 @@
-# Arduino SIM
+# Projects Discussion and Showcase
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/forum-2005-2010-read-only/arduino-sim/86
+https://forum.arduino.cc/c/forum-2005-2010-read-only/recycle-bin/projects-discussion-and-showcase/7

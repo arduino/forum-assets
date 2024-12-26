@@ -1,4 +1,4 @@
-# Intel®-based platforms
+# Workshops and Events
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/forum-2005-2010-read-only/intel-based-platforms/144
+https://forum.arduino.cc/c/forum-2005-2010-read-only/recycle-bin/workshops-and-events/43

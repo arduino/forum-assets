@@ -1,4 +1,4 @@
-# India
+# Intel®-based platforms
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/forum-2005-2010-read-only/india/62
+https://forum.arduino.cc/c/forum-2005-2010-read-only/recycle-bin/intel-based-platforms/144

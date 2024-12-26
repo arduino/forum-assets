@@ -1,4 +1,4 @@
-# Emergency Response: Covid-19 Projects
+# Arduino SIM
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/forum-2005-2010-read-only/covid-19-projects/88
+https://forum.arduino.cc/c/forum-2005-2010-read-only/recycle-bin/arduino-sim/86
