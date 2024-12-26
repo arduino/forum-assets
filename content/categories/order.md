@@ -22,7 +22,6 @@
   - Interfacing w/ Software on the Computer
   - Showcase
   - Libraries
-  - Emergency Response: Covid-19 Projects
 - Official Hardware
   - Classic
     - Leonardo
@@ -178,6 +177,7 @@
     - Playground Wiki
   - Arduino SIM
   - Development
+  - Emergency Response: Covid-19 Projects
   - Emergency Response: Remote Learning
   - India
   - Intel®-based platforms
