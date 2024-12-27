@@ -4,7 +4,7 @@
 
 | Group | See | Reply | Create |
 | ----- | --- | ----- | ------ |
-| staff | ✓   | ✓     | ✓      |
+| staff | ✓   |       |        |
 
 ## Published At
 
