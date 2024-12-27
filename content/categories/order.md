@@ -175,15 +175,16 @@
     - Report Spam at Arduino.cc
     - Forum
     - Playground Wiki
-  - Arduino SIM
-  - Development
-  - Emergency Response: Covid-19 Projects
-  - Emergency Response: Remote Learning
-  - India
-  - Intel®-based platforms
-  - Projects Discussion and Showcase
-  - UNO R4
-  - Workshops and Events
-    - Makers
+  - Recycle Bin
+    - Arduino SIM
+    - Development
+    - Emergency Response: Covid-19 Projects
+    - Emergency Response: Remote Learning
     - Events and Tour
+    - India
+    - Intel®-based platforms
+    - Makers
+    - Projects Discussion and Showcase
+    - UNO R4
+    - Workshops and Events
 - Templates
