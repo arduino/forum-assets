@@ -4,7 +4,7 @@
 
 | Group    | See | Reply | Create |
 | -------- | --- | ----- | ------ |
-| everyone | ✓   | ✓     | ✓      |
+| everyone | ✓   |       |        |
 
 ## Published At
 
