@@ -10,7 +10,7 @@
   - Cloud
   - Cloud IoT
   - Cloud Chrome App
-  - Arduino command line tools
+  - Arduino Command Line Tools
   - PLC IDE
   - Windows Remote Arduino
   - Windows Virtual Shields for Arduino
@@ -69,7 +69,7 @@
     - Nano Matter
     - Nano RP2040 Connect
     - Nano Motor Carrier
-  - Nicla family
+  - Nicla Family
     - Nicla Sense ME
     - Nicla Vision
     - Nicla Voice

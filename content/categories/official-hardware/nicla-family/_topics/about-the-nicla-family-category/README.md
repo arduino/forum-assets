@@ -1,4 +1,4 @@
-# About the Nicla family category
+# About the Nicla Family category
 
 ## Published At
 

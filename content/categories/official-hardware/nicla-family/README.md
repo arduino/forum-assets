@@ -1,4 +1,4 @@
-# Nicla family
+# Nicla Family
 
 ## Permissions
 

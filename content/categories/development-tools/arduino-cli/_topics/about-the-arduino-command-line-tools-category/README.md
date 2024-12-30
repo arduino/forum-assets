@@ -1,4 +1,4 @@
-# About the Arduino command line tools category
+# About the Arduino Command Line Tools category
 
 ## Published At
 
