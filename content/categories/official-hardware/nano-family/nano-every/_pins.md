@@ -1,1 +1,1 @@
-- https://forum.arduino.cc/t/about-the-nano-every/847598
+- https://forum.arduino.cc/t/about-the-nano-every-category/847598

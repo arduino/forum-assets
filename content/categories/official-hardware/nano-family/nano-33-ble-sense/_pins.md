@@ -1,1 +1,1 @@
-- https://forum.arduino.cc/t/about-the-nano-33-ble-sense/847600
+- https://forum.arduino.cc/t/about-the-nano-33-ble-sense-category/847600
