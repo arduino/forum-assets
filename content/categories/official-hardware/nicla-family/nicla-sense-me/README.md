@@ -1,4 +1,4 @@
-# Portenta H7
+# Nicla Sense ME
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/portenta-family/pro-family/168
+https://forum.arduino.cc/c/official-hardware/nicla-family/nicla-sense-me/170
