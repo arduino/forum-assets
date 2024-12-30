@@ -1,4 +1,4 @@
-# Chrome App
+# Cloud Chrome App
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development-tools/chrome-app/141
+https://forum.arduino.cc/c/development-tools/cloud-chrome-app/141
