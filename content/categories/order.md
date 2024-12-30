@@ -105,7 +105,6 @@
   - Storage
   - Hardware Development
   - Device Hacking
-  - E-Textiles and Craft
   - Home Automation
   - Interactive Art
   - Product Design
@@ -178,6 +177,7 @@
   - Recycle Bin
     - Arduino SIM
     - Development
+    - E-Textiles and Craft
     - Emergency Response: Covid-19 Projects
     - Emergency Response: Remote Learning
     - Events and Tour
