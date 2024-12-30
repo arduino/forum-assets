@@ -1,3 +1,3 @@
-- https://forum.arduino.cc/t/about-the-chrome-app-category/847581
+- https://forum.arduino.cc/t/about-the-cloud-chrome-app-category/847581
 - https://forum.arduino.cc/t/arduino-create-chrome-app-is-now-available-for-schools-getting-started-here/504942
 - https://forum.arduino.cc/t/welcome-to-the-arduino-create-chrome-app/447820

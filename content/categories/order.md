@@ -9,7 +9,7 @@
   - Cloud Editor
   - Cloud
   - Cloud IoT
-  - Chrome App
+  - Cloud Chrome App
   - Arduino command line tools
   - PLC IDE
   - Windows Remote Arduino
