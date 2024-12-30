@@ -1,4 +1,4 @@
-# Arduino command line tools
+# Arduino Command Line Tools
 
 ## Permissions
 
