@@ -1,4 +1,4 @@
-# About the Nano 33 BLE
+# Nano 33 BLE
 
 ## Permissions
 

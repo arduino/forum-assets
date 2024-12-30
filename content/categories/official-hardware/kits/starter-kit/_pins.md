@@ -1,2 +1,2 @@
-- https://forum.arduino.cc/t/about-the-starter-kit/847503
+- https://forum.arduino.cc/t/about-the-starter-kit-category/847503
 - https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/681345
