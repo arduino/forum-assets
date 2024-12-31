@@ -33,9 +33,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/uno-r4/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/cloud/"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/windows-remote-arduino/"
     },
     {
