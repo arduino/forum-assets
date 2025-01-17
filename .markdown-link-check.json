@@ -99,6 +99,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-nederlands-category/1343756$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/obtain-content-deletion-reason/1329584$"
     },
     {
