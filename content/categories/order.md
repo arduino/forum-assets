@@ -7,12 +7,10 @@
   - IDE 1.x
   - Uploading
   - Cloud Editor
-  - Cloud
   - Cloud IoT
   - Cloud Chrome App
   - Arduino Command Line Tools
   - PLC IDE
-  - Windows Virtual Shields for Arduino
 - Projects
   - Tutorials
   - General Guidance
@@ -175,6 +173,7 @@
     - Playground Wiki
   - Recycle Bin
     - Arduino SIM
+    - Cloud
     - Development
     - E-Textiles and Craft
     - Emergency Response: Covid-19 Projects
@@ -186,5 +185,6 @@
     - Projects Discussion and Showcase
     - UNO R4
     - Windows Remote Arduino
+    - Windows Virtual Shields for Arduino
     - Workshops and Events
 - Templates
