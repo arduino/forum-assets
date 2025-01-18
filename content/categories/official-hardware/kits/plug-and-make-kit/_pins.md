@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-plug-and-make-kit-category/1262031
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1262032
