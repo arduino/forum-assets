@@ -12,7 +12,6 @@
   - Cloud Chrome App
   - Arduino Command Line Tools
   - PLC IDE
-  - Windows Virtual Shields for Arduino
 - Projects
   - Tutorials
   - General Guidance
@@ -186,5 +185,6 @@
     - Projects Discussion and Showcase
     - UNO R4
     - Windows Remote Arduino
+    - Windows Virtual Shields for Arduino
     - Workshops and Events
 - Templates
