@@ -1,6 +1,3 @@
-- Staff
-  - Moderation
-  - TEST
 - Development Tools
   - Uncategorized
   - IDE 2.x
@@ -141,6 +138,9 @@
   - Português
   - Россия - Russia
   - Scandinavia
+- Staff
+  - Moderation
+  - TEST
 - Forum 2005-2010 (read only)
   - General
     - Uno Punto Zero
