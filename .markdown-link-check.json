@@ -33,9 +33,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/uno-r4/"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/windows-remote-arduino/"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/c/development-tools/windows-virtual-shields-for-arduino/"
     },
     {
@@ -73,9 +70,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-uno-r4-category/1114082$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-windows-remote-arduino-category/847512$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-windows-virtual-shields-for-arduino-category/847513$"
