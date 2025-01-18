@@ -7,7 +7,6 @@
   - IDE 1.x
   - Uploading
   - Cloud Editor
-  - Cloud
   - Cloud IoT
   - Cloud Chrome App
   - Arduino Command Line Tools
@@ -174,6 +173,7 @@
     - Playground Wiki
   - Recycle Bin
     - Arduino SIM
+    - Cloud
     - Development
     - E-Textiles and Craft
     - Emergency Response: Covid-19 Projects
