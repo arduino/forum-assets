@@ -15,16 +15,10 @@
       "pattern": "^/"
     },
     {
-      "pattern": "^https://cloud\\.arduino\\.cc/cloud$"
-    },
-    {
       "pattern": "^https://chromewebstore\\.google\\.com/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/mkr-boards/mkr1000-old/"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/uno-r4/"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/c/staff/"
@@ -34,9 +28,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/review$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-cloud-category/847576$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-mkr1000-old-category/847575$"
@@ -54,9 +45,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-test-category/847511$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-uno-r4-category/1114082$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/content-deletion-escalation/1329581$"
     },
     {
@@ -64,9 +52,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/flag-for-post-making-responsible-use-of-ai-generated-content/1289013$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/how-to-get-the-best-out-of-this-forum/1114083$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
