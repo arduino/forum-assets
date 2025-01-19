@@ -35,6 +35,7 @@
     - Science Journal & Science Kit
     - Starter Kit Classroom Pack
   - Kits
+    - Plug and Make Kit
     - Starter Kit
   - Mega
     - Due
