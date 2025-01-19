@@ -21,12 +21,6 @@
       "pattern": "^https://chromewebstore\\.google\\.com/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/c/forum-2005-2010-read-only/recycle-bin/events-and-tour/"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/c/forum-2005-2010-read-only/recycle-bin/makers/"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/c/official-hardware/mkr-boards/mkr1000-old/"
     },
     {
@@ -43,12 +37,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-cloud-category/847576$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-events-and-tour-category/847508$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/about-the-makers-category/847507$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-mkr1000-old-category/847575$"
@@ -76,9 +64,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/flag-for-post-making-responsible-use-of-ai-generated-content/1289013$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/hi-welcome-to-maker-faire-rome-the-european-edition/158299$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/how-to-get-the-best-out-of-this-forum/1114083$"
