@@ -137,7 +137,7 @@
     - Software
   - Nederlands
   - Português
-  - Россия - Russia
+  - Русский
   - Scandinavia
 - Staff
   - Moderation
