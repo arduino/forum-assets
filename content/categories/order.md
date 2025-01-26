@@ -101,7 +101,6 @@
   - Hardware Development
   - Device Hacking
   - Home Automation
-  - Interactive Art
   - Product Design
   - Robotics
   - Science and Measurement
@@ -182,6 +181,7 @@
     - Events and Tour
     - India
     - Intel®-based platforms
+    - Interactive Art
     - Makers
     - Projects Discussion and Showcase
     - UNO R4
