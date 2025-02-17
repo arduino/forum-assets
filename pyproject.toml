@@ -15,7 +15,7 @@ requests = "^2.32.3"
 yamllint = "^1.35.1"
 codespell = "^2.4.1"
 black = "25.1.0"
-flake8 = "7.1.1"
+flake8 = "7.1.2"
 pep8-naming = "0.14.1"
 
 [build-system]
