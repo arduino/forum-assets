@@ -77,6 +77,7 @@
     - Portenta CAT.M1/NB IoT GNSS Shield
     - Portenta Hat Carrier
     - Portenta Max Carrier
+    - Portenta Mid Carrier
     - Portenta Vision Shield
   - Pro Solutions
     - Edge Control
