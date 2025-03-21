@@ -180,7 +180,6 @@
     - Emergency Response: Covid-19 Projects
     - Emergency Response: Remote Learning
     - Events and Tour
-    - India
     - Intel®-based platforms
     - Interactive Art
     - Makers
