@@ -17,6 +17,14 @@
   - Showcase
   - Libraries
 - Official Hardware
+  - Accessories
+    - Modulino Buttons
+    - Modulino Buzzer
+    - Modulino Distance
+    - Modulino Knob
+    - Modulino Movement
+    - Modulino Pixels
+    - Modulino Thermo
   - Classic
     - Leonardo
     - Micro
