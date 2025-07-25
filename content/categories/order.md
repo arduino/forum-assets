@@ -70,6 +70,7 @@
     - Nano ESP32
     - Nano Every
     - Nano Matter
+    - Nano R4
     - Nano RP2040 Connect
     - Nano Motor Carrier
   - Nicla Family
