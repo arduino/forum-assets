@@ -29,10 +29,6 @@
     - Leonardo
     - Micro
     - Pro Mini
-    - UNO R3
-    - UNO R4 Minima
-    - UNO R4 WiFi
-    - UNO WiFi Rev2
     - Yún
     - Zero
   - Education
@@ -93,6 +89,10 @@
     - Portenta Machine Control
     - WisGate Gateways
   - UNO Family
+    - UNO R3
+    - UNO R4 Minima
+    - UNO R4 WiFi
+    - UNO WiFi Rev2
   - Retired
     - 101
     - Esplora

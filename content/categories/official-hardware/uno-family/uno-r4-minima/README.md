@@ -1,4 +1,4 @@
-# UNO R4 WiFi
+# UNO R4 Minima
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/classic/uno-r4-wifi/189
+https://forum.arduino.cc/c/official-hardware/uno-family/uno-r4-minima/188
