@@ -1,0 +1,2 @@
+- https://forum.arduino.cc/t/about-the-uno-family-category/1408729
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1408904

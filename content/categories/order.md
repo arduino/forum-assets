@@ -92,6 +92,7 @@
     - Edge Control
     - Portenta Machine Control
     - WisGate Gateways
+  - UNO Family
   - Retired
     - 101
     - Esplora
