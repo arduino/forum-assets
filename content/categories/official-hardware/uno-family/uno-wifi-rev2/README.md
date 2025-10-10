@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/classic/uno-wifi-rev2/84
+https://forum.arduino.cc/c/official-hardware/uno-family/uno-wifi-rev2/84

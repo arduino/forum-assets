@@ -1,4 +1,4 @@
-# UNO R4 Minima
+# UNO R3
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/classic/uno-r4-minima/188
+https://forum.arduino.cc/c/official-hardware/uno-family/uno-r3/204

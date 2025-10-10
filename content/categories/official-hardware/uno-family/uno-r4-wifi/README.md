@@ -1,4 +1,4 @@
-# UNO R3
+# UNO R4 WiFi
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/classic/uno-r3/204
+https://forum.arduino.cc/c/official-hardware/uno-family/uno-r4-wifi/189
