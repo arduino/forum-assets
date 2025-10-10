@@ -6,6 +6,7 @@
   - Cloud Editor
   - Cloud IoT
   - Cloud Chrome App
+  - App Lab
   - Arduino Command Line Tools
   - PLC IDE
 - Projects
