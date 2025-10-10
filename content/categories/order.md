@@ -89,6 +89,7 @@
     - Portenta Machine Control
     - WisGate Gateways
   - UNO Family
+    - UNO Q
     - UNO R3
     - UNO R4 Minima
     - UNO R4 WiFi
