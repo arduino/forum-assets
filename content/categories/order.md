@@ -40,6 +40,7 @@
     - Science Journal & Science Kit
     - Starter Kit Classroom Pack
   - Kits
+    - Nesso N1
     - Plug and Make Kit
     - Starter Kit
   - Mega
