@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/development-tools/arduino-cli/89
+https://forum.arduino.cc/c/development-tools/arduino-command-line-tools/89
