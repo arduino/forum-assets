@@ -1,2 +1,0 @@
-- https://forum.arduino.cc/t/about-the-modulino-thermo-category/1383679
-- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1383680
