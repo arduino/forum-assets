@@ -53,13 +53,6 @@
     - MKR Shields
     - Mkr1000 [old]
   - Modulino
-    - Modulino Buttons
-    - Modulino Buzzer
-    - Modulino Distance
-    - Modulino Knob
-    - Modulino Movement
-    - Modulino Pixels
-    - Modulino Thermo
   - Nano Family
     - Classic Nano
     - Nano 33 BLE
@@ -197,6 +190,13 @@
     - Intel®-based platforms
     - Interactive Art
     - Makers
+    - Modulino Buttons
+    - Modulino Buzzer
+    - Modulino Distance
+    - Modulino Knob
+    - Modulino Movement
+    - Modulino Pixels
+    - Modulino Thermo
     - Projects Discussion and Showcase
     - UNO R4
     - Windows Remote Arduino
