@@ -18,14 +18,6 @@
   - Showcase
   - Libraries
 - Official Hardware
-  - Accessories
-    - Modulino Buttons
-    - Modulino Buzzer
-    - Modulino Distance
-    - Modulino Knob
-    - Modulino Movement
-    - Modulino Pixels
-    - Modulino Thermo
   - Classic
     - Leonardo
     - Micro
@@ -60,6 +52,14 @@
     - MKR Zero
     - MKR Shields
     - Mkr1000 [old]
+  - Modulino
+    - Modulino Buttons
+    - Modulino Buzzer
+    - Modulino Distance
+    - Modulino Knob
+    - Modulino Movement
+    - Modulino Pixels
+    - Modulino Thermo
   - Nano Family
     - Classic Nano
     - Nano 33 BLE

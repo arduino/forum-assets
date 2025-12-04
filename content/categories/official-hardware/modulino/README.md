@@ -1,4 +1,4 @@
-# Accessories
+# Modulino
 
 ## Permissions
 
@@ -8,4 +8,4 @@
 
 ## Published At
 
-https://forum.arduino.cc/c/official-hardware/accessories/213
+https://forum.arduino.cc/c/official-hardware/modulino/213
