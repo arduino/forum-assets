@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-uno-wifi-rev2-category/847524
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417964

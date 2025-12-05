@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-portenta-cat-m1-nb-iot-gnss-shield-category/1018199
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417950

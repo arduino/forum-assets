@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-mkr-wan-1310-category/847601
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417915

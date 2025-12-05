@@ -1,2 +1,3 @@
 - https://forum.arduino.cc/t/about-the-mkr-1000-wifi-category/847577
 - https://forum.arduino.cc/t/faq-read-this/432041
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417908

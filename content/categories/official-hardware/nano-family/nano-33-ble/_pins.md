@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-nano-33-ble-category/847599
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417919

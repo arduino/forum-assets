@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-wifi-shield-101-category/847516
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417963

@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-nicla-family-category/1018190
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417939

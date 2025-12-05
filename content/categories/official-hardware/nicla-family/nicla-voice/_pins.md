@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-nicla-voice-category/1086883
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417943

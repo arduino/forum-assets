@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-portenta-h7-category/1018188
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417951

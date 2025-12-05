@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-forum-2005-2010-read-only-category/847451
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417902
