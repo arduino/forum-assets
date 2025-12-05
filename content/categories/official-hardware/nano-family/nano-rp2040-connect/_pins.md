@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-nano-rp2040-connect-category/848570
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417938

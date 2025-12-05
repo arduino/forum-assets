@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-mkr-shields-category/847602
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417912

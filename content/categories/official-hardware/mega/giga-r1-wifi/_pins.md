@@ -1,1 +1,2 @@
 - https://forum.arduino.cc/t/about-the-giga-r1-wifi-category/1096913
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417906

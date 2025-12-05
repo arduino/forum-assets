@@ -1,2 +1,3 @@
 - https://forum.arduino.cc/t/about-the-engineering-kit-category/847589
 - https://forum.arduino.cc/t/arduino-engineering-kit-faq/537459
+- https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/1417896
