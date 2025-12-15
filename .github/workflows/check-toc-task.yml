@@ -94,7 +94,7 @@ jobs:
 
       - name: Upload corrected file to workflow artifact
         if: failure() && steps.check-toc.outcome == 'failure'
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           if-no-files-found: error
           name: ${{ env.ARTIFACT_NAME }}
