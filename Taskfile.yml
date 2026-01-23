@@ -23,7 +23,7 @@ tasks:
       - task: markdown:toc
         vars:
           FILE_PATH: content/categories/staff/moderation/_topics/moderator-instructions/1.md
-          MAX_DEPTH: 4
+          MAX_DEPTH: 3
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
   ci:validate:
