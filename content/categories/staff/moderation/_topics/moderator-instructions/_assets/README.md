@@ -19,3 +19,7 @@ This is the [**Mermaid**](https://mermaid.js.org/) source file for the **Redirec
 ## `redirect-content-deletion-tidy.mmd`
 
 This is the [**Mermaid**](https://mermaid.js.org/) source file for the **Redirect content deletion > Tidy** workflow chart. Image is generated using [**mermaid-cli**](https://github.com/mermaid-js/mermaid-cli).
+
+## `review-conclusion.mmd`
+
+This is the [**Mermaid**](https://mermaid.js.org/) source file for the **Flags > Review overview > Review conclusion** workflow chart. Image is generated using [**mermaid-cli**](https://github.com/mermaid-js/mermaid-cli).

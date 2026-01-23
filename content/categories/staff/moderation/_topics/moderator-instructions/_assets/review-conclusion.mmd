@@ -1,0 +1,31 @@
+---
+config:
+  flowchart:
+    curve: monotoneY
+  theme: base
+  themeVariables:
+    clusterBkg: '#ffffff'
+    edgeLabelBackground: '#ffffff'
+    lineColor: '#000000'
+    primaryBorderColor: '#000000'
+    primaryColor: '#f0f0f0'
+    primaryTextColor: '#000000'
+---
+
+flowchart TB
+  subgraph main["<b>Review Conclusion</b>"]
+    direction TB
+
+
+    problem{"Flagged item<br />violates rules?"}
+    problem -- "Yes" ---> agree
+    agree["Agree"]
+
+    problem -- "No" --> goodFaith
+    goodFaith{"Flagged in<br />good faith?"}
+    goodFaith -- "Yes" --> ignore
+    ignore["Ignore"]
+
+    goodFaith -- "No" --> disagree
+    disagree["Disagree"]
+  end
