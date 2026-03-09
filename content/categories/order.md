@@ -89,6 +89,7 @@
     - UNO R4 Minima
     - UNO R4 WiFi
     - UNO WiFi Rev2
+  - VENTUNO Q
   - Retired
     - 101
     - Esplora
