@@ -18,6 +18,8 @@
   - Showcase
   - Libraries
 - Official Hardware
+  - Accessories
+    - Bughopper
   - Classic
     - Leonardo
     - Micro
