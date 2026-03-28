@@ -85,6 +85,7 @@
     - WisGate Gateways
   - UNO Family
     - UNO Breakout Carrier
+    - UNO Media Carrier
     - UNO Q
     - UNO R3
     - UNO R4 Minima
