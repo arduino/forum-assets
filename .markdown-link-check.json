@@ -135,7 +135,7 @@
       "pattern": "^https://forum\\.arduino\\.cc/review$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moderator-instructions/630548"
+      "pattern": "^https://forum\\.arduino\\.cc/t/moderation-procedures/630548"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/draft-proposal-for-moderator-documentation/623114$"

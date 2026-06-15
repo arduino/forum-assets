@@ -1,3 +1,3 @@
 - https://forum.arduino.cc/t/about-the-moderation-category/847500 (private)
-- https://forum.arduino.cc/t/moderator-instructions/630548 (private)
+- https://forum.arduino.cc/t/moderation-procedures/630548 (private)
 - https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095 (private)

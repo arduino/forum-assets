@@ -2,9 +2,9 @@
 
 ---
 
-⚠ Make sure to follow the formal procedure for handling content deletion requests that is defined in the "**Moderator Instructions**":
+⚠ Make sure to follow the formal procedure for handling content deletion requests that is defined in the "**Moderation Procedures**":
 
-https://forum.arduino.cc/t/moderator-instructions/630548#handle-content-deletion-request
+https://forum.arduino.cc/t/moderation-procedures/630548#handle-content-deletion-request
 
 ---
 

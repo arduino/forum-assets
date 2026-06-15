@@ -1,4 +1,4 @@
-# Assets for "Moderator Instructions" topic
+# Assets for "Moderation Procedures" topic
 
 ## `content-deletion-handling-overview.mmd`
 

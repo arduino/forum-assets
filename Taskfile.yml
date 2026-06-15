@@ -22,7 +22,7 @@ tasks:
       - task: markdown:fix
       - task: markdown:toc
         vars:
-          FILE_PATH: content/categories/staff/moderation/_topics/moderator-instructions/1.md
+          FILE_PATH: content/categories/staff/moderation/_topics/moderation-procedures/1.md
           MAX_DEPTH: 3
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml

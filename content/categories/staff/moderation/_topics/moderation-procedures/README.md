@@ -1,8 +1,8 @@
-# Moderator Instructions
+# Moderation Procedures
 
 ## Published At
 
-- https://forum.arduino.cc/t/moderator-instructions/630548 (private)
+- https://forum.arduino.cc/t/moderation-procedures/630548 (private)
 
 ## Notes
 
