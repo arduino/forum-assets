@@ -11,7 +11,7 @@ on:
       - "package.json"
       - "package-lock.json"
       - "Taskfile.ya?ml"
-      - "content/categories/staff/moderation/_topics/moderator-instructions/1.md"
+      - "content/categories/staff/moderation/_topics/moderation-procedures/1.md"
   pull_request:
     paths:
       - ".github/workflows/check-toc-task.ya?ml"
@@ -19,7 +19,7 @@ on:
       - "package.json"
       - "package-lock.json"
       - "Taskfile.ya?ml"
-      - "content/categories/staff/moderation/_topics/moderator-instructions/1.md"
+      - "content/categories/staff/moderation/_topics/moderation-procedures/1.md"
   schedule:
     # Run periodically to catch breakage caused by external changes.
     - cron: "0 3 * * WED"
@@ -64,7 +64,7 @@ jobs:
 
       matrix:
         file:
-          - name: content/categories/staff/moderation/_topics/moderator-instructions/1.md
+          - name: content/categories/staff/moderation/_topics/moderation-procedures/1.md
             maxdepth: 3
 
     steps:
