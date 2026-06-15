@@ -11,7 +11,6 @@
 ## Related
 
 - [Forum topic for related discussion](https://forum.arduino.cc/t/discussion-re-moderator-documentation-content/852461) (private)
-- https://forum.arduino.cc/t/moderation-guidelines/54905 (private)
 - https://forum.arduino.cc/t/draft-proposal-for-moderator-documentation/623114 (private)
 - https://meta.discourse.org/t/discourse-moderation-guide/63116
 - https://forum.arduino.cc/t/about-user-account-deletion-and-user-content-deletion/627095 (private)
