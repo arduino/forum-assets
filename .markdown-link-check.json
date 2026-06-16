@@ -96,9 +96,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/moved/1087950$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/duplicate-topic-locked/1087958$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/topic-split-from-another-topic/1087951$"
     },
     {
