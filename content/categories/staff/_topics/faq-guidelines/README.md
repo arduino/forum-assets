@@ -1,6 +1,8 @@
 # FAQ/Guidelines
 
-This content is accessed via [the "FAQ" link](https://forum.arduino.cc/faq) at the top of the forum.
+This content is accessed via the "**FAQ**" link at the top of the forum, which leads to the rendered content here:
+
+https://forum.arduino.cc/guidelines
 
 It is also recommended to new users as the "community guidelines" in a message shown on the post composer pane during their first two posts:
 
@@ -12,15 +14,12 @@ It is also recommended to new users as the "community guidelines" in a message s
 >
 > For more, see our [community guidelines](https://forum.arduino.cc/guidelines). This panel will only appear for your first 2 posts.
 
-The stock document is provided as part of the Discourse instance and is not Arduino-specific in any way.
-
 ## Published At
 
 - https://forum.arduino.cc/t/faq-guidelines/5
 
 ## Related
 
-- Page as rendered to users: https://forum.arduino.cc/faq
 - https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966
 - https://meta.discourse.org/t/discourse-new-user-guide/96331
 - Upstream source: https://github.com/discourse/discourse/blob/main/config/locales/server.en.yml (in the `en.guidelines_topic` mapping)
