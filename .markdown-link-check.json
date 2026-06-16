@@ -54,6 +54,18 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/moderation-guidelines/54905$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-deutsch-category/1087953$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-espanol-category/1087954$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-francais-category/1087946$"
+    },
+    {
+      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-italiano-category/1087955$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-nederlands-category/1343756$"
     },
     {
@@ -78,9 +90,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/start-here-install-guide-faq/366571$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-spanish-section/1087954$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/unhelpful-or-pointless-post/1087945$"
     },
     {
@@ -96,9 +105,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/topic-split-from-another-topic/1087951$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-french-section/1087946$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-templates-category/1087943$"
     },
     {
@@ -106,12 +112,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-merged/1087959$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-italian-section/1087955$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-german-section/1087953$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-user-account-deletion-and-user-content-deletion/627095"
