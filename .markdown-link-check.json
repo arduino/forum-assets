@@ -84,13 +84,10 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/unhelpful-or-pointless-post/1087945$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/duplicate-topic-deleted/1087957$"
+      "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-deleted/1087957$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account-italian/1087962$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/getting-to-tl-so-you-can-post-images-etc/1087956$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved/1087950$"
@@ -108,7 +105,7 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account/1087963$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/duplicate-topics-merged/1087959$"
+      "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-merged/1087959$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved-to-italian-section/1087955$"
