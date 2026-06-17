@@ -96,9 +96,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-deleted/1087957$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account-italian/1087962$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/moved/1087950$"
     },
     {
@@ -106,9 +103,6 @@
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/about-the-templates-category/1087943$"
-    },
-    {
-      "pattern": "^https://forum\\.arduino\\.cc/t/request-to-delete-your-account/1087963$"
     },
     {
       "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-merged/1087959$"
