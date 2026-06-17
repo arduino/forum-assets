@@ -90,9 +90,6 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/start-here-install-guide-faq/366571$"
     },
     {
-      "pattern": "^https://forum\\.arduino\\.cc/t/unhelpful-or-pointless-post/1087945$"
-    },
-    {
       "pattern": "^https://forum\\.arduino\\.cc/t/crosspost-deleted/1087957$"
     },
     {
