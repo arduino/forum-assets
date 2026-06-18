@@ -123,6 +123,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/draft-proposal-for-moderator-documentation/623114$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/principles-of-moderation/1448907$"
+    },
+    {
       "pattern": "^https://support\\.arduino\\.cc/hc"
     }
   ],
