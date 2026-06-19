@@ -129,7 +129,7 @@
       "pattern": "^https://support\\.arduino\\.cc/hc"
     }
   ],
-  "retryOn429": true,
+  "retryOn429": false,
   "retryCount": 3,
-  "aliveStatusCodes": [200, 206]
+  "aliveStatusCodes": [200, 206, 429]
 }
