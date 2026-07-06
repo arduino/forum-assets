@@ -123,6 +123,7 @@
   - Education
   - Project Hub
   - Groups and Events
+    - Embodied Intelligence & Robotics Developer Contest
   - Bar Sport
   - Jobs and Paid Consultancy
   - Products and Services
