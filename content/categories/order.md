@@ -20,6 +20,7 @@
 - Official Hardware
   - Accessories
     - Bughopper
+    - USB Camera
   - Classic
     - Leonardo
     - Micro
