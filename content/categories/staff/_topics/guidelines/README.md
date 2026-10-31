@@ -1,6 +1,6 @@
-# FAQ/Guidelines
+# Guidelines
 
-This content is accessed via the "**FAQ**" link at the top of the forum, which leads to the rendered content here:
+This content is accessed via the "**Guidelines**" link at the top of the forum, which leads to the rendered content here:
 
 https://forum.arduino.cc/guidelines
 
@@ -16,7 +16,7 @@ It is also recommended to new users as the "community guidelines" in a message s
 
 ## Published At
 
-- https://forum.arduino.cc/t/faq-guidelines/5
+- https://forum.arduino.cc/t/guidelines/5
 
 ## Related
 
