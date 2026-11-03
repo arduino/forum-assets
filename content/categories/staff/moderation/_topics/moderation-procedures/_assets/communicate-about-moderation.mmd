@@ -1,0 +1,37 @@
+---
+config:
+  flowchart:
+    curve: monotoneY
+  layout: dagre
+  look: classic
+  theme: base
+  themeVariables:
+    clusterBkg: '#ffffff'
+    edgeLabelBackground: '#ffffff'
+    lineColor: '#000000'
+    primaryBorderColor: '#000000'
+    primaryColor: '#f0f0f0'
+    primaryTextColor: '#000000'
+---
+
+flowchart TB
+  subgraph main[" "]
+    direction TB
+
+
+    flag{"Action performed via flag?"}
+    flag -- "Yes" --> notificationSufficient
+    notificationSufficient{"Flag notification is sufficient?"}
+    notificationSufficient -- "Yes" ---> noCommunication
+    noCommunication[["Communication not required"]]
+
+    notificationSufficient -- "No" --> subjectTopic
+    subjectTopic{"Is there a subject topic?"}
+    subjectTopic -- "Yes" --> reply
+    reply[["Communicate via reply"]]
+
+    subjectTopic -- "No" --> dm
+    dm[["Communicate via DM"]]
+
+    flag -- "No" --> subjectTopic
+  end

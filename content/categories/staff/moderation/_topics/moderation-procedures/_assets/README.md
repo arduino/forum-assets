@@ -1,5 +1,9 @@
 # Assets for "Moderation Procedures" topic
 
+## `communicate-about-moderation.mmd`
+
+This is the [**Mermaid**](https://mermaid.js.org/) source file for the "**Communicate about moderation**" workflow chart. Image is generated using [**mermaid-cli**](https://github.com/mermaid-js/mermaid-cli).
+
 ## `content-deletion-handling-overview.mmd`
 
 This is the [**Mermaid**](https://mermaid.js.org/) source file for the "**Content deletion handling overview**" workflow chart. Image is generated using [**mermaid-cli**](https://github.com/mermaid-js/mermaid-cli).
