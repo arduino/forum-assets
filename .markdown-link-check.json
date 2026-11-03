@@ -69,6 +69,9 @@
       "pattern": "^https://forum\\.arduino\\.cc/t/obtain-content-deletion-reason/1329584$"
     },
     {
+      "pattern": "^https://forum\\.arduino\\.cc/t/pointless-post-deleted/1466329$"
+    },
+    {
       "pattern": "^https://forum\\.arduino\\.cc/t/post-ownership-has-been-transferred/1329586$"
     },
     {
